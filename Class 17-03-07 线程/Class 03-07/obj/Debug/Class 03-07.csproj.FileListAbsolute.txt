@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07\bin\Debug\Class 03-07.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07\bin\Debug\Class 03-07.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07\bin\Debug\Class 03-07.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07\obj\Debug\Class 03-07.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07\obj\Debug\Class 03-07.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07\obj\Debug\Class 03-07.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07\obj\Debug\Class_03_07.FrmPlay.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07\obj\Debug\Class 03-07.csproj.GenerateResource.Cache
+E:\c#\Class 17-03-07 线程\Class 03-07\bin\Debug\Class 03-07.exe.config
+E:\c#\Class 17-03-07 线程\Class 03-07\obj\Debug\Class 03-07.exe
+E:\c#\Class 17-03-07 线程\Class 03-07\obj\Debug\Class 03-07.pdb
+E:\c#\Class 17-03-07 线程\Class 03-07\bin\Debug\Class 03-07.exe
+E:\c#\Class 17-03-07 线程\Class 03-07\bin\Debug\Class 03-07.pdb
+E:\c#\Class 17-03-07 线程\Class 03-07\obj\Debug\Class 03-07.csprojResolveAssemblyReference.cache

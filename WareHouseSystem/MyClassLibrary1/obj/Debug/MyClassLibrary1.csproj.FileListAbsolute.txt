@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\WareHouseSystem\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll
+C:\Users\Administrator\Desktop\WareHouseSystem\MyClassLibrary1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\Administrator\Desktop\WareHouseSystem\MyClassLibrary1\obj\Debug\MyClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WareHouseSystem\MyClassLibrary1\obj\Debug\MyClassLibrary1.dll
+C:\Users\Administrator\Desktop\WareHouseSystem\MyClassLibrary1\obj\Debug\MyClassLibrary1.pdb
+C:\Users\13695\Desktop\WareHouseSystem\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll
+C:\Users\13695\Desktop\WareHouseSystem\MyClassLibrary1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\13695\Desktop\WareHouseSystem\MyClassLibrary1\obj\Debug\MyClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\WareHouseSystem\MyClassLibrary1\obj\Debug\MyClassLibrary1.dll
+C:\Users\13695\Desktop\WareHouseSystem\MyClassLibrary1\obj\Debug\MyClassLibrary1.pdb

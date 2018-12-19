@@ -1,0 +1,12 @@
+c:\users\13695\documents\visual studio 2015\Projects\Homework 11-23\Homework 11-23\bin\Debug\Homework 11-23.exe.config
+c:\users\13695\documents\visual studio 2015\Projects\Homework 11-23\Homework 11-23\bin\Debug\Homework 11-23.exe
+c:\users\13695\documents\visual studio 2015\Projects\Homework 11-23\Homework 11-23\bin\Debug\Homework 11-23.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Homework 11-23\Homework 11-23\obj\Debug\Homework 11-23.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\Homework 11-23\Homework 11-23\obj\Debug\Homework 11-23.exe
+c:\users\13695\documents\visual studio 2015\Projects\Homework 11-23\Homework 11-23\obj\Debug\Homework 11-23.pdb
+C:\Users\Administrator\Desktop\Homework 11-23\Homework 11-23\bin\Debug\Homework 11-23.exe.config
+C:\Users\Administrator\Desktop\Homework 11-23\Homework 11-23\obj\Debug\Homework 11-23.exe
+C:\Users\Administrator\Desktop\Homework 11-23\Homework 11-23\obj\Debug\Homework 11-23.pdb
+C:\Users\Administrator\Desktop\Homework 11-23\Homework 11-23\bin\Debug\Homework 11-23.exe
+C:\Users\Administrator\Desktop\Homework 11-23\Homework 11-23\bin\Debug\Homework 11-23.pdb
+C:\Users\Administrator\Desktop\Homework 11-23\Homework 11-23\obj\Debug\Homework 11-23.csprojResolveAssemblyReference.cache

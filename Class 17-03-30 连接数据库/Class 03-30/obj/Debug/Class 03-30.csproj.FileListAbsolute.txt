@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\bin\Debug\Class 03-30.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\bin\Debug\Class 03-30.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\bin\Debug\Class 03-30.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\obj\Debug\Class 03-30.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\obj\Debug\Class_03_30.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\obj\Debug\Class_03_30.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\obj\Debug\Class 03-30.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\obj\Debug\Class 03-30.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-30\Class 03-30\obj\Debug\Class 03-30.pdb
+E:\c#\Class 17-03-30 连接数据库\Class 03-30\bin\Debug\Class 03-30.exe.config
+E:\c#\Class 17-03-30 连接数据库\Class 03-30\obj\Debug\Class 03-30.exe
+E:\c#\Class 17-03-30 连接数据库\Class 03-30\obj\Debug\Class 03-30.pdb

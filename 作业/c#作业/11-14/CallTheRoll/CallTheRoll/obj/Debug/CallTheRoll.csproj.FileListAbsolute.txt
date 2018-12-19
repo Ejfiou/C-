@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CallTheRoll\CallTheRoll\bin\Debug\CallTheRoll.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\CallTheRoll\CallTheRoll\bin\Debug\CallTheRoll.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CallTheRoll\CallTheRoll\bin\Debug\CallTheRoll.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CallTheRoll\CallTheRoll\obj\Debug\CallTheRoll.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\CallTheRoll\CallTheRoll\obj\Debug\CallTheRoll.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CallTheRoll\CallTheRoll\obj\Debug\CallTheRoll.pdb
+E:\c#作业\11-14\CallTheRoll\CallTheRoll\bin\Debug\CallTheRoll.exe.config
+E:\c#作业\11-14\CallTheRoll\CallTheRoll\obj\Debug\CallTheRoll.exe
+E:\c#作业\11-14\CallTheRoll\CallTheRoll\obj\Debug\CallTheRoll.pdb

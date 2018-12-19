@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-29\Class 12-29\bin\Debug\Class 12-29.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-29\Class 12-29\bin\Debug\Class 12-29.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-29\Class 12-29\bin\Debug\Class 12-29.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-29\Class 12-29\obj\Debug\Class 12-29.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-29\Class 12-29\obj\Debug\Class 12-29.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-29\Class 12-29\obj\Debug\Class 12-29.pdb
+G:\课堂做的\Class 12-29 ArrayList Hashtable\Class 12-29\bin\Debug\Class 12-29.exe.config
+G:\课堂做的\Class 12-29 ArrayList Hashtable\Class 12-29\obj\Debug\Class 12-29.exe
+G:\课堂做的\Class 12-29 ArrayList Hashtable\Class 12-29\obj\Debug\Class 12-29.pdb
+E:\c#\Class 16-12-29 ArrayList Hashtable\Class 12-29\bin\Debug\Class 12-29.exe.config
+E:\c#\Class 16-12-29 ArrayList Hashtable\Class 12-29\obj\Debug\Class 12-29.exe
+E:\c#\Class 16-12-29 ArrayList Hashtable\Class 12-29\obj\Debug\Class 12-29.pdb
+E:\c#\Class 16-12-29 ArrayList Hashtable\Class 12-29\bin\Debug\Class 12-29.exe
+E:\c#\Class 16-12-29 ArrayList Hashtable\Class 12-29\bin\Debug\Class 12-29.pdb
+E:\c#\Class 16-12-29 ArrayList Hashtable\Class 12-29\obj\Debug\Class 12-29.csprojResolveAssemblyReference.cache

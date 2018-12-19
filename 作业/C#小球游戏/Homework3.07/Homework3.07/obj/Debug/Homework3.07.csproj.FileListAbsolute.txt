@@ -1,0 +1,18 @@
+E:\vs project\Homework3.07\Homework3.07\bin\Debug\Homework3.07.exe.config
+E:\vs project\Homework3.07\Homework3.07\bin\Debug\Homework3.07.exe
+E:\vs project\Homework3.07\Homework3.07\bin\Debug\Homework3.07.pdb
+E:\vs project\Homework3.07\Homework3.07\obj\Debug\Homework3.07.csprojResolveAssemblyReference.cache
+E:\vs project\Homework3.07\Homework3.07\obj\Debug\Homework3._07.Form1.resources
+E:\vs project\Homework3.07\Homework3.07\obj\Debug\Homework3._07.Properties.Resources.resources
+E:\vs project\Homework3.07\Homework3.07\obj\Debug\Homework3.07.csproj.GenerateResource.Cache
+E:\vs project\Homework3.07\Homework3.07\obj\Debug\Homework3.07.exe
+E:\vs project\Homework3.07\Homework3.07\obj\Debug\Homework3.07.pdb
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\bin\Debug\Homework3.07.exe.config
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\obj\Debug\Homework3.07.exe
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\obj\Debug\Homework3.07.pdb
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\bin\Debug\Homework3.07.exe
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\bin\Debug\Homework3.07.pdb
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\obj\Debug\Homework3.07.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\obj\Debug\Homework3._07.Form1.resources
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\obj\Debug\Homework3._07.Properties.Resources.resources
+C:\Users\13695\Desktop\Homework3.07\Homework3.07\obj\Debug\Homework3.07.csproj.GenerateResource.Cache

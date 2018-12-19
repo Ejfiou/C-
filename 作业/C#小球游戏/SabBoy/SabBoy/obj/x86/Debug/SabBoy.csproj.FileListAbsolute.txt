@@ -1,0 +1,17 @@
+F:\My works\SabBoy\SabBoy\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My works\SabBoy\SabBoy\obj\x86\Debug\SabBoy.SabBoy.resources
+F:\My works\SabBoy\SabBoy\obj\x86\Debug\SabBoy.Properties.Resources.resources
+F:\My works\SabBoy\SabBoy\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\My works\SabBoy\SabBoy\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\My works\SabBoy\SabBoy\bin\Debug\SabBoy.exe
+F:\My works\SabBoy\SabBoy\bin\Debug\SabBoy.pdb
+F:\My works\SabBoy\SabBoy\obj\x86\Debug\SabBoy.exe
+F:\My works\SabBoy\SabBoy\obj\x86\Debug\SabBoy.pdb
+C:\Users\13695\Desktop\SabBoy\SabBoy\obj\x86\Debug\SabBoy.exe
+C:\Users\13695\Desktop\SabBoy\SabBoy\obj\x86\Debug\SabBoy.pdb
+C:\Users\13695\Desktop\SabBoy\SabBoy\bin\Debug\SabBoy.exe
+C:\Users\13695\Desktop\SabBoy\SabBoy\bin\Debug\SabBoy.pdb
+C:\Users\13695\Desktop\SabBoy\SabBoy\obj\x86\Debug\SabBoy.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\SabBoy\SabBoy\obj\x86\Debug\SabBoy.SabBoy.resources
+C:\Users\13695\Desktop\SabBoy\SabBoy\obj\x86\Debug\SabBoy.Properties.Resources.resources
+C:\Users\13695\Desktop\SabBoy\SabBoy\obj\x86\Debug\SabBoy.csproj.GenerateResource.Cache

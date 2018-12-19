@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Homework01\Homework01\bin\Debug\Homework01.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Homework01\Homework01\obj\Debug\Homework01.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Homework01\Homework01\bin\Debug\Homework01.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Homework01\Homework01\bin\Debug\Homework01.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Homework01\Homework01\obj\Debug\Homework01.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Homework01\Homework01\obj\Debug\Homework01.pdb
+G:\c#作业\Homework01\Homework01\bin\Debug\Homework01.exe.config
+G:\c#作业\Homework01\Homework01\obj\Debug\Homework01.exe
+G:\c#作业\Homework01\Homework01\obj\Debug\Homework01.pdb
+E:\c#作业\Homework01 11-2\Homework01\bin\Debug\Homework01.exe.config
+E:\c#作业\Homework01 11-2\Homework01\obj\Debug\Homework01.exe
+E:\c#作业\Homework01 11-2\Homework01\obj\Debug\Homework01.pdb

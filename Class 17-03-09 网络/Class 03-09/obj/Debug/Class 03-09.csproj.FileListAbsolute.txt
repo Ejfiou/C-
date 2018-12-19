@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\bin\Debug\Class 03-09.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\bin\Debug\Class 03-09.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\bin\Debug\Class 03-09.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\obj\Debug\Class 03-09.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\obj\Debug\Class_03_09.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\obj\Debug\Class_03_09.FrmClient.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\obj\Debug\Class_03_09.FrmServer.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\obj\Debug\Class_03_09.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\obj\Debug\Class 03-09.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\obj\Debug\Class 03-09.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-09\Class 03-09\obj\Debug\Class 03-09.pdb
+E:\c#\Class 17-03-09 网络\Class 03-09\bin\Debug\Class 03-09.exe.config
+E:\c#\Class 17-03-09 网络\Class 03-09\obj\Debug\Class 03-09.exe
+E:\c#\Class 17-03-09 网络\Class 03-09\obj\Debug\Class 03-09.pdb

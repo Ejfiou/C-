@@ -1,0 +1,5 @@
+E:\c#\MySchool  不同层实现\ViewModel\bin\Debug\ViewModel.dll
+E:\c#\MySchool  不同层实现\ViewModel\bin\Debug\ViewModel.pdb
+E:\c#\MySchool  不同层实现\ViewModel\obj\Debug\ViewModel.dll
+E:\c#\MySchool  不同层实现\ViewModel\obj\Debug\ViewModel.pdb
+E:\c#\MySchool  不同层实现\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.exe
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.pdb
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\bin\Debug\仓库管理系统.exe
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\bin\Debug\仓库管理系统.pdb
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.detail.resources
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.Form1.resources
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.IM.resources
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.manform.resources
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.mine.resources
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.Properties.Resources.resources
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.sn.resources
+C:\Users\13695\Desktop\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.csproj.GenerateResource.Cache
+E:\c#\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.exe
+E:\c#\仓库管理系统\仓库管理系统\obj\Debug\仓库管理系统.pdb

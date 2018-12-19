@@ -1,0 +1,40 @@
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\WinForms.exe.config
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\WinForms.exe
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\WinForms.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\BLL.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\Model.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\DALMSSQL.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\BLL.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\Model.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\bin\Debug\DALMSSQL.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\obj\Debug\MySchool.WinForms.FrmLogin.resources
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\obj\Debug\MySchool.WinForms.Properties.Resources.resources
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\obj\Debug\WinForms.exe
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\obj\Debug\WinForms.pdb
+C:\Users\13695\documents\visual studio 2015\Projects\MySchool\WinForms\obj\Debug\MySchool.WinForms.FrmSubject.resources
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\WinForms.exe.config
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\WinForms.exe
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\WinForms.pdb
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.FrmLogin.resources
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.FrmSubject.resources
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.Properties.Resources.resources
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\WinForms.exe
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\WinForms.pdb
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\BLL.dll
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\Model.dll
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\DALMSSQL.dll
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\BLL.pdb
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\Model.pdb
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\DALMSSQL.pdb
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.FrmTeacher.resources
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\ViewModel.dll
+E:\c#\MySchool  不同层实现\WinForms\bin\Debug\ViewModel.pdb
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.FrmWaiting.resources
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.FrmTeacherAdd.resources
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.FrmTeacherModify.resources
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.FrmTeacherRemove.resources
+E:\c#\MySchool  不同层实现\WinForms\obj\Debug\MySchool.WinForms.FrmPasswordModify.resources

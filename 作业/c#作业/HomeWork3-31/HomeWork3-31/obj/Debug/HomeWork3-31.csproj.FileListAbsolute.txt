@@ -1,0 +1,16 @@
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\bin\Debug\HomeWork3-31.exe.config
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\bin\Debug\HomeWork3-31.exe
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\bin\Debug\HomeWork3-31.pdb
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3-31.csprojResolveAssemblyReference.cache
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3_31.FemInsert.resources
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3_31.Form1.resources
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3_31.Properties.Resources.resources
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3-31.csproj.GenerateResource.Cache
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3-31.exe
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3-31.pdb
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3_31.FrmDelete.resources
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3_31.FrmUpdate.resources
+C:\Users\lzs\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3_31.FrmSelect.resources
+C:\Users\13695\Desktop\HomeWork3-31\HomeWork3-31\bin\Debug\HomeWork3-31.exe.config
+C:\Users\13695\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3-31.exe
+C:\Users\13695\Desktop\HomeWork3-31\HomeWork3-31\obj\Debug\HomeWork3-31.pdb

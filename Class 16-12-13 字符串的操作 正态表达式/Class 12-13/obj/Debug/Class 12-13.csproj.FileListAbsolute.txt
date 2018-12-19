@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-13\Class 12-13\bin\Debug\Class 12-13.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-13\Class 12-13\bin\Debug\Class 12-13.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-13\Class 12-13\bin\Debug\Class 12-13.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-13\Class 12-13\obj\Debug\Class 12-13.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-13\Class 12-13\obj\Debug\Class 12-13.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-13\Class 12-13\obj\Debug\Class 12-13.pdb
+E:\c#\Class 16-12-13 字符串的操作 正态表达式\Class 12-13\bin\Debug\Class 12-13.exe.config
+E:\c#\Class 16-12-13 字符串的操作 正态表达式\Class 12-13\obj\Debug\Class 12-13.exe
+E:\c#\Class 16-12-13 字符串的操作 正态表达式\Class 12-13\obj\Debug\Class 12-13.pdb
+E:\c#\Class 16-12-13 字符串的操作 正态表达式\Class 12-13\bin\Debug\Class 12-13.exe
+E:\c#\Class 16-12-13 字符串的操作 正态表达式\Class 12-13\bin\Debug\Class 12-13.pdb
+E:\c#\Class 16-12-13 字符串的操作 正态表达式\Class 12-13\obj\Debug\Class 12-13.csprojResolveAssemblyReference.cache

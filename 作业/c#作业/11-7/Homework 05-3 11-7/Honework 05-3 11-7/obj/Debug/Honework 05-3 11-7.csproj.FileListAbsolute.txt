@@ -1,0 +1,9 @@
+c:\users\13695\documents\visual studio 2015\Projects\Honework 05-3 11-7\Honework 05-3 11-7\bin\Debug\Honework 05-3 11-7.exe.config
+c:\users\13695\documents\visual studio 2015\Projects\Honework 05-3 11-7\Honework 05-3 11-7\bin\Debug\Honework 05-3 11-7.exe
+c:\users\13695\documents\visual studio 2015\Projects\Honework 05-3 11-7\Honework 05-3 11-7\bin\Debug\Honework 05-3 11-7.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Honework 05-3 11-7\Honework 05-3 11-7\obj\Debug\Honework 05-3 11-7.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\Honework 05-3 11-7\Honework 05-3 11-7\obj\Debug\Honework 05-3 11-7.exe
+c:\users\13695\documents\visual studio 2015\Projects\Honework 05-3 11-7\Honework 05-3 11-7\obj\Debug\Honework 05-3 11-7.pdb
+E:\c#作业\11-7\Homework 05-3 11-7\Honework 05-3 11-7\bin\Debug\Honework 05-3 11-7.exe.config
+E:\c#作业\11-7\Homework 05-3 11-7\Honework 05-3 11-7\obj\Debug\Honework 05-3 11-7.exe
+E:\c#作业\11-7\Homework 05-3 11-7\Honework 05-3 11-7\obj\Debug\Honework 05-3 11-7.pdb

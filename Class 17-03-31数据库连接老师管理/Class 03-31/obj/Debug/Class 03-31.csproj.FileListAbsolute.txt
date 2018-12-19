@@ -1,0 +1,28 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\bin\Debug\Class 03-31.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\bin\Debug\Class 03-31.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\bin\Debug\Class 03-31.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class_03_31.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class_03_31.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class 03-31.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class 03-31.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class 03-31.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class 03-31.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class_03_31.FrmTeacherAdd.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class_03_31.FrmTeacherQuery.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class_03_31.FrmWaiting.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class_03_31.FrmTeacherModify.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 03-31\Class 03-31\obj\Debug\Class_03_31.FrmTeacherRemove.resources
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\bin\Debug\Class 03-31.exe.config
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class 03-31.exe
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class 03-31.pdb
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\bin\Debug\Class 03-31.exe
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\bin\Debug\Class 03-31.pdb
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class 03-31.csprojResolveAssemblyReference.cache
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class_03_31.Form1.resources
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class_03_31.FrmTeacherAdd.resources
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class_03_31.FrmTeacherModify.resources
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class_03_31.FrmTeacherQuery.resources
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class_03_31.FrmTeacherRemove.resources
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class_03_31.FrmWaiting.resources
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class_03_31.Properties.Resources.resources
+E:\c#\Class 17-03-31数据库连接老师管理\Class 03-31\obj\Debug\Class 03-31.csproj.GenerateResource.Cache

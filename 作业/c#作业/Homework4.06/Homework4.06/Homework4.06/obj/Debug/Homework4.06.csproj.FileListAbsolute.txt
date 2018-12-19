@@ -1,0 +1,57 @@
+E:\VS project\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe.config
+E:\VS project\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe
+E:\VS project\Homework4.06\Homework4.06\bin\Debug\Homework4.06.pdb
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4.06.csprojResolveAssemblyReference.cache
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4._06.Form1.resources
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmInsert.resources
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4._06.Properties.Resources.resources
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4.06.csproj.GenerateResource.Cache
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4.06.exe
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4.06.pdb
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmDelect.resources
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmUpdate.resources
+E:\VS project\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmUpdatePassword.resources
+H:\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe.config
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.exe
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.pdb
+H:\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe
+H:\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.pdb
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.csprojResolveAssemblyReference.cache
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmDelect.resources
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmInsert.resources
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmUpdate.resources
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmUpdatePassword.resources
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.Properties.Resources.resources
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.csproj.GenerateResource.Cache
+H:\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmStudentMain.resources
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe.config
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.exe
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.pdb
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.pdb
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmStudentMain.resources
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmDelect.resources
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmInsert.resources
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmUpdate.resources
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmUpdatePassword.resources
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmWait.resources
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.Properties.Resources.resources
+C:\Users\13695\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.csproj.GenerateResource.Cache
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe.config
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.exe
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.pdb
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.pdb
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmStudentMain.resources
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmDelect.resources
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmInsert.resources
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmUpdate.resources
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmUpdatePassword.resources
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.FrmWait.resources
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4._06.Properties.Resources.resources
+C:\Users\13695\Desktop\Desktop\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.csproj.GenerateResource.Cache
+E:\c#作业\Homework4.06\Homework4.06\Homework4.06\bin\Debug\Homework4.06.exe.config
+E:\c#作业\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.exe
+E:\c#作业\Homework4.06\Homework4.06\Homework4.06\obj\Debug\Homework4.06.pdb

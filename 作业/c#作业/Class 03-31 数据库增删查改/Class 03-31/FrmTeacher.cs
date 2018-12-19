@@ -1,0 +1,118 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+namespace Class_03_31
+{
+    public partial class FrmTeacher : Form
+    {
+        public FrmTeacher()
+        {
+            InitializeComponent();
+        }
+
+        private string strCon = @"server=DEEP-20161031OJ;database=MySchool;uid=sa;password=123";
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            string teacherGUID = Guid.NewGuid().ToString();
+            //MessageBox.Show(teacherGUID);
+            string logInId = this.txtUserName.Text.Trim();
+            string loginPwd = "12345";
+            int userStateId = 1;
+            string teacherName = this.txtTeachName.Text.Trim();
+            string sex = this.rdoMale.Checked ? this.rdoMale.Text : this.rdoFemale.Text;
+            DateTime birthday = Convert.ToDateTime(this.txtBirthday.Text.Trim());
+            string subjectName = this.cboSubject.Text;
+            string SubjectGuid = null;
+
+
+            string strSQL = "Select SubjectGuid from Subject where SubjectName=@subjectName";
+
+            using (SqlConnection con = new SqlConnection(strCon))
+            {
+                SqlCommand cmd = new SqlCommand(strSQL, con);
+                cmd.Parameters.AddWithValue("@subjectName", subjectName);
+
+                con.Open();
+
+                SqlDataReader reader = cmd.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    SubjectGuid = reader.GetString(reader.GetOrdinal("SubjectGuid"));
+                }
+
+                reader.Close();
+
+                con.Close();
+            }
+
+            strSQL = "insert into Teacher(TeacherGUID,LoginID,LogInPwd,UserStateID,TeacherName,sex,birthday,subjectGuid) values(@TeacherGUID,@LoginID,@LogInPwd,@UserStateID,@TeacherName,@sex,@birthday,@subjectGuid)";
+            using (SqlConnection con = new SqlConnection(strCon))
+            {
+                SqlCommand cmd = new SqlCommand(strSQL, con);
+                cmd.Parameters.AddWithValue("@TeacherGUID", teacherGUID);
+                cmd.Parameters.AddWithValue("@LoginID", logInId);
+                cmd.Parameters.AddWithValue("@LogInPwd", loginPwd);
+                cmd.Parameters.AddWithValue("@UserStateID", userStateId);
+                cmd.Parameters.AddWithValue("@TeacherName", teacherName);
+                cmd.Parameters.AddWithValue("@sex", sex);
+                cmd.Parameters.AddWithValue("@birthday", birthday);
+                cmd.Parameters.AddWithValue("@subjectGuid", SubjectGuid);
+
+
+                con.Open();
+
+                int rows = cmd.ExecuteNonQuery();
+
+                con.Close();
+
+                if (rows>0)
+                {
+                    MessageBox.Show("操作成功！");
+                }
+                else
+                {
+                    MessageBox.Show("操作失败！");
+
+                }
+            }
+
+
+        }
+
+        private void FrmTeacher_Load(object sender, EventArgs e)
+        {
+            
+            string strSQL = "Select SubjectName from Subject";
+
+            using (SqlConnection con = new SqlConnection(strCon))
+            {
+                SqlCommand cmd = new SqlCommand(strSQL, con);
+                con.Open();
+
+                SqlDataReader reader = cmd.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    string subjectName = reader.GetString(reader.GetOrdinal("subjectName"));
+
+                    this.cboSubject.Items.Add(subjectName);
+                }
+
+                reader.Close();
+
+                con.Close();
+            }
+        }
+
+        
+    }
+}

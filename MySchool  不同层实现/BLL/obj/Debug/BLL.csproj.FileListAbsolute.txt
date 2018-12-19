@@ -1,0 +1,20 @@
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\bin\Debug\BLL.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\bin\Debug\BLL.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\bin\Debug\DALMSSQL.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\bin\Debug\Model.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\bin\Debug\DALMSSQL.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\bin\Debug\Model.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\obj\Debug\BLL.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\BLL\obj\Debug\BLL.pdb
+E:\c#\MySchool  不同层实现\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\c#\MySchool  不同层实现\BLL\obj\Debug\BLL.dll
+E:\c#\MySchool  不同层实现\BLL\obj\Debug\BLL.pdb
+E:\c#\MySchool  不同层实现\BLL\bin\Debug\BLL.dll
+E:\c#\MySchool  不同层实现\BLL\bin\Debug\BLL.pdb
+E:\c#\MySchool  不同层实现\BLL\bin\Debug\DALMSSQL.dll
+E:\c#\MySchool  不同层实现\BLL\bin\Debug\Model.dll
+E:\c#\MySchool  不同层实现\BLL\bin\Debug\DALMSSQL.pdb
+E:\c#\MySchool  不同层实现\BLL\bin\Debug\Model.pdb
+E:\c#\MySchool  不同层实现\BLL\bin\Debug\ViewModel.dll
+E:\c#\MySchool  不同层实现\BLL\bin\Debug\ViewModel.pdb

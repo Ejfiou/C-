@@ -1,0 +1,9 @@
+c:\users\13695\documents\visual studio 2015\Projects\Student\DALMSSQL\bin\Debug\DALMSSQL.dll
+c:\users\13695\documents\visual studio 2015\Projects\Student\DALMSSQL\bin\Debug\DALMSSQL.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Student\DALMSSQL\bin\Debug\ModelStu.dll
+c:\users\13695\documents\visual studio 2015\Projects\Student\DALMSSQL\bin\Debug\ModelStu.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Student\DALMSSQL\obj\Debug\DALMSSQL.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\Student\DALMSSQL\obj\Debug\DALMSSQL.dll
+c:\users\13695\documents\visual studio 2015\Projects\Student\DALMSSQL\obj\Debug\DALMSSQL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQL\bin\Debug\ModelStuView.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQL\bin\Debug\ModelStuView.pdb

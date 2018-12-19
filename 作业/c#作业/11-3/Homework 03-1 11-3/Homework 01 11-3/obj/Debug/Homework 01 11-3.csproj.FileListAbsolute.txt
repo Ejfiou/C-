@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Homework 01 11-3\Homework 01 11-3\bin\Debug\Homework 01 11-3.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Homework 01 11-3\Homework 01 11-3\bin\Debug\Homework 01 11-3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Homework 01 11-3\Homework 01 11-3\bin\Debug\Homework 01 11-3.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Homework 01 11-3\Homework 01 11-3\obj\Debug\Homework 01 11-3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Homework 01 11-3\Homework 01 11-3\obj\Debug\Homework 01 11-3.pdb
+E:\c#作业\11-3\Homework 03-1 11-3\Homework 01 11-3\bin\Debug\Homework 01 11-3.exe.config
+E:\c#作业\11-3\Homework 03-1 11-3\Homework 01 11-3\obj\Debug\Homework 01 11-3.exe
+E:\c#作业\11-3\Homework 03-1 11-3\Homework 01 11-3\obj\Debug\Homework 01 11-3.pdb

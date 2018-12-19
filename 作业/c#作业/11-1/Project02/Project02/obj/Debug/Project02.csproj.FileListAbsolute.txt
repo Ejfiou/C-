@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\Project02.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\Project02.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\Project02.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.pdb
+C:\Users\rain\Desktop\Project02\Project02\bin\Debug\Project02.exe.config
+C:\Users\rain\Desktop\Project02\Project02\obj\Debug\Project02.exe
+C:\Users\rain\Desktop\Project02\Project02\obj\Debug\Project02.pdb
+C:\Users\rain\Desktop\Project02\Project02\bin\Debug\Project02.exe
+C:\Users\rain\Desktop\Project02\Project02\bin\Debug\Project02.pdb
+C:\Users\rain\Desktop\Project02\Project02\obj\Debug\Project02.csprojResolveAssemblyReference.cache

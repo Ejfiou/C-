@@ -1,0 +1,14 @@
+C:\Users\tom\Desktop\MyWork\Teach\Teach\bin\Debug\Teach.exe.config
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\bin\Debug\Teach.exe.config
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\bin\Debug\Teach.exe
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\bin\Debug\Teach.pdb
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\obj\Debug\Teach.csprojResolveAssemblyReference.cache
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\obj\Debug\Teach.frmLogin.resources
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\obj\Debug\Teach.FrmTeach.resources
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\obj\Debug\Teach.Properties.Resources.resources
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\obj\Debug\Teach.csproj.GenerateResource.Cache
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\obj\Debug\Teach.exe
+D:\myWorkspace\C#\2017年\3-30连接数据库\Teach\Teach\obj\Debug\Teach.pdb
+E:\c#作业\Teach\Teach\bin\Debug\Teach.exe.config
+E:\c#作业\Teach\Teach\obj\Debug\Teach.exe
+E:\c#作业\Teach\Teach\obj\Debug\Teach.pdb

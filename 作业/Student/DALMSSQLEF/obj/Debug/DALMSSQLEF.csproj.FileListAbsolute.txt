@@ -1,0 +1,42 @@
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\DALMSSQLEF.dll
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\DALMSSQLEF.pdb
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\EntityFramework.dll
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\IDAL.dll
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\ModelStu.dll
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\ModelStuView.dll
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\IDAL.pdb
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\ModelStuView.pdb
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\ModelStu.pdb
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\EntityFramework.xml
+E:\C#课程\AAA\Student\DALMSSQLEF\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\C#课程\AAA\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.csprojResolveAssemblyReference.cache
+E:\C#课程\AAA\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.dll
+E:\C#课程\AAA\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\DALMSSQLEF.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\DALMSSQLEF.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\EntityFramework.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\IDAL.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\ModelStu.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\ModelStuView.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\IDAL.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\ModelStuView.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\EntityFramework.xml
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.csprojResolveAssemblyReference.cache
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\DALMSSQLEF.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\DALMSSQLEF.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\EntityFramework.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\IDAL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\ModelStu.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\ModelStuView.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\IDAL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\ModelStuView.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\EntityFramework.xml
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.csprojResolveAssemblyReference.cache
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMSSQLEF\obj\Debug\DALMSSQLEF.pdb

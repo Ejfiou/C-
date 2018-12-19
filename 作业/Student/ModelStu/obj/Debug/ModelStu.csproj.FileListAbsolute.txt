@@ -1,0 +1,35 @@
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\ModelStu.dll.config
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\ModelStu.dll
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\ModelStu.pdb
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\EntityFramework.dll
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\EntityFramework.xml
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\C#课程\AAA\Student\ModelStu\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\C#课程\AAA\Student\ModelStu\obj\Debug\ModelStu.csprojResolveAssemblyReference.cache
+E:\C#课程\AAA\Student\ModelStu\obj\Debug\ModelStu.dll
+E:\C#课程\AAA\Student\ModelStu\obj\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\ModelStu.dll.config
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\ModelStu.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\EntityFramework.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\EntityFramework.xml
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\obj\Debug\ModelStu.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\ModelStu\obj\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\ModelStu.dll.config
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\ModelStu.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\EntityFramework.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\EntityFramework.xml
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\obj\Debug\ModelStu.csprojResolveAssemblyReference.cache
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\obj\Debug\ModelStu.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\ModelStu\obj\Debug\ModelStu.pdb

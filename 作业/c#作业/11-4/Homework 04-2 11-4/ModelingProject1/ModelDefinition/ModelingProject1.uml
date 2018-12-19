@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner"
+  dslVersion="1.0.0.0"
+  Id="2e7ad569-4ed3-4f81-9863-8028213799ec"
+  name="ModelingProject1" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="79cb268c-b9d7-43ea-97d3-2c03b62b178e">
+      <body>
+ g = num % 10;
+ s = num / 10 % 10;
+</body>
+      <annotatedElements>
+        <opaqueActionMoniker
+          Id="d025c60e-3aca-47bc-8d9e-ed5f7a7908a5"
+          LastKnownName="将各个位的数分别提取存放于定义变量中"
+          LastKnownLocation="ModelingProject1.uml" />
+      </annotatedElements>
+    </comment>
+    <comment
+      Id="b09d42dd-d86d-4634-bb33-ce2570b92f7d">
+      <body>判断万位跟个位以及十位跟千位是否相等</body>
+      <annotatedElements>
+        <decisionNodeMoniker
+          Id="720a22b6-d472-4443-915a-dc88fbd814c2"
+          LastKnownName="Decision1"
+          LastKnownLocation="ModelingProject1.uml" />
+      </annotatedElements>
+    </comment>
+    <comment
+      Id="8e94d584-8ec4-45e4-847a-c859037b21da">
+      <body>存放于num</body>
+      <annotatedElements>
+        <opaqueActionMoniker
+          Id="401037c8-51dc-490a-b347-7d6b7b37aeb9"
+          LastKnownName="接收输入的数据"
+          LastKnownLocation="ModelingProject1.uml" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <activity
+        Id="a67d1b42-d162-441a-bc2a-73df409dc50a"
+        name="Activity1"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false"
+        isReentrant="false"
+        isReadOnly="false"
+        isSingleExecution="false">
+        <nodes>
+          <initialNode
+            Id="52c35950-f107-49d8-9a30-16e3a256ed8d"
+            name="Initial11"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="bbf20a82-1043-4c46-b789-0c9c5eadbc53"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="69f65c51-e110-4f47-9191-bed6abe8c0ab"
+                  LastKnownName="定义字符串变量str"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction
+            Id="6139849b-a9eb-4fa2-88af-515d74e31224"
+            name="输出提示信息"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="a8033a26-1f9e-4000-aa10-407436c2d0d1"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="401037c8-51dc-490a-b347-7d6b7b37aeb9"
+                  LastKnownName="接收输入的数据"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="401037c8-51dc-490a-b347-7d6b7b37aeb9"
+            name="接收输入的数据"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="3635a96d-8ca2-4f9b-abeb-98dfc339baed"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="0bbd9606-7ce8-4f99-93e0-af0096841c7b"
+                  LastKnownName="定义变量g,s,q,w"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="d025c60e-3aca-47bc-8d9e-ed5f7a7908a5"
+            name="将各个位的数分别提取存放于定义变量中"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="b6ae780b-2d01-45b3-a626-c40312f0ecfa"
+                isLeaf="false">
+                <decisionNodeMoniker
+                  Id="720a22b6-d472-4443-915a-dc88fbd814c2"
+                  LastKnownName="Decision1"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode
+            Id="720a22b6-d472-4443-915a-dc88fbd814c2"
+            name="Decision1"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="a13936af-190f-4288-af3e-9dfc7be77ece"
+                guard="是"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="adfbc4c3-f6a6-4bbd-9b60-bc43a5d303ff"
+                  LastKnownName="输出是对称数"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+              <controlFlow
+                Id="b1a6d2bf-f2e9-4a33-8bc9-75ec489c4155"
+                guard="否"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="4ac234a7-13b4-4c92-ab49-8845dee378e2"
+                  LastKnownName="输出不是对称数"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction
+            Id="adfbc4c3-f6a6-4bbd-9b60-bc43a5d303ff"
+            name="输出是对称数"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="4b45ebaa-aaf7-4133-8454-c3406808eab0"
+                isLeaf="false">
+                <mergeNodeMoniker
+                  Id="20ee2b47-252b-4e89-8dfd-05bbbe3d3966"
+                  LastKnownName="Merge1"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="4ac234a7-13b4-4c92-ab49-8845dee378e2"
+            name="输出不是对称数"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="bd7c03ae-7b0b-4683-850c-4c51b09dd5f8"
+                isLeaf="false">
+                <mergeNodeMoniker
+                  Id="20ee2b47-252b-4e89-8dfd-05bbbe3d3966"
+                  LastKnownName="Merge1"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <mergeNode
+            Id="20ee2b47-252b-4e89-8dfd-05bbbe3d3966"
+            name="Merge1"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="93edbbab-8dbf-4ffb-9981-9683d9b5b632"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="addcfcc5-2171-42ce-8ae3-4498c04cff9e"
+                  LastKnownName="输出提示信息（Y/N）"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </mergeNode>
+          <opaqueAction
+            Id="69f65c51-e110-4f47-9191-bed6abe8c0ab"
+            name="定义字符串变量str"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="b56650f9-f6ed-4ca2-8238-80e80fe11180"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="6139849b-a9eb-4fa2-88af-515d74e31224"
+                  LastKnownName="输出提示信息"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="0bbd9606-7ce8-4f99-93e0-af0096841c7b"
+            name="定义变量g,s,q,w"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="e277e40e-e1b7-4dc3-8446-e5bc6d78bae6"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="d025c60e-3aca-47bc-8d9e-ed5f7a7908a5"
+                  LastKnownName="将各个位的数分别提取存放于定义变量中"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="addcfcc5-2171-42ce-8ae3-4498c04cff9e"
+            name="输出提示信息（Y/N）"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="cd48cd4a-9190-4378-8c46-d81efff0e152"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="b23f4467-24ab-47d4-8aaf-ea0183770a27"
+                  LastKnownName="接收数据存放于str"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="b23f4467-24ab-47d4-8aaf-ea0183770a27"
+            name="接收数据存放于str"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="dd41e965-b4ba-45fa-be47-0d84dc4e1f38"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="08216eef-e11d-4d51-94b0-27d18d9f1a1a"
+                  LastKnownName="判断str是否等于y"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="08216eef-e11d-4d51-94b0-27d18d9f1a1a"
+            name="判断str是否等于y"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="660bc419-488b-4d4b-b289-59b41367741c"
+                isLeaf="false">
+                <decisionNodeMoniker
+                  Id="b3584b56-0e1c-42ce-9139-0d9e6d851a3b"
+                  LastKnownName="Decision2"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode
+            Id="b3584b56-0e1c-42ce-9139-0d9e6d851a3b"
+            name="Decision2"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="6166440b-b8cb-413e-b56f-8497a3b45747"
+                guard="等于"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="6139849b-a9eb-4fa2-88af-515d74e31224"
+                  LastKnownName="输出提示信息"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+              <controlFlow
+                Id="c3e8bf05-d499-45ae-88f5-c24af44444f9"
+                guard="不等于"
+                isLeaf="false">
+                <activityFinalNodeMoniker
+                  Id="1176e83c-cf7f-4f42-85c6-2a3acdf19efc"
+                  LastKnownName="ActivityFinal1"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <activityFinalNode
+            Id="1176e83c-cf7f-4f42-85c6-2a3acdf19efc"
+            name="ActivityFinal1"
+            isLeaf="false" />
+        </nodes>
+      </activity>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

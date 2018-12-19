@@ -1,0 +1,12 @@
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\bin\Debug\Class 04-10.exe.config
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\bin\Debug\Class 04-10.exe
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\bin\Debug\Class 04-10.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\obj\Debug\Class 04-10.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\obj\Debug\Class_04_10.Form1.resources
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\obj\Debug\Class_04_10.Properties.Resources.resources
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\obj\Debug\Class 04-10.csproj.GenerateResource.Cache
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\obj\Debug\Class 04-10.exe
+c:\users\13695\documents\visual studio 2015\Projects\Class 04-10\Class 04-10\obj\Debug\Class 04-10.pdb
+E:\c#\Class 17-04-10 Dataset和DataGridView\Class 04-10\bin\Debug\Class 04-10.exe.config
+E:\c#\Class 17-04-10 Dataset和DataGridView\Class 04-10\obj\Debug\Class 04-10.exe
+E:\c#\Class 17-04-10 Dataset和DataGridView\Class 04-10\obj\Debug\Class 04-10.pdb

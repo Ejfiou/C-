@@ -1,0 +1,31 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.pdb
+C:\Users\13695\Desktop\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.exe.config
+C:\Users\13695\Desktop\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.exe
+C:\Users\13695\Desktop\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.pdb
+C:\Users\13695\Desktop\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.exe
+C:\Users\13695\Desktop\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.pdb
+C:\Users\13695\Desktop\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.exe.config
+C:\Users\Administrator\Desktop\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.exe
+C:\Users\Administrator\Desktop\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.pdb
+C:\Users\Administrator\Desktop\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.exe
+C:\Users\Administrator\Desktop\WareHouseSystem\WareHouseSystem\bin\Debug\WareHouseSystem.pdb
+C:\Users\Administrator\Desktop\WareHouseSystem\WareHouseSystem\obj\Debug\WareHouseSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WareHouseSystem\WareHouseSystem\bin\Debug\MyClassLibrary1.dll
+C:\Users\Administrator\Desktop\WareHouseSystem\WareHouseSystem\bin\Debug\MyClassLibrary1.pdb
+C:\Users\Administrator\Desktop\WareHouse\WareHouseSystem\bin\Debug\WareHouseSystem.exe.config
+C:\Users\Administrator\Desktop\WareHouse\WareHouseSystem\obj\Debug\WareHouseSystem.exe
+C:\Users\Administrator\Desktop\WareHouse\WareHouseSystem\obj\Debug\WareHouseSystem.pdb
+H:\WareHouse\WareHouseSystem\bin\Debug\WareHouseSystem.exe.config
+H:\WareHouse\WareHouseSystem\obj\Debug\WareHouseSystem.exe
+H:\WareHouse\WareHouseSystem\obj\Debug\WareHouseSystem.pdb
+C:\Users\Administrator\Desktop\WareHouse\WareHouseSystem\bin\Debug\WareHouseSystem.exe
+C:\Users\Administrator\Desktop\WareHouse\WareHouseSystem\bin\Debug\WareHouseSystem.pdb
+C:\Users\Administrator\Desktop\WareHouse\WareHouseSystem\bin\Debug\MyClassLibrary1.dll
+C:\Users\Administrator\Desktop\WareHouse\WareHouseSystem\bin\Debug\MyClassLibrary1.pdb
+C:\Users\Administrator\Desktop\WareHouse\WareHouseSystem\obj\Debug\WareHouseSystem.csprojResolveAssemblyReference.cache

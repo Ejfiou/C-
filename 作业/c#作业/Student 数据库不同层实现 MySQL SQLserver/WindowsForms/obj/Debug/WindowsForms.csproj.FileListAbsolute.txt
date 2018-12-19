@@ -1,0 +1,50 @@
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\bin\Debug\WindowsForms.exe.config
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\Student.WindowsForms.FrmStuMain.resources
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\Student.WindowsForms.Properties.Resources.resources
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\bin\Debug\WindowsForms.exe
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\bin\Debug\WindowsForms.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\WindowsForms.exe
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\WindowsForms.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\bin\Debug\BLL.dll
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\bin\Debug\ModelStu.dll
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\bin\Debug\BLL.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\bin\Debug\ModelStu.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\Student.WindowsForms.FrmInsert.resources
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\Student.WindowsForms.FrmUpdata.resources
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\Student.WindowsForms.FrmDelete.resources
+c:\users\13695\documents\visual studio 2015\Projects\Student\WindowsForms\obj\Debug\Student.WindowsForms.FrmUpdatePassword.resources
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\WindowsForms\bin\Debug\ModelStuView.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\WindowsForms\bin\Debug\ModelStuView.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\WindowsForms\obj\Debug\Student.WindowsForms.FrmWaiting.resources
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\WindowsForms\bin\Debug\DALMySQL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\WindowsForms\bin\Debug\MySql.Data.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\WindowsForms\bin\Debug\DALMySQL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\WindowsForms\bin\Debug\MySql.Data.xml
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\WindowsForms\obj\Debug\Student.WindowsForms.FrmLogin.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\WindowsForms.exe
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\WindowsForms.pdb
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\WindowsForms.exe
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\BLL.dll
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\ModelStu.dll
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\ModelStuView.dll
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\DALMySQL.dll
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\MySql.Data.dll
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\BLL.pdb
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\ModelStuView.pdb
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\ModelStu.pdb
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\DALMySQL.pdb
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\bin\Debug\MySql.Data.xml
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\Student.WindowsForms.FrmDelete.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\Student.WindowsForms.FrmInsert.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\Student.WindowsForms.FrmLogin.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\Student.WindowsForms.FrmStuMain.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\Student.WindowsForms.FrmUpdata.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\Student.WindowsForms.FrmUpdatePassword.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\Student.WindowsForms.FrmWaiting.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\Student.WindowsForms.Properties.Resources.resources
+E:\c#作业\Student 数据库不同层实现 MySQL SQLserver\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache

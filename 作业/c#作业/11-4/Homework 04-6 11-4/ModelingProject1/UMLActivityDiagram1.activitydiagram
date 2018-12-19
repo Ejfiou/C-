@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityRootModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="659ae2fb-7e72-4852-8f63-170ab262bdb0" name="Activity1" linkedPackageId="a7c72aff-2c4d-4f3c-98bb-021cf4d19d07" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner">
+  <ownedCommentsInternal>
+    <comment Id="0e0069d2-a95f-471d-ad95-776dde0ada1f">
+      <elementDefinition Id="1ee7dc91-8ca8-4141-8eac-8e1828e76581" />
+      <body>string name = Console.ReadLine();</body>
+      <annotatedElements>
+        <opaqueActionMoniker Id="2ad9f13b-dd52-4b09-8534-46b0d62951ca" LastKnownName="接收输入数据" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="fccfd28b-c74f-4b1e-9423-953abc42845a">
+      <profileInstance Id="d5726276-4de4-4416-8808-a7d5563dd0a8" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="7e6ad844-6c93-4f1d-b02c-20268e1a52cd">
+      <profileInstance Id="8a649318-ce94-400b-b078-ae409bb9a0c0" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <activityRootModelHasActivity>
+      <activity Id="62d52455-0bd7-491b-9236-01d4ff7c6c84" name="Activity1" isAbstract="false" isLeaf="false" isActiveClass="false" isReentrant="false" isReadOnly="false" isSingleExecution="false">
+        <elementDefinition Id="b1955d40-2604-4a69-820d-3c97c1a5d9df" />
+        <nodes>
+          <initialNode Id="e4a784d2-0cd0-4238-a952-b093ae99299e" name="Initial1" isLeaf="false">
+            <elementDefinition Id="50fd430f-fe3d-4675-bc40-5747ebda0850" />
+            <flowNodeTargets>
+              <controlFlow Id="985d8969-efd4-48b2-a468-2cab0d8cbfdd" isLeaf="false">
+                <opaqueActionMoniker Id="c693d053-2598-40dd-8e2b-daed4c6b96ef" LastKnownName="定义str为字符串型" />
+                <elementDefinition Id="26cb3d6c-93e4-430b-9f11-f32215de1528" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction Id="d8ab07c0-0c4b-41f1-a75b-6253bad3a503" name="输出查询提示信息" isLeaf="false">
+            <elementDefinition Id="16fd17a9-d999-4887-af5d-11ec9cc6e4a2" />
+            <flowNodeTargets>
+              <controlFlow Id="da34c83d-679e-452d-89b1-550d728841ca" isLeaf="false">
+                <opaqueActionMoniker Id="2ad9f13b-dd52-4b09-8534-46b0d62951ca" LastKnownName="接收输入数据" />
+                <elementDefinition Id="2d525e08-e9ae-419a-95f7-255e78081b70" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="2ad9f13b-dd52-4b09-8534-46b0d62951ca" name="接收输入数据" isLeaf="false">
+            <elementDefinition Id="d18a52d0-1053-4b27-bd8e-422d45984175" />
+            <flowNodeTargets>
+              <controlFlow Id="745fd902-8f05-4b69-9b1e-360499968c86" isLeaf="false">
+                <opaqueActionMoniker Id="352a86d0-2fe1-4770-9a19-fabe6a6a561f" LastKnownName="输出分割线" />
+                <elementDefinition Id="a999f6dc-5999-407f-aa76-e1c561eebe9b" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="352a86d0-2fe1-4770-9a19-fabe6a6a561f" name="输出分割线" isLeaf="false">
+            <elementDefinition Id="76b1722a-653d-495f-b2eb-c136170e1c80" />
+            <flowNodeTargets>
+              <controlFlow Id="918cd7f5-6309-4f26-bd9e-1d07eb0a5979" isLeaf="false">
+                <opaqueActionMoniker Id="85cccf1d-8047-4446-ba59-038d96446e31" LastKnownName="判断输入的数据是否为“自杀小队”" />
+                <elementDefinition Id="dfc4254e-514b-40fd-92af-fad12752e4df" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="85cccf1d-8047-4446-ba59-038d96446e31" name="判断输入的数据是否为“自杀小队”" isLeaf="false">
+            <elementDefinition Id="06e8eece-55a9-4e58-80a9-538154efbb9c" />
+            <flowNodeTargets>
+              <controlFlow Id="80465b0b-e95a-446d-b1e9-c0a591aad287" isLeaf="false">
+                <decisionNodeMoniker Id="f4f182f2-289d-4596-b902-db15c6a6a398" LastKnownName="Decision1" />
+                <elementDefinition Id="0d5e6596-cc99-42dc-8ba2-aff1ed9b55f0" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="f4f182f2-289d-4596-b902-db15c6a6a398" name="Decision1" isLeaf="false">
+            <elementDefinition Id="f6d8c7a8-ac9c-4af3-a9bd-9617b3459fe4" />
+            <flowNodeTargets>
+              <controlFlow Id="4df18f33-4aa4-48ca-9f12-13f0d1854460" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="63315705-c1cb-4648-a472-d85368015c75" LastKnownName="输出电影的详细信息" />
+                <elementDefinition Id="95fdb2fd-60c8-4e45-ab37-c16fb5c92b14" />
+              </controlFlow>
+              <controlFlow Id="b71d4935-2221-4175-9d0b-8907cbf84305" guard="否" isLeaf="false">
+                <opaqueActionMoniker Id="792c5f0a-e861-4962-b0ec-43d2c1b05b67" LastKnownName="判断输入的数据是否为“澳门风云2”" />
+                <elementDefinition Id="e1556cbb-3644-4094-bc34-04a977dbb7c1" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction Id="63315705-c1cb-4648-a472-d85368015c75" name="输出电影的详细信息" isLeaf="false">
+            <elementDefinition Id="5f96dd01-dad7-4f62-b947-cdeb671f8688" />
+            <flowNodeTargets>
+              <controlFlow Id="82c1ad96-5c1f-4f6a-afea-11a7b4a9cea7" isLeaf="false">
+                <mergeNodeMoniker Id="ff809d13-586d-4e9a-9894-daee0aaf9729" LastKnownName="Merge1" />
+                <elementDefinition Id="4e9e7608-f820-4bf4-871c-6da243a29d1b" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="792c5f0a-e861-4962-b0ec-43d2c1b05b67" name="判断输入的数据是否为“澳门风云2”" isLeaf="false">
+            <elementDefinition Id="f46410fb-f8a1-4d6c-a754-ea9d1949c9cd" />
+            <flowNodeTargets>
+              <controlFlow Id="1b5b7423-1dca-4093-95ce-a0a7806eef2c" isLeaf="false">
+                <decisionNodeMoniker Id="e51b9ff6-7d2b-498b-a861-17a8b88dae10" LastKnownName="Decision11" />
+                <elementDefinition Id="37ca96a6-fced-4eb0-805f-47287055ea7d" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="6b8236ee-259a-42f4-bca3-d06d5fdaea87" name="输出电影的详细信息" isLeaf="false">
+            <elementDefinition Id="c2e6f41b-871f-454d-9684-aff11ce71602" />
+            <flowNodeTargets>
+              <controlFlow Id="e6384c1d-9563-41de-8860-e12e04f7394c" isLeaf="false">
+                <mergeNodeMoniker Id="ff809d13-586d-4e9a-9894-daee0aaf9729" LastKnownName="Merge1" />
+                <elementDefinition Id="292cc552-d135-42bd-9845-4dcdf5c9ca9c" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="e51b9ff6-7d2b-498b-a861-17a8b88dae10" name="Decision11" isLeaf="false">
+            <elementDefinition Id="c5628329-463b-410a-a72b-17fdcdabd56a" />
+            <flowNodeTargets>
+              <controlFlow Id="7037459d-e9c3-4842-9d3d-4715ffaefa0e" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="6b8236ee-259a-42f4-bca3-d06d5fdaea87" LastKnownName="输出电影的详细信息" />
+                <elementDefinition Id="1f95c5e8-89bd-4368-a66c-53728babca0d" />
+              </controlFlow>
+              <controlFlow Id="b846306b-3691-42f8-826c-704ddee96c6b" guard="否" isLeaf="false">
+                <opaqueActionMoniker Id="ee331fef-53a6-4642-9885-daf2ad38a31a" LastKnownName="判断输入的数据是否为“睡眠”" />
+                <elementDefinition Id="2e31ab40-1808-4ef2-8e33-52703c90d596" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction Id="ee331fef-53a6-4642-9885-daf2ad38a31a" name="判断输入的数据是否为“睡眠”" isLeaf="false">
+            <elementDefinition Id="865333dd-fdec-4dab-8bb0-dcbeda13b0b1" />
+            <flowNodeTargets>
+              <controlFlow Id="2e3d02d0-a8f1-47b3-839e-4d153d29212f" isLeaf="false">
+                <decisionNodeMoniker Id="22346dd0-647f-490c-b4a9-f90e0e8db948" LastKnownName="Decision2" />
+                <elementDefinition Id="87bc8df4-546d-4f45-b0c5-9c448804da18" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="22346dd0-647f-490c-b4a9-f90e0e8db948" name="Decision2" isLeaf="false">
+            <elementDefinition Id="dcfdf45d-d01d-43bb-a110-52387e4a65af" />
+            <flowNodeTargets>
+              <controlFlow Id="eb61df70-292b-4fdb-be79-4083621d6cea" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="71a8bc99-41c8-45c9-92b7-46c0b68302dd" LastKnownName="输出电影的详细信息" />
+                <elementDefinition Id="d3311647-5cd4-4933-8505-644575441b81" />
+              </controlFlow>
+              <controlFlow Id="5f68d71c-d4e2-4ede-8334-b352e04b2183" guard="否" isLeaf="false">
+                <opaqueActionMoniker Id="e2911996-9011-4011-ac4e-4d6d6e27a69f" LastKnownName="输出“您输入的信息有误，查询失败！”" />
+                <elementDefinition Id="5f55843a-25ca-4571-a5a1-db7eacede5ea" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction Id="71a8bc99-41c8-45c9-92b7-46c0b68302dd" name="输出电影的详细信息" isLeaf="false">
+            <elementDefinition Id="4133d00f-a392-4f45-81e4-6cda74ace8b9" />
+            <flowNodeTargets>
+              <controlFlow Id="8249fae2-0a3e-409a-88c5-2c38f90126c2" isLeaf="false">
+                <mergeNodeMoniker Id="ff809d13-586d-4e9a-9894-daee0aaf9729" LastKnownName="Merge1" />
+                <elementDefinition Id="503fc625-1f15-4dd8-942c-64d677d8ad34" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="e2911996-9011-4011-ac4e-4d6d6e27a69f" name="输出“您输入的信息有误，查询失败！”" isLeaf="false">
+            <elementDefinition Id="48998834-e11e-4be8-97e4-1579ab48419f" />
+            <flowNodeTargets>
+              <controlFlow Id="156755c0-3d4c-4208-99f8-d0ed601f57c9" isLeaf="false">
+                <mergeNodeMoniker Id="ff809d13-586d-4e9a-9894-daee0aaf9729" LastKnownName="Merge1" />
+                <elementDefinition Id="8e091400-63cf-43b0-8f05-ad5bfdffa10b" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="698b1267-1bc6-4e59-aba2-099b3b0a771b" name="输出已收录电影的名称" isLeaf="false">
+            <elementDefinition Id="74601705-2de7-449c-97a0-ac14d1ea80ab" />
+            <flowNodeTargets>
+              <controlFlow Id="13f1a069-92e9-46ed-8121-1e84fc1d495f" isLeaf="false">
+                <opaqueActionMoniker Id="d8ab07c0-0c4b-41f1-a75b-6253bad3a503" LastKnownName="输出查询提示信息" />
+                <elementDefinition Id="ba0d68ee-2c7a-41bf-b84c-7fb473fe4e86" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <mergeNode Id="ff809d13-586d-4e9a-9894-daee0aaf9729" name="Merge1" isLeaf="false">
+            <elementDefinition Id="ad380a1b-1b5d-4971-99bc-6e9508113fe0" />
+            <flowNodeTargets>
+              <controlFlow Id="201e7c66-1f16-430b-9c7b-df12de45d9c2" isLeaf="false">
+                <opaqueActionMoniker Id="f29bee0a-16e8-4d36-b1e5-dd9222c66d96" LastKnownName="输出分割线" />
+                <elementDefinition Id="437ad1af-b19f-4338-b28f-3c03d879b2f7" />
+              </controlFlow>
+            </flowNodeTargets>
+          </mergeNode>
+          <opaqueAction Id="f29bee0a-16e8-4d36-b1e5-dd9222c66d96" name="输出分割线" isLeaf="false">
+            <elementDefinition Id="99b7e382-b292-43d7-a99c-e30cc308ec96" />
+            <flowNodeTargets>
+              <controlFlow Id="5e419039-ba1d-4b9b-a380-ce5ed1bb7593" isLeaf="false">
+                <opaqueActionMoniker Id="ead23a79-93bc-4f18-b0da-b643eb72d512" LastKnownName="输出是否再次查询的提示信息" />
+                <elementDefinition Id="51e60985-a02c-4d0d-a37b-39e6057d91f0" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="ead23a79-93bc-4f18-b0da-b643eb72d512" name="输出是否再次查询的提示信息" isLeaf="false">
+            <elementDefinition Id="e4507648-57e7-4b9c-8a69-e4a8937a389e" />
+            <flowNodeTargets>
+              <controlFlow Id="dda3c59e-d655-4222-a277-9061f83677a2" isLeaf="false">
+                <opaqueActionMoniker Id="b5fc4ba2-8fc5-4376-98b3-17534768d4ff" LastKnownName="接收输入数据存放于str" />
+                <elementDefinition Id="3c8edf07-956c-44ad-8aa0-55198c4b5621" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="b5fc4ba2-8fc5-4376-98b3-17534768d4ff" name="接收输入数据存放于str" isLeaf="false">
+            <elementDefinition Id="006d7b16-eaff-419d-8b1b-8a095934956b" />
+            <flowNodeTargets>
+              <controlFlow Id="29937247-d3bf-4ee2-83d2-aae76d544538" isLeaf="false">
+                <opaqueActionMoniker Id="5f54515a-013d-4df9-b86b-4aed8f95be8f" LastKnownName="判断输入数据是否为y" />
+                <elementDefinition Id="f6076069-de01-4d6c-bdd8-bdf0f07d257b" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="5f54515a-013d-4df9-b86b-4aed8f95be8f" name="判断输入数据是否为y" isLeaf="false">
+            <elementDefinition Id="5843a91a-98e3-47cb-9e85-702dfe76cb78" />
+            <flowNodeTargets>
+              <controlFlow Id="189a6693-ecc0-4ea2-94ff-6b8bd285b088" isLeaf="false">
+                <opaqueActionMoniker Id="9c5ba829-d255-49e2-bd48-06e195cef841" LastKnownName="换行" />
+                <elementDefinition Id="93d6e71e-fc14-48f1-873c-b659e159ef92" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="2200af3a-dfa4-4ea7-9775-a46f561f34c0" name="Decision3" isLeaf="false">
+            <elementDefinition Id="1856d81e-1306-4390-8b88-c8d559c04167" />
+            <flowNodeTargets>
+              <controlFlow Id="bee3f9d4-c434-48ed-b6dd-f616ed9da46a" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="d8ab07c0-0c4b-41f1-a75b-6253bad3a503" LastKnownName="输出查询提示信息" />
+                <elementDefinition Id="18040f90-9e57-45f3-b629-f59da9b46d94" />
+              </controlFlow>
+              <controlFlow Id="f1141199-c412-4969-8fa8-86c6475122e1" guard="否" isLeaf="false">
+                <activityFinalNodeMoniker Id="ab5dbeba-dd8f-4391-b44a-7f867e3f3b6c" LastKnownName="ActivityFinal1" />
+                <elementDefinition Id="ab2cd89c-236c-4ef9-ac7e-435dfb513c85" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <activityFinalNode Id="ab5dbeba-dd8f-4391-b44a-7f867e3f3b6c" name="ActivityFinal1" isLeaf="false">
+            <elementDefinition Id="5930265a-0bde-4c82-8125-03579e31157b" />
+          </activityFinalNode>
+          <opaqueAction Id="9c5ba829-d255-49e2-bd48-06e195cef841" name="换行" isLeaf="false">
+            <elementDefinition Id="29337cb6-c889-4369-bdf5-400d82a2ceaf" />
+            <flowNodeTargets>
+              <controlFlow Id="24998d4a-28a1-4d6e-85ed-bcbb544a7ee7" isLeaf="false">
+                <decisionNodeMoniker Id="2200af3a-dfa4-4ea7-9775-a46f561f34c0" LastKnownName="Decision3" />
+                <elementDefinition Id="bc7eb02d-2fd3-4cb5-bc20-3d7fd4d2db7e" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="c693d053-2598-40dd-8e2b-daed4c6b96ef" name="定义str为字符串型" isLeaf="false">
+            <elementDefinition Id="78c3caf2-ef8e-4527-9b48-3c421032be50" />
+            <flowNodeTargets>
+              <controlFlow Id="53f10aec-1f9b-4592-91f8-27729292b05c" isLeaf="false">
+                <opaqueActionMoniker Id="698b1267-1bc6-4e59-aba2-099b3b0a771b" LastKnownName="输出已收录电影的名称" />
+                <elementDefinition Id="f4411e87-ee53-4716-9602-db52a9601fb9" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+        </nodes>
+      </activity>
+    </activityRootModelHasActivity>
+  </packagedElements>
+  <package Id="a7c72aff-2c4d-4f3c-98bb-021cf4d19d07" name="ModelingProject1">
+    <elementDefinition Id="ae591a1a-52f9-423a-b572-c2545fa3801c" />
+  </package>
+</activityRootModel>

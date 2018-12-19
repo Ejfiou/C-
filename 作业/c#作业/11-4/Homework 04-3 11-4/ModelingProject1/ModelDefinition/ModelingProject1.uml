@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner"
+  dslVersion="1.0.0.0"
+  Id="2f2470ea-2eff-4eb8-81b4-bd585876538b"
+  name="ModelingProject1" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="1c0d86a7-3b18-4a2c-bfe9-60fdbca8a9f6">
+      <body>Convert.ToInt32(console.ReadLine())转换类型</body>
+      <annotatedElements>
+        <opaqueActionMoniker
+          Id="4c1f0e65-bd0c-4e9c-a3dc-fd4cb643170d"
+          LastKnownName="接收输入的数，分别存放于变量a,b.,c,d中"
+          LastKnownLocation="ModelingProject1.uml" />
+      </annotatedElements>
+    </comment>
+    <comment
+      Id="2b53b540-f32c-413f-8beb-499f2ed6de18">
+      <body>int x = a &gt; b ? a : b;</body>
+      <annotatedElements>
+        <opaqueActionMoniker
+          Id="78567043-cd55-4078-8682-de5bbbbdcffd"
+          LastKnownName="将a,bl两个数比较大小，大的赋值给x"
+          LastKnownLocation="ModelingProject1.uml" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <activity
+        Id="f2140e9f-fb73-4f88-b382-2a4f03a648d5"
+        name="Activity1"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false"
+        isReentrant="false"
+        isReadOnly="false"
+        isSingleExecution="false">
+        <nodes>
+          <initialNode
+            Id="9fd0e165-5604-4b9d-b56f-7784e4fe4e74"
+            name="Initial1"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="7f395f02-0be8-460e-8c7c-3ccf96063dce"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="70ed50fb-d2ba-4923-b1f4-948aa558055d"
+                  LastKnownName="定义变量str"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction
+            Id="4937fe9e-6bc5-4b32-9523-8f15ecc6dac3"
+            name="提示信息&#xD;&#xA;“输入数据”"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="a6d07bfc-27fa-48e4-8afc-3a9073791aeb"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="4c1f0e65-bd0c-4e9c-a3dc-fd4cb643170d"
+                  LastKnownName="接收输入的数，分别存放于变量a,b.,c,d中"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="4c1f0e65-bd0c-4e9c-a3dc-fd4cb643170d"
+            name="接收输入的数，分别存放于变量a,b.,c,d中"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="374b0950-bcde-443a-9874-67f4df653aac"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="78567043-cd55-4078-8682-de5bbbbdcffd"
+                  LastKnownName="将a,bl两个数比较大小，大的赋值给x"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="78567043-cd55-4078-8682-de5bbbbdcffd"
+            name="将a,bl两个数比较大小，大的赋值给x"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="20dc7ca6-135d-4d78-9bbe-660b87a2d037"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="40723254-fa36-45b3-b634-512739603922"
+                  LastKnownName="将x与c比较大小，大的赋值给y"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="40723254-fa36-45b3-b634-512739603922"
+            name="将x与c比较大小，大的赋值给y"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="3b57acab-6f52-4c61-8ffa-885d35b1e41a"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="8f58a605-cd37-4bb8-9f46-0841ffdf6e40"
+                  LastKnownName="将d,y比较大小，大的赋值给max"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="8f58a605-cd37-4bb8-9f46-0841ffdf6e40"
+            name="将d,y比较大小，大的赋值给max"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="17ae10a7-e981-443c-b3da-a0c886203ebc"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="593608b8-7bc5-43d7-b0cc-03c1c6b0a141"
+                  LastKnownName="输出max"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="593608b8-7bc5-43d7-b0cc-03c1c6b0a141"
+            name="输出max"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="40b99d1d-7330-4b46-8af5-f9e8edb50af8"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="2c65ea95-da17-4da7-8741-46c6aa12a16f"
+                  LastKnownName="输出提示  (y/n)"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <activityFinalNode
+            Id="6764bbda-715a-417d-b87e-a2fc68bb12b3"
+            name="ActivityFinal1"
+            isLeaf="false" />
+          <opaqueAction
+            Id="70ed50fb-d2ba-4923-b1f4-948aa558055d"
+            name="定义变量str"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="e24dfee8-3c9e-4793-b926-0186a7665f3d"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="4937fe9e-6bc5-4b32-9523-8f15ecc6dac3"
+                  LastKnownName="提示信息&#xD;&#xA;“输入数据”"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="2c65ea95-da17-4da7-8741-46c6aa12a16f"
+            name="输出提示  (y/n)"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="84a75cbd-b3e9-4dba-b117-94b99c140b51"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="1902c744-5880-49c9-8aeb-be9a62b1d899"
+                  LastKnownName="接收输入数据存放于str"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="1902c744-5880-49c9-8aeb-be9a62b1d899"
+            name="接收输入数据存放于str"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="f623f8be-92a4-4551-9f90-4ef6efa300d2"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="3af9d089-886e-4916-96ea-44dffb047b26"
+                  LastKnownName="判断str是否等于y"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="3af9d089-886e-4916-96ea-44dffb047b26"
+            name="判断str是否等于y"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="5c674290-b83d-47d3-b3d3-b7809fc9c50e"
+                isLeaf="false">
+                <decisionNodeMoniker
+                  Id="e5fbbff8-cab2-423f-9213-b71a867a365f"
+                  LastKnownName="Decision1"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode
+            Id="e5fbbff8-cab2-423f-9213-b71a867a365f"
+            name="Decision1"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="92280515-ac5c-4109-bb53-68f36ddf7d8e"
+                guard="否"
+                isLeaf="false">
+                <activityFinalNodeMoniker
+                  Id="6764bbda-715a-417d-b87e-a2fc68bb12b3"
+                  LastKnownName="ActivityFinal1"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+              <controlFlow
+                Id="c1666cf9-7f84-4ee6-a464-3015cda1faac"
+                guard="是"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="4937fe9e-6bc5-4b32-9523-8f15ecc6dac3"
+                  LastKnownName="提示信息&#xD;&#xA;“输入数据”"
+                  LastKnownLocation="ModelingProject1.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+        </nodes>
+      </activity>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

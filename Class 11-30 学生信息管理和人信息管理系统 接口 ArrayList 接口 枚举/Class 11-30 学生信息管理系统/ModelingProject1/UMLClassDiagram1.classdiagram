@@ -1,0 +1,1859 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="d5ca9f11-c9e4-4d97-97fd-3164eff3066b" name="UMLClassDiagram1" linkedPackageId="fdceeb9e-f221-4af3-8e1b-176bcbf071c8" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <appliedStereotypesInternal>
+    <stereotypeInstance Id="34818993-5ef3-400c-8cac-0d3559cb647f" name="namespace" profile="CSharpProfile">
+      <elementDefinition Id="74a07278-98ca-400f-8f0e-f2fe872928f6" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="85bdb830-50c5-468e-9b4d-6bd62c5ea374">
+          <propertyInstance Id="381abe06-2c45-4bdf-8ace-558a6efa487d" name="BaseName">
+            <elementDefinition Id="11c267b2-8121-4e4b-b7bf-0bca92bde398" />
+          </propertyInstance>
+          <elementDefinition Id="e635251e-de70-41b2-a0e3-5151e61defaf" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="745a6794-09b5-4c47-94e8-20084c77d757">
+          <propertyInstance Id="d6f1aaeb-1eb7-42ec-bf78-6fe4c12301c8" name="ClrAttributes">
+            <elementDefinition Id="5ee980f2-079f-4b1b-bc44-85e62cb874c1" />
+          </propertyInstance>
+          <elementDefinition Id="374b2007-edd9-4412-84e4-cf147b48edbd" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="51fe503f-39c8-4d40-98e2-3b2a9733a610">
+          <propertyInstance Id="69d68e60-37f5-442c-89a7-7fb8a1e7fcc7" name="Usings">
+            <elementDefinition Id="c7603ec8-f812-4b22-9191-96022e155edb" />
+          </propertyInstance>
+          <elementDefinition Id="13006c58-224b-4a85-952d-b0e48eed1368" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance Id="44f4bedb-3322-4dc4-a20e-5a351c10dcd6" name="TextTemplateBindings" profile="TextTemplateBindings">
+      <elementDefinition Id="b284775f-41b5-4381-ad3a-37d7f0cb92af" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="3ef89dad-24f8-4863-8512-07b1ecc0057a">
+          <propertyInstance Id="4a0316be-b831-45a9-a48a-edd02ba89d81" name="Alias" value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate">
+            <elementDefinition Id="abc1b6ef-7a07-40b7-a65c-5460b217c7bd" />
+          </propertyInstance>
+          <elementDefinition Id="7b09282e-b91c-4bbc-a10e-679fcbd60a67" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="97ccbabe-ff46-45cb-bbcb-29f697bf03f1">
+          <propertyInstance Id="7654edaa-49ce-40de-8ef8-bc27365f0805" name="TemplateFilePath" value="ClassTemplate=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4">
+            <elementDefinition Id="d8160455-f71e-4f25-853b-cf094042b9b5" />
+          </propertyInstance>
+          <elementDefinition Id="5a9d40dd-98ba-4752-83cf-26c0df721512" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="6c290710-95b1-44ac-b0e8-12a23506cb77">
+          <propertyInstance Id="e8782270-a3ae-4f2a-bf54-1c6f53f5a040" name="ProjectPath" value="ClassTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|EnumTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|InterfaceTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|StructTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj">
+            <elementDefinition Id="c824c860-d636-4a33-81cc-f012355ba9ef" />
+          </propertyInstance>
+          <elementDefinition Id="eb388664-2d50-4c57-a325-94eee0c206e2" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="72c04ece-44b3-489c-9698-b0df97cee35d">
+          <propertyInstance Id="332a3172-6091-4cd9-b3e1-dbfd909a46bf" name="TargetDirectory" value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}">
+            <elementDefinition Id="fc0d3d79-e5c9-4a8e-9272-aaf9687caf13" />
+          </propertyInstance>
+          <elementDefinition Id="7f7a65b7-7e97-4393-9238-47ef1c761be0" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="b69dab6c-68b3-47d8-a552-9056ac9a99b5">
+          <propertyInstance Id="a503077a-fa3b-4333-8a23-e38fedfc8558" name="TargetName" value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}">
+            <elementDefinition Id="d92f0753-491e-4880-8ae7-37da8ef868c0" />
+          </propertyInstance>
+          <elementDefinition Id="11ff159e-9bb6-4bb3-9e3a-afa8a1a0345e" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="6b17c9b9-e865-44f5-ad04-c48a023f28fa">
+          <propertyInstance Id="55aba761-7360-470d-9bf9-b592524245af" name="Overwrite" value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True">
+            <elementDefinition Id="19de722e-43a1-4520-aa82-05e8d5745cf0" />
+          </propertyInstance>
+          <elementDefinition Id="6f2759c7-3e8d-4f60-ab83-61c2cbcce1f3" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="0ec4ce8b-8fff-4cbf-85f3-7337a760a99c">
+          <propertyInstance Id="383b40f9-237c-4bb7-a469-7ff9c5661d20" name="Parameters">
+            <elementDefinition Id="f14068e3-fee9-4002-9030-38811757a7fe" />
+          </propertyInstance>
+          <elementDefinition Id="49c67e91-3a4c-41f1-95f9-896709da19d2" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="d87ba7e6-bbe2-4d5a-b841-8660036b459e" name="Student" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="677bffb5-e610-443e-ac0c-af901d8f63cb" />
+        <ownedAttributesInternal>
+          <property Id="f3e7118f-0c11-46fc-ba57-3eb5b5e2ecc6" name="StuNo" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>学号</description>
+            <elementDefinition Id="a44812ec-f3f6-44e0-a1b9-92430446df0f" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="e7e802b7-3aca-4c5a-921f-3c297bef4f6e" name="Name" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>姓名</description>
+            <elementDefinition Id="f7ce31dd-ef45-4840-8479-81601f7d95a9" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="a47cb219-9e46-4f1a-afc1-26c7b57670bd" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="b1ba4e1a-6f95-42b1-8cb8-ef848c52caef" name="Age" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>年龄</description>
+            <elementDefinition Id="15f9a237-e150-4b34-aa96-3826ed1e6196" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="a202d6e4-5461-4274-b0d4-889b1e97c507" LastKnownName="Integer" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="06c973d8-a0e6-483a-8a5d-628e11a38372" name="Student" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="9048b151-fcf1-4546-aec5-d723257deabd" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="2ab4910f-1c62-4c64-9d0f-7be453b3104e" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="7b2481d0-ef30-4243-95e5-091c69e26001" />
+          </operation>
+          <operation Id="169162dc-12d5-4680-908d-76450c95c0a3" name="Student" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="180a6a2f-effc-496f-aa60-a636bc77f79d" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="4975ba38-b711-40b8-b741-dc6adbbedae9" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="8596f01f-9029-40a8-a36f-634563e61b9b" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4fb15151-233f-408a-af12-a7a51a23a691" name="stuNo" direction="In">
+                  <elementDefinition Id="653e4a2a-a429-4147-9778-e68f190d0d88" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="f92a3f1c-1a6e-488d-9721-61091db0bf4e" name="Student" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>有三个参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="1df554d9-cb50-4f26-bf51-5ed11f7c61db" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="45424ea2-8b85-4e31-9eb0-9e913d1ea93c" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="4f51ee96-31af-437f-bbd3-3e178f1b420c" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="61f56eab-a7b3-4ca8-816b-9a48d9633a6a" name="stuNo" direction="In">
+                  <elementDefinition Id="489fa13a-5a87-4e41-bf49-3fbbbd2f56f4" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="124802ff-db8b-4a50-8d2a-7f17d7a4df5e" name="name" direction="In">
+                  <elementDefinition Id="f8b3930d-6b0c-4e95-872b-ab6b7477c834" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="6991a892-a611-475a-91eb-0359dd0c73e5" name="age" direction="In">
+                  <elementDefinition Id="5217a350-fbbb-4d69-ada3-7561ba36c47d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="a202d6e4-5461-4274-b0d4-889b1e97c507" LastKnownName="Integer" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="96ac26c6-9d74-4baf-b72f-fc54e2670b82" name="ShowMe" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="be560ac5-a033-4eb1-a670-614e5bc0b082" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8b9a5cee-cd24-4c78-855f-065a9873c739" direction="Return">
+                  <elementDefinition Id="32db8088-c14b-48fd-ac35-eec6ec2d78c7" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="19d9da0e-27eb-40d0-a3ff-9b112a326ec9" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="a47cb219-9e46-4f1a-afc1-26c7b57670bd" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="a202d6e4-5461-4274-b0d4-889b1e97c507" name="Integer" isAbstract="false" isLeaf="false" cachedFullName="Integer">
+        <elementDefinition Id="220a3521-e091-4221-bae9-3ef9018e845c" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="d9a45e42-b65f-478e-8abd-9b01d83b16fd" name="Database" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>数据仓库</description>
+        <elementDefinition Id="55e98162-b6bc-4e1c-9eb7-734eb314ffbd" />
+        <targetEnds>
+          <association Id="b3629db7-af01-4681-8957-8ae0060d0db3" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="d87ba7e6-bbe2-4d5a-b841-8660036b459e" LastKnownName="Student" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f4db39c6-9872-48d7-9a0b-c707b52f5861" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <lowerValueInternal>
+                    <literalString Id="0b18d016-6fc2-4347-9780-96a31557eabf" name="Lower" value="1">
+                      <elementDefinition Id="5357cc78-8e1b-48ab-bd08-b440350eb6ab" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="a1410e5c-d7d6-4130-8f8d-0fe69ee8861b" name="Upper" value="1">
+                      <elementDefinition Id="4eebf8b2-3047-4e9e-88ce-67e9ead5c569" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="e7293dba-beaf-48d9-90b5-b93d15561cfc" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="730256a4-6b53-4824-ad82-ad612bdcee98" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <lowerValueInternal>
+                    <literalString Id="efa9c47e-8d65-44b0-8db1-844ef9b83ce1" name="Lower" value="*">
+                      <elementDefinition Id="44a29282-a53c-415d-8e64-81e7db67119c" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="80bfcbd9-936c-48b7-8668-29ed8b64832e" name="Upper" value="*">
+                      <elementDefinition Id="13c21c45-2f35-420e-8a2a-665eaef15d50" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="deeb5c94-2745-42b1-8d50-5f39980a6473" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="55054a05-a3f9-48d2-87cb-b3a2aba0255a" />
+          </association>
+          <association Id="ff0e552e-a89a-4fd2-a12b-6fdcab0544de" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="32e13358-1472-45df-b521-3e3af627b5c6" LastKnownName="User" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e2996d2b-1ce2-4f24-b312-05b5e9b84a09" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <lowerValueInternal>
+                    <literalString Id="441c935c-b8d0-42fe-9643-b0c6ae0fdabd" name="Lower" value="1">
+                      <elementDefinition Id="fd7163a7-7508-4a98-b0cc-c20553c72778" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="b81715ea-5335-4b41-ac3a-f99b20d6bd03" name="Upper" value="1">
+                      <elementDefinition Id="22990777-9c08-4a8a-89be-a39e78b76425" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="45fa6005-49c7-4c74-8a1c-3305dbfe314f" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="83e96e6a-c992-499c-b324-4f1a72d1258f" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <lowerValueInternal>
+                    <literalString Id="c32cf4d9-c0d3-4a11-8500-29cfb3f98b55" name="Lower" value="*">
+                      <elementDefinition Id="c834aea6-ac27-40dc-92ba-27d7c984e1cd" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="13a5d83f-5a67-4525-9724-0b6c8157f39d" name="Upper" value="*">
+                      <elementDefinition Id="b690adc6-e63d-41c3-a5ac-aed1322bf3b6" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="ee35911a-92e1-4c6f-9857-67a822b09e13" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="75a4b9a8-f40b-497a-9f35-5975b19193d5" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="cb72784f-aeb5-4d26-8415-e606bd6bfdf8" name="Students" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <lowerValueInternal>
+              <literalString Id="dad438c2-04d4-4bfa-96c1-0a54450832a6" name="Lower" value="*">
+                <elementDefinition Id="461e5e7d-f026-410d-bb0e-e0f32bc1be6f" />
+              </literalString>
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString Id="f02dc913-bc51-41f6-ac16-c032f1a29c6e" name="Upper" value="*">
+                <elementDefinition Id="c66bcdec-46ca-4390-b664-8088e0281bac" />
+              </literalString>
+            </upperValueInternal>
+            <elementDefinition Id="89e9d046-8987-4a8a-90ce-ace4b7574556" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="84bac841-679f-426f-b768-1601bd420310" LastKnownName="Student" />
+            </type_NamedElement>
+          </property>
+          <property Id="97f3fd25-e764-45c7-8f8e-c450182c5810" name="User" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <lowerValueInternal>
+              <literalString Id="1ff32405-14e9-4670-a09e-ab0a6e6bf297" name="Lower" value="*">
+                <elementDefinition Id="672514d2-5d82-49fc-b4af-09d6b1f14ed7" />
+              </literalString>
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString Id="3a21c184-e285-44b1-b181-937e2cd4e865" name="Upper" value="*">
+                <elementDefinition Id="fbf9223e-50d7-4cb6-832c-a7078b059446" />
+              </literalString>
+            </upperValueInternal>
+            <elementDefinition Id="e23cd69c-e06b-4e98-91f4-a2b81792c0cf" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="4ec0e5de-340d-497d-a6b6-af679360f7eb" LastKnownName="User" />
+            </type_NamedElement>
+          </property>
+          <property Id="6e1a2c16-680e-4bd1-94fc-33d65860fb4c" name="People" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <lowerValueInternal>
+              <literalString Id="0a81e11d-d63a-45bc-ac88-40b211028ec1" name="Lower" value="*">
+                <elementDefinition Id="73c20f12-1bd1-488b-95e2-c9dadc49e80f" />
+              </literalString>
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString Id="0fbcf13d-58e6-4aac-9f5c-bfb5b70c6248" name="Upper" value="*">
+                <elementDefinition Id="1c2d4970-f419-4cdf-a086-34b3ede33c61" />
+              </literalString>
+            </upperValueInternal>
+            <elementDefinition Id="2b2caf1b-7ee5-421a-b33e-645563313b66" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="428a001d-fea4-46bb-a9d3-c9406fc0e3dd" LastKnownName="Person" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="9c4dfec3-1184-4206-84b7-c1007bba9ce8" name="Database" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <elementDefinition Id="e8e1af93-3965-4c10-a445-0d9ec6b57b43" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="84bac841-679f-426f-b768-1601bd420310" name="Student" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Student">
+        <elementDefinition Id="677bffb5-e610-443e-ac0c-af901d8f63cb" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="561a5d9f-d087-4614-a01d-d2b3a5715ff8" name="PersonDAO" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>查询所有教师</description>
+        <elementDefinition Id="dd7ac146-5619-4584-b943-7c902f4b3a41" />
+        <suppliersInternal>
+          <dependency Id="d15fa2fb-f8ae-4236-98f3-8c25eade7219">
+            <classMoniker Id="d87ba7e6-bbe2-4d5a-b841-8660036b459e" LastKnownName="Student" />
+            <elementDefinition Id="9a5b4e6a-0948-4f03-8553-4a025bd5d29c" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association Id="fabd1061-821e-4338-bda7-7224781f9cd5" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="d9a45e42-b65f-478e-8abd-9b01d83b16fd" LastKnownName="Database" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="36abe491-94c3-4c77-a5bf-5fd670cf1637" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="97d5d7d3-70b0-4e29-a7de-3340ced68ba4" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="5cdebbb9-0246-4d30-ba28-c15b326bae57" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <lowerValueInternal>
+                    <literalString Id="f6ad7d09-de6b-4f7f-87b7-42c518214ef1" name="Lower" value="1">
+                      <elementDefinition Id="1b7d02b1-ccb8-49b0-9c9c-584c723ebee1" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="34d0086b-55d4-4752-988f-92eca5d62667" name="Upper" value="1">
+                      <elementDefinition Id="9e950154-2397-48c2-99a6-ed68da88d146" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="c511f95b-8f80-4429-9fd4-788c30f69b13" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="d3ef31c0-e85c-4b94-9739-10382f12c68c" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="1ee164c6-db57-4720-80de-09c8a9a9400e" name="db" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="b7278f34-0b3d-46e9-bf91-c28c46c00145" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="b5bb2a16-74b2-45e4-b285-25ed4a4acaab" LastKnownName="Database" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="3cc72433-cca7-4084-8a1e-5181d0b37514" name="StudentDAO" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <elementDefinition Id="bed1184a-8f9f-4462-aa3d-f4fefd04c0c9" />
+          </operation>
+          <operation Id="f09dbc4e-118f-4881-9e97-874f81d8a94d" name="Insert" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>增加教师信息</description>
+            <elementDefinition Id="55364e29-f204-427b-8df9-aa06b1ed8383" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="c4523412-e2c9-4e3c-bbda-184ed15fa4d8" direction="Return" isUnique="false">
+                  <elementDefinition Id="010a5f71-216e-44f9-97af-b5fe7d21f939" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="524fcea1-27d6-4cc5-aec7-d5a7c16c4080" LastKnownName="Boolean" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8a197f50-b14b-4c95-9b8d-f5e140d6ff1e" name="per" direction="In" isUnique="false">
+                  <elementDefinition Id="0a14c14b-9ae4-48f0-bc4a-3d432a5b1456" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="428a001d-fea4-46bb-a9d3-c9406fc0e3dd" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="67e24cbc-4136-4248-8e86-2091a8ce5696" name="SelectAll" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>查询所有消息</description>
+            <elementDefinition Id="524f42f9-3911-4831-aba6-6cf5dd708f5d" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="40115ab3-f8b6-4018-adad-7c31f88f6401" direction="Return">
+                  <lowerValueInternal>
+                    <literalString Id="0f9e0d83-151c-4052-8495-518e2f6dedc6" name="Lower" value="*">
+                      <elementDefinition Id="c527d2e9-09cc-4719-bfb4-f1cd1fdf1057" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="5dd8b52a-2ead-4078-be60-b6ef205a097f" name="Upper" value="*">
+                      <elementDefinition Id="c01b6fa9-e03c-4721-9f3e-4e3dfe571db4" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="842f36ab-929d-496d-b424-c8568ed0aa8b" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="1120c5eb-7ae3-47af-8919-eaab12101bb0" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="55b99cbe-2dff-4d07-9809-f16657761daa" name="Delete" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>删除教师</description>
+            <elementDefinition Id="2ce16f79-842b-4db9-a587-e15df12ff306" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="f30bad17-1800-490f-a677-679803c89b30" direction="Return" isUnique="false">
+                  <elementDefinition Id="4357a69d-7f64-43b7-9d94-b4290ab9677f" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="223f41c5-dbaf-40ea-958f-e9b2379257ae" LastKnownName="Boolean" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8576e0dd-b9c7-48e8-ad3d-d24aac2232c7" name="per" direction="In" isUnique="false">
+                  <elementDefinition Id="9584551f-9ca4-4846-b37a-a7f840cbd8c4" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="428a001d-fea4-46bb-a9d3-c9406fc0e3dd" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="03476d41-458e-4a5e-b39d-e338b45f7cf3" name="Update" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>修改信息</description>
+            <elementDefinition Id="a1cd76d2-09d8-4b3e-a372-9242088e3f17" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="9aed8c28-c586-4fe6-8eff-d8ca42377641" direction="Return" isUnique="false">
+                  <elementDefinition Id="0767bbc1-cbed-4b27-acde-361f44e394e1" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="230b4385-fbc1-4d13-8501-58dd320416c5" LastKnownName="Boolean" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="737217c4-81dc-43c4-b0dd-4a79da063702" name="per" direction="In" isUnique="false">
+                  <elementDefinition Id="9b664b7a-1af2-4bbb-9498-ade46763edfd" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="428a001d-fea4-46bb-a9d3-c9406fc0e3dd" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="fdd69437-41bd-43f5-a05d-8f07bd335dfc" name="SelectByPrimaryKey" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="897db7bb-fe55-45de-9192-97898b72d1c5" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="be4a1328-009c-41a7-ae50-3a5a64824d81" name="primaryKey" direction="In">
+                  <elementDefinition Id="cd261726-c731-4e37-a371-89e9fc76557b" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="b25cdcce-71f4-4097-a1fe-7d921712e535" direction="Return">
+                  <elementDefinition Id="66062f21-89e9-43f8-9942-35bb6ca13a08" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="37b640a8-6e6c-4dee-b86a-2df4f203c61f" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="d4068001-68b5-4808-ab69-1cf562118f7d" name="SelectByName" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="9ed73bf7-eb43-42be-9f49-45182bc52fe2" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="d8632896-7c51-4ebb-af43-e8c1c65390b9" direction="Return">
+                  <lowerValueInternal>
+                    <literalString Id="32260b87-34b5-430e-b30b-39030c3120da" name="Lower" value="*">
+                      <elementDefinition Id="b65b9bf7-4c02-46cd-97e0-06ffb5142ac5" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="889662b5-c552-45b5-b42e-d1afb985b7b9" name="Upper" value="*">
+                      <elementDefinition Id="0d9d610d-3e2e-48dc-a60f-fc14c92510ff" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="d2c8629a-1d36-4fd0-bd2b-46fae11c5342" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="91f6c28b-809b-4b66-8bf3-6d214754d758" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="c9f7c1b4-455b-4f88-a27b-79053d236f30" name="name" direction="In" isUnique="false">
+                  <elementDefinition Id="90c650b7-47ef-486a-86a6-4b14ae654a23" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="b5bb2a16-74b2-45e4-b285-25ed4a4acaab" name="Database" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Database">
+        <elementDefinition Id="55e98162-b6bc-4e1c-9eb7-734eb314ffbd" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="524fcea1-27d6-4cc5-aec7-d5a7c16c4080" name="Boolean" isAbstract="false" isLeaf="false" cachedFullName="Boolean">
+        <elementDefinition Id="8943dc84-709e-4f62-b15a-a3273aa6f165" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="9b2b52d0-6d9e-4168-9e61-4bdcf4187aa8" name="MyStudentView" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>呈现的界面</description>
+        <elementDefinition Id="9da998da-20c2-4222-98c0-13f0cbce7004" />
+        <suppliersInternal>
+          <dependency Id="d8d9171c-6cc5-4b46-961a-2c16dec18edd">
+            <classMoniker Id="d87ba7e6-bbe2-4d5a-b841-8660036b459e" LastKnownName="Student" />
+            <elementDefinition Id="648a8a76-0fcf-449b-90e2-417ccc829ca9" />
+          </dependency>
+          <dependency Id="5503bb51-5600-4d4a-ae2e-726f3db79bdf">
+            <classMoniker Id="32e13358-1472-45df-b521-3e3af627b5c6" LastKnownName="User" />
+            <elementDefinition Id="e0d8b604-a798-4117-b9a3-eed9f1bcd510" />
+          </dependency>
+        </suppliersInternal>
+        <ownedOperationsInternal>
+          <operation Id="43ff8bdc-6ddd-46b5-b4c1-6dc9958ba305" name="Create" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>创建教师对象</description>
+            <elementDefinition Id="f857aad8-ebb0-4fbd-b965-1d8deb0e335a" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="60d5c085-d831-4ddc-ba13-5932c5be3c05" direction="Return">
+                  <elementDefinition Id="25357c3f-9095-4d89-b7d2-500a0cf4f4cd" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="7050cbc9-0480-4622-b5ef-256a3b34e2ea" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="d7cc5bf8-aabb-4362-b95a-73767f001d9c" name="PrintMany" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>打印教师信息</description>
+            <elementDefinition Id="8e211938-c847-4d6e-8d18-04ec64aaf898" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8a216366-f1ca-4391-8eb1-98a7bce00e13" name="stus" direction="In">
+                  <lowerValueInternal>
+                    <literalString Id="3cf0db55-84fd-4f43-acea-09482f3918f7" name="Lower" value="*">
+                      <elementDefinition Id="34cb02b0-4039-4f07-9a67-983964e916a8" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="8414afad-520a-4a92-8a31-da122909897b" name="Upper" value="*">
+                      <elementDefinition Id="d724115c-5368-452a-9d5b-94bd4ffec85f" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="48585840-09ed-4e3b-adc4-43fd77ab1ce0" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="428a001d-fea4-46bb-a9d3-c9406fc0e3dd" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="9522856e-c740-4eb0-a386-6547ddb27b48" name="Remove" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>删除学生
+</description>
+            <elementDefinition Id="bcbf1cdd-349f-40d7-9ca4-ce8ef0b3f3ec" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="5d895d7d-af71-4847-b2a9-a90048359a40" direction="Return">
+                  <elementDefinition Id="b6900ec7-ea10-4ebc-8e9c-b46ddff2d36f" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="77948527-2737-4616-b232-81d9ee414dc6" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="1ff37664-ce36-4446-b04e-22e2e946c253" name="Modify" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>修改教师</description>
+            <elementDefinition Id="37fb134b-7bd8-486e-b9c1-03c5dd377517" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="b70f77c9-a80f-4200-a656-4bd163455842" direction="Return">
+                  <elementDefinition Id="8e1108e4-3546-45ca-9bb5-de1f32847ba2" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="4f0b3f84-51c2-4bd5-b22f-90f5c271823b" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="127889b9-a85b-4408-a74c-e3ecb971a270" name="PrintMenu" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="0d014d3c-fc3b-4332-a46f-0eb77a6b15cf" />
+          </operation>
+          <operation Id="675be865-a3a4-42b3-b59e-703c5a74734b" name="QueryByPrimaryKey" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>按学号查询</description>
+            <elementDefinition Id="ec05382a-023e-44e2-b574-58f53705d140" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="6f015d29-35bf-401a-8d3d-f5baf8ee15fc" direction="Return">
+                  <elementDefinition Id="b1ddf525-85dd-4176-a565-364d2aebb6ec" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="3109e0f6-0e0d-4512-b3a7-adcf89a21228" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="01a38f65-7f12-4826-b2ec-f916117d4c4e" name="PrintOne" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="aa4945c0-813d-407c-9298-2be9488794a5" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="5060b53e-462a-4237-98c7-58ce03bcf4e3" name="stu" direction="In" isUnique="false">
+                  <elementDefinition Id="53ee4ec3-e501-4508-bba8-41dfff331e65" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="428a001d-fea4-46bb-a9d3-c9406fc0e3dd" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="cd3ce1ce-9e48-4455-ac0e-988c967f84a1" name="MyStudentView" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="a2c87eb8-4a3d-4af3-8c76-5f0037ae21fc" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="b4fd5956-5853-466e-9c8e-9b20eb310ec7" name="MyPersonController" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="f41250c0-4ccd-417a-998b-748f29b663da" />
+        <targetEnds>
+          <association Id="4e703d49-c96a-41c8-b262-964cdaa2454a" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="561a5d9f-d087-4614-a01d-d2b3a5715ff8" LastKnownName="PersonDAO" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="6d01e409-763a-45de-9801-7589dd34876d" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="e676c56c-e3d3-458f-b1be-86ccde9ec56a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a9cc0f86-6acd-4b64-a4b5-c82d1ff9ae47" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="5411adc0-c55f-4eeb-81a5-7301519915e0" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="167b37fd-4334-4338-8d85-4a5b05d8e7ec" />
+          </association>
+          <association Id="8ef01398-4cf8-47d0-8cbd-94d81df7ed97" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="9b2b52d0-6d9e-4168-9e61-4bdcf4187aa8" LastKnownName="MyStudentView" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="3f3f21a8-c2e5-430b-9f99-e0685ff4179b" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="85870992-a1dc-4827-86a4-5bb32ff2cd19" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a0ed5af1-268e-4ad1-9ba8-b8ef66360936" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="5437adad-4cff-4d45-90bb-8a50bde3328a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="ceccc8d0-1053-4485-bb86-fe11540728ff" />
+          </association>
+          <association Id="26a73741-f8ec-469a-ad52-c4329f846fa8" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="b048e49c-10a5-439c-86f2-fba81216b4f3" LastKnownName="UserDAO" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="9e6ac390-e3dd-48dc-a805-f9f922f27c38" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="f59fb54f-4409-4630-a801-e28822909967" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="46bb3c35-6fb5-4d87-b1b7-f94718f74320" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="0863b464-df26-4558-82cf-faf81813725f" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="1783d4b0-2a93-45a2-87e9-d49b2361f111" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="0a863854-7bd3-41a1-a5ec-dc3bc9b3dfbd" name="view" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="a32973d3-c29f-4cc0-9803-a908590adfcb" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="e23f7de0-ff4b-4301-afb9-7eda530ba473" LastKnownName="MyPersonView" />
+            </type_NamedElement>
+          </property>
+          <property Id="5e573483-72ef-4743-adfc-320ae7ca6ee3" name="dao" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="6896d629-501d-41a5-b139-bed827119b4b" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="f2ce703b-0c8d-4404-b3bd-bee1ad1bda49" LastKnownName="PersonDAO" />
+            </type_NamedElement>
+          </property>
+          <property Id="f953b5f4-dc68-4c05-b7a4-6283d2389c31" name="daoUser" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="eca2e626-4ba5-4b9e-ab1a-ceb650260b54" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="0691e21f-a10a-4906-9667-c669e1c6e44e" LastKnownName="UserDAO" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="a657ad83-6188-4918-a0b1-6152dba77c26" name="MyPersonController" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="6695da92-e234-4ab5-a011-9bedc08c131b" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="df85f7fa-9483-4ce4-9168-b101d316b433" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="f1399cd5-7b0a-4c15-b758-087e5c154c63" />
+          </operation>
+          <operation Id="75b3d486-1b28-4a2c-922d-63cc9faebf8e" name="Start" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>程序的开始</description>
+            <elementDefinition Id="3375afd6-efeb-4113-b6be-62dadc5d2018" />
+          </operation>
+          <operation Id="5322e5f3-911a-4525-b5b8-9a983a59f742" name="LogIn" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>登录</description>
+            <elementDefinition Id="56607267-08df-4705-a849-abc30eae30b1" />
+          </operation>
+          <operation Id="6ab10928-b601-4620-ae29-3a16a19bdc16" name="Main" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>主菜单</description>
+            <elementDefinition Id="ac59bb0c-2921-416c-95df-fd96e089fc4b" />
+          </operation>
+          <operation Id="15b130df-16b7-4ace-8125-0dfe0346c41a" name="Add" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>增加</description>
+            <elementDefinition Id="b7ee3ba2-afdc-4e64-ab2f-2576d9f72251" />
+          </operation>
+          <operation Id="34837bc7-eb0f-44d6-b042-35405e5a4932" name="SelectAll" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>查找所有</description>
+            <elementDefinition Id="7563c32f-dcb3-4060-b53f-df05953afa0c" />
+          </operation>
+          <operation Id="8cb3232c-160d-4d2d-a0d7-a9d5066ede50" name="Modify" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>修改</description>
+            <elementDefinition Id="4d4583bd-d4e3-4e7c-93b9-2b77e695ef8c" />
+          </operation>
+          <operation Id="a3855141-d096-4f8d-b221-be07d18dc4d4" name="Remove" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>删除教师</description>
+            <elementDefinition Id="b0827f92-8c7b-4f01-8281-083ca9a6c825" />
+          </operation>
+          <operation Id="e22f8332-abd0-41ff-a5a2-a55e28561e4e" name="QueryByPrimaryKey" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>按主键查找</description>
+            <elementDefinition Id="0bd29a8e-d54b-4881-b97e-7ca7c51f99e4" />
+          </operation>
+          <operation Id="a09672cb-1477-44da-ba47-144669a64416" name="QueryByName" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>按姓名查找</description>
+            <elementDefinition Id="17b4b921-a7b7-4b15-ac27-db67d082a9f5" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="f2ce703b-0c8d-4404-b3bd-bee1ad1bda49" name="PersonDAO" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::PersonDAO">
+        <elementDefinition Id="dd7ac146-5619-4584-b943-7c902f4b3a41" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="19d9da0e-27eb-40d0-a3ff-9b112a326ec9" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="834f43b4-f674-4dc0-bd61-4ef86ca8bfc7" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="9a44bdf7-838e-40e7-ab93-3f0c31917249" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="32e13358-1472-45df-b521-3e3af627b5c6" name="User" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="2d58be8c-333f-4ab8-88e3-defa243ade24" />
+        <ownedAttributesInternal>
+          <property Id="58c3272c-9a97-4a71-9bb4-29582e1cbc15" name="RealName" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>真实姓名</description>
+            <elementDefinition Id="dac24ac8-3af6-46a0-a950-5f4a26f2140a" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="834f43b4-f674-4dc0-bd61-4ef86ca8bfc7" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="594ea14b-fb17-4fcf-b841-c2bfb0795a87" name="User" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>用户名</description>
+            <elementDefinition Id="5cc962f3-7a69-443a-a2f5-178442406fb3" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="a288df86-ae06-498c-b16d-8418c393124e" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="c29c8d4e-e02b-4f97-adfe-108b1d700aaf" name="Password" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>密码</description>
+            <elementDefinition Id="56a181f8-c5f2-439e-9d14-fd0c3ac56ec0" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="18316648-49d0-47c8-81fa-71b43431e7cc" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="b8b277a4-b6c6-444a-8afd-bace1bef5987" name="User" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="e5ae8704-a5e7-439c-9fd2-5a597ad34351" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="f4fcb1b9-27e0-41f6-8b0f-9dff93fdc17a" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="1a7d7842-b169-4f23-8873-505dca7c3530" />
+          </operation>
+          <operation Id="51a40a6e-e71e-4169-8908-f703de4bdc40" name="User" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="b4f8c71d-5980-4b0e-a261-73a451a45167" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="72fc46b9-61d3-4f66-a222-1049377ad171" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="5899c0ac-4e14-4e96-8296-28c51e926301" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8d9b8795-2f02-44d1-8faf-b533ca459a80" name="username" direction="In">
+                  <elementDefinition Id="06b65c80-5d5a-4a8b-81b4-063e5d755821" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="834f43b4-f674-4dc0-bd61-4ef86ca8bfc7" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="251508e8-0233-4f36-a5ca-903768cceebe" name="password" direction="In">
+                  <elementDefinition Id="c8736ef0-921a-4f56-933c-6a5767ff6807" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8e51966f-268f-4631-a353-7cf07d7974ca" name="realName" direction="In">
+                  <elementDefinition Id="5be889b7-de97-4cb0-9270-d8a71c4757d0" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="b9865419-c3c3-4d3c-aa64-986ee31193b3" name="ShowMe" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="1bce27ab-40e8-4339-a744-cb83b366351c" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="3c85e6e9-2529-47c1-924e-b71da40771c8" direction="Return">
+                  <elementDefinition Id="ba08cd2a-2483-4b0d-b723-538955425ee7" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="9a44bdf7-838e-40e7-ab93-3f0c31917249" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="18316648-49d0-47c8-81fa-71b43431e7cc" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="a288df86-ae06-498c-b16d-8418c393124e" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="4ec0e5de-340d-497d-a6b6-af679360f7eb" name="User" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::User">
+        <elementDefinition Id="2d58be8c-333f-4ab8-88e3-defa243ade24" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="223f41c5-dbaf-40ea-958f-e9b2379257ae" name="Boolean" isAbstract="false" isLeaf="false" cachedFullName="Boolean">
+        <elementDefinition Id="8943dc84-709e-4f62-b15a-a3273aa6f165" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="230b4385-fbc1-4d13-8501-58dd320416c5" name="Boolean" isAbstract="false" isLeaf="false" cachedFullName="Boolean">
+        <elementDefinition Id="8943dc84-709e-4f62-b15a-a3273aa6f165" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="3109e0f6-0e0d-4512-b3a7-adcf89a21228" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="b048e49c-10a5-439c-86f2-fba81216b4f3" name="UserDAO" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="4ff90466-edc9-40f7-b88b-1ff278d4c5c2" />
+        <suppliersInternal>
+          <dependency Id="068774cf-2c8b-4492-9c12-95b3348eee04">
+            <classMoniker Id="32e13358-1472-45df-b521-3e3af627b5c6" LastKnownName="User" />
+            <elementDefinition Id="ea1246ad-02b9-4ed3-aa02-bf928a860e1f" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association Id="9f873ef4-fa60-4c42-81da-8a2818fa540f" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="d9a45e42-b65f-478e-8abd-9b01d83b16fd" LastKnownName="Database" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="aaa019fb-c50e-46e6-b584-60a0b92ae2ef" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="f6b1e7cc-b17a-455a-9648-0016952552f5" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a0c2c69b-a4be-4aad-a6ea-38709f4f8bec" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="b3ba8c20-3509-4265-a1ac-b0d91a2de7ba" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="9eaa866a-331f-4599-9259-f34030d6b09f" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="d95b391d-d1fb-4fcc-aa7f-d40cc442b227" name="db" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="f48b12f7-d2c3-4111-8710-d3c2157f6b6c" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="567634e1-34d9-49d0-b0d4-aec4023e667b" LastKnownName="Database" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="5484bd3d-1631-45f3-bd81-cab8ec0e3b42" name="UserDAO" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>空构造</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="ec24026f-a0d8-4d0e-9d72-b73218eb6984" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="d484616c-4407-4cc5-a064-83d111b6c5d6" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="dad3319e-7289-44ef-9980-b8226ce9e62d" />
+          </operation>
+          <operation Id="977f34aa-fb3c-497b-939c-f2aa4c2153b0" name="Insert" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>增加用户</description>
+            <elementDefinition Id="6cadc954-2832-4271-8ccf-11bc2d815f1e" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="aafea470-4cb5-4d30-8580-0a8d0e9acf50" name="user" direction="In" isUnique="false">
+                  <elementDefinition Id="c80d0391-30b4-4690-9eb3-732fe1719594" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="4ec0e5de-340d-497d-a6b6-af679360f7eb" LastKnownName="User" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="31ec40c4-d4a4-4115-a416-0ddcc5da246a" direction="Return">
+                  <elementDefinition Id="377f96ce-1d48-42bc-9da4-2a691cc30868" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="67465d51-7f75-4ec6-9cb8-07c70d1b2d78" LastKnownName="Boolean" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="e5efa438-0a00-44e1-b4cb-6755acfd8681" name="Updata" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>修改用户信息</description>
+            <elementDefinition Id="f22aba75-d7e4-4440-a186-90dbbfa9a395" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="0dae8bc4-fcd6-415b-a092-aef495cb22f7" name="user" direction="In" isUnique="false">
+                  <elementDefinition Id="0edb4604-d5ef-4d03-9ea1-6b4ea37c0945" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="4ec0e5de-340d-497d-a6b6-af679360f7eb" LastKnownName="User" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="aa8cfdfc-9139-4931-8c2a-2c5c51c28bd6" direction="Return">
+                  <elementDefinition Id="392ca639-2c5e-46af-a3b2-ef036dfd9343" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="ad93b0ec-aac4-4957-8fe5-ecd00c7351b0" LastKnownName="Boolean" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="dbbac891-c51c-4258-b326-7858396f82ef" name="Delete" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>删除用户</description>
+            <elementDefinition Id="0f0edeeb-1cbb-44e0-8625-3c76c9b53f62" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="d164aee7-06ed-4674-9cb4-9f9b61f5251c" name="user" direction="In" isUnique="false">
+                  <elementDefinition Id="a25b96bd-110a-4c4b-861f-ebb27a00f744" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="4ec0e5de-340d-497d-a6b6-af679360f7eb" LastKnownName="User" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="17d20db4-1258-44b5-95f2-26338ed99fd2" direction="Return">
+                  <elementDefinition Id="e44421a9-7a9a-461c-a022-3af36019790c" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="1c401a6a-0bf9-4368-8df3-a76bfcd82fa8" LastKnownName="Boolean" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="de9165d7-77ed-4cb9-a9b8-f5d2efc97424" name="SelectAll" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>查询所有</description>
+            <elementDefinition Id="b7c8b6db-1af8-4251-a8e7-fd8af9c4a253" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="bc06dbda-f2cd-426f-8c63-58b784ae4893" direction="Return">
+                  <lowerValueInternal>
+                    <literalString Id="b00e702d-3821-419c-9b55-aee9ac39d05f" name="Lower" value="*">
+                      <elementDefinition Id="91b5e5b8-8364-423e-835c-e94cb7e13fa1" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="a950d139-6eb8-4df3-8e98-0c2da8f8410a" name="Upper" value="*">
+                      <elementDefinition Id="23971004-9eaf-4ae5-92d3-950be528d9e7" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="ba64af60-7d45-4ceb-8fdd-c35f107aa219" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="1317a086-8601-4304-9f64-60f914dee1aa" LastKnownName="User" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="66fb888c-7bde-40ad-9769-7510e2fb3f7e" name="SelectByUsername" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>按用户名查询</description>
+            <elementDefinition Id="c100dde5-fd7f-4008-80a1-0b344ceabd8a" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="e268e10c-a42d-48ec-bd5e-ad4cf70ca3b8" name="username" direction="In" isUnique="false">
+                  <elementDefinition Id="9117c74f-6746-4259-b74a-124bb607bd79" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="71e89a3b-ece6-422f-be68-9410342c8ca8" direction="Return">
+                  <elementDefinition Id="94a0acdc-3819-4435-9f84-9b7d43d79150" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="a6dc0174-b83d-49b7-814b-102c301c8328" LastKnownName="User" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="bce896d9-f597-45ce-adae-684ae15e8f53" name="SelectByRealName" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>按真实姓名查询</description>
+            <elementDefinition Id="4165c62c-c5f4-4a6a-9457-e72b378cf70b" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="643218eb-701b-4e2a-b83f-d740fb61fe15" name="realName" direction="In" isUnique="false">
+                  <elementDefinition Id="d4d6cfad-50ed-4a66-a597-4482e9bf7f0a" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="346a2218-fcd6-4305-abea-75bd15a6ecfb" direction="Return">
+                  <lowerValueInternal>
+                    <literalString Id="cf00a2f7-8aa1-4613-9829-d6b319f4d9ca" name="Lower" value="*">
+                      <elementDefinition Id="3fa2c8a9-742d-42be-ac8a-ffb70b20a645" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="6c13aad4-d30e-443b-92f6-553709283af0" name="Upper" value="*">
+                      <elementDefinition Id="6bc28fa4-34c9-46fe-8e8d-7f9c65804e14" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="5d1da047-a16f-429f-83d9-0e6008619548" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="5959b4fc-e694-46ae-aeaa-a87816975a0b" LastKnownName="User" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="567634e1-34d9-49d0-b0d4-aec4023e667b" name="Database" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Database">
+        <elementDefinition Id="55e98162-b6bc-4e1c-9eb7-734eb314ffbd" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="67465d51-7f75-4ec6-9cb8-07c70d1b2d78" name="Boolean" isAbstract="false" isLeaf="false" cachedFullName="Boolean">
+        <elementDefinition Id="8943dc84-709e-4f62-b15a-a3273aa6f165" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="ad93b0ec-aac4-4957-8fe5-ecd00c7351b0" name="Boolean" isAbstract="false" isLeaf="false" cachedFullName="Boolean">
+        <elementDefinition Id="8943dc84-709e-4f62-b15a-a3273aa6f165" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="1c401a6a-0bf9-4368-8df3-a76bfcd82fa8" name="Boolean" isAbstract="false" isLeaf="false" cachedFullName="Boolean">
+        <elementDefinition Id="8943dc84-709e-4f62-b15a-a3273aa6f165" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="1317a086-8601-4304-9f64-60f914dee1aa" name="User" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::User">
+        <elementDefinition Id="2d58be8c-333f-4ab8-88e3-defa243ade24" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="a6dc0174-b83d-49b7-814b-102c301c8328" name="User" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::User">
+        <elementDefinition Id="2d58be8c-333f-4ab8-88e3-defa243ade24" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="5959b4fc-e694-46ae-aeaa-a87816975a0b" name="User" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::User">
+        <elementDefinition Id="2d58be8c-333f-4ab8-88e3-defa243ade24" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="0691e21f-a10a-4906-9667-c669e1c6e44e" name="UserDAO" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::UserDAO">
+        <elementDefinition Id="4ff90466-edc9-40f7-b88b-1ff278d4c5c2" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="2e28f1c0-66b4-4de2-9343-b11f3a1cfd40" name="Student" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Student">
+        <elementDefinition Id="677bffb5-e610-443e-ac0c-af901d8f63cb" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="37363ccd-f93a-4f0a-bee5-2920ee979f66" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="09db6f53-52d4-4da9-b3e3-0ae04edeaa55" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="4dfe1d5c-dcf2-439e-ad64-4362a52dcd20" name="Integer" isAbstract="false" isLeaf="false" cachedFullName="Integer">
+        <elementDefinition Id="220a3521-e091-4221-bae9-3ef9018e845c" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="4c7448a3-a67c-40c0-8bcb-d61d4e58f001" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="c30417e2-b0f4-44e4-aa91-72258375b323" name="Teacher" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="a061a978-2e7d-42f6-88bb-078e90f3395d" />
+        <ownedAttributesInternal>
+          <property Id="6f0d6852-42f7-4df6-bce6-afb1edab4a1e" name="teaNo" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>学号</description>
+            <elementDefinition Id="45090423-6aec-42b7-a739-a47be9252a7d" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="37363ccd-f93a-4f0a-bee5-2920ee979f66" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="a9e08840-e193-4ecc-bbcb-a50aa987d361" name="Name" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>姓名</description>
+            <elementDefinition Id="5f85da5e-b063-47b5-b855-2e8e6d8e5dec" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="09db6f53-52d4-4da9-b3e3-0ae04edeaa55" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="14f6cbfc-fab5-4432-9397-d53acf57d0c7" name="Age" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>年龄</description>
+            <elementDefinition Id="dc64ba37-50bf-46e0-850d-53f78e199be1" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="4dfe1d5c-dcf2-439e-ad64-4362a52dcd20" LastKnownName="Integer" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="08cbcc16-a5cc-49b1-904e-1a273c4589f7" name="Teacher" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="a14faffd-7e36-468a-a079-ebebb386c8fa" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="59fb541a-1a74-42a6-a065-96026a4d9ad4" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="d1b2064f-33bf-4713-8b36-992c02192790" />
+          </operation>
+          <operation Id="aff06678-459f-4e98-a065-c3b8b1391262" name="Teacher" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="fd24f254-a0d9-4349-92e4-e020f18f7fe0" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="7146fa06-481e-49f3-a0ba-fa5cbf1555ea" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="6ca5cb70-7cf5-40c6-a49a-35b7abe7b41a" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="0b746c0c-94f9-4c04-a265-023d22b89a58" name="teaNo" direction="In">
+                  <elementDefinition Id="1850b42e-157e-4b71-a83d-cb83e590fb85" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="37363ccd-f93a-4f0a-bee5-2920ee979f66" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="ff2004bc-3167-43c2-adc6-b844cc24e5db" name="Teacher" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>有三个参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="4ad29e59-1552-4e79-8bf9-49f3669a9b8c" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="520c12b4-9845-485c-98d2-e57f5859f66e" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="120efb20-9059-4332-baa6-547359f42b3e" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="20d18a81-d6f5-47e4-928a-b8af80781be2" name="teaNo" direction="In">
+                  <elementDefinition Id="855bca4b-b8e5-4405-b840-c9badffad469" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="37363ccd-f93a-4f0a-bee5-2920ee979f66" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="45fa8664-9c9c-4949-8b78-1c994b750b1c" name="name" direction="In">
+                  <elementDefinition Id="552be1b2-716f-4d75-8b7e-8316289ef380" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="37363ccd-f93a-4f0a-bee5-2920ee979f66" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="af6286a5-7609-4428-aefc-9d0722e5adf2" name="age" direction="In">
+                  <elementDefinition Id="14cec65e-5f93-40b8-a7cb-0449ad5dbce4" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="4dfe1d5c-dcf2-439e-ad64-4362a52dcd20" LastKnownName="Integer" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="ca1ea23e-ce46-4e5d-8b45-90c83c161398" name="ShowMe" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="d706bb45-57c4-4ce6-8ac1-cb6d592691bd" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="24cac863-9fc5-4a62-9161-76b53e8c2637" direction="Return">
+                  <elementDefinition Id="cc0dd68f-0bee-44fd-be35-4fc0eb51e8ad" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="4c7448a3-a67c-40c0-8bcb-d61d4e58f001" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="5fba2c0d-39fc-4750-b476-68b353061476" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="8b5a5ab4-6e9a-4d13-b150-0c9e9b8626c1" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="e69663d9-1380-4624-84fb-3fec0fe4833c" name="Integer" isAbstract="false" isLeaf="false" cachedFullName="Integer">
+        <elementDefinition Id="220a3521-e091-4221-bae9-3ef9018e845c" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="37e984d3-1d27-49bc-82d7-df7addb36f6d" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="a70607b6-218b-4d50-a035-f0eae3d020fe" name="Person" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+        <ownedAttributesInternal>
+          <property Id="a532ee66-711e-4677-9fef-fbd177bdbabd" name="cardID" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>学号</description>
+            <elementDefinition Id="a2388420-3f4f-4199-992a-627c4319ca74" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="5fba2c0d-39fc-4750-b476-68b353061476" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="985708ce-525f-44f9-b5a8-9487d169396b" name="Name" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>姓名</description>
+            <elementDefinition Id="76caf2b0-8c84-4845-aa98-ddef861dab1a" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="8b5a5ab4-6e9a-4d13-b150-0c9e9b8626c1" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="010f6474-0605-4c07-85d8-adf2f65067af" name="Age" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>年龄</description>
+            <elementDefinition Id="5ba89090-a68c-42c1-9cb7-25ee13e07981" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="e69663d9-1380-4624-84fb-3fec0fe4833c" LastKnownName="Integer" />
+            </type_NamedElement>
+          </property>
+          <property Id="2ed45cef-f541-4144-8e13-3b4b6f9c2e0e" name="PrimaryKey" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="1c811c22-c7f7-4baa-ade6-0988ec9b4f82" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="f32f7ca6-73d1-4f3c-8a5a-565b84c0ed79" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="e068320e-b092-4dd2-b2af-879f7327add2" name="Person" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="d53e2baf-89bf-4f17-b2fb-58a139589818" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="45b39711-039a-432f-8ae3-63b76ac11f56" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="22df56ea-9dae-4418-b920-35d07d5bf111" />
+          </operation>
+          <operation Id="5fccfe8e-b5fe-46b0-bffc-5adc4b5732b9" name="Person" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="67fe8607-2022-4c17-971e-21c1ce091233" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="b8b1e429-7ee2-48ea-b41e-7997aef40e8f" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="ac3fdf3b-18dd-43f8-adbe-4b6fc6335463" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="9290fd83-eaf5-4126-90eb-d121fc8b76e0" name="cardID" direction="In" isUnique="false">
+                  <elementDefinition Id="a08dcf6b-0ee4-4a3d-89a8-987d246b2b08" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="5fba2c0d-39fc-4750-b476-68b353061476" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="5dbbb5ef-8cb8-43e1-9fb2-ad1340eeec13" name="Person" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>有三个参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="7c515e4d-b2e0-4265-86b0-8f864a129fba" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="6d017f78-1ccd-4b87-8b0b-b8e91f04d518" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="27621528-03d1-406a-aca4-fa691905b182" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="000f5e17-bb14-478b-ab77-507894a1db1a" name="cardID" direction="In" isUnique="false">
+                  <elementDefinition Id="0bb1abfb-961a-450d-b67a-612767a0e10c" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="5fba2c0d-39fc-4750-b476-68b353061476" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="5aa7332a-911c-469b-9c81-77837e9677e3" name="name" direction="In" isUnique="false">
+                  <elementDefinition Id="d8a3a0ed-80d5-4aeb-9c1f-340677f71765" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="5fba2c0d-39fc-4750-b476-68b353061476" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="c7bd300e-92ff-4203-b024-ad6e69b8e717" name="age" direction="In" isUnique="false">
+                  <elementDefinition Id="05d947ca-a921-446a-ab3a-4fe438703e59" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e69663d9-1380-4624-84fb-3fec0fe4833c" LastKnownName="Integer" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="0d82349c-bb39-481e-b29d-631ee5b3fdad" name="ShowMe" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="97f94b1c-869b-4c3f-996a-340c8d168b4e" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="95e82d9b-dd6e-49cd-9a92-d64215dd4121" direction="Return">
+                  <elementDefinition Id="1d8c017d-2584-4e69-802f-40fa8aff6276" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="37e984d3-1d27-49bc-82d7-df7addb36f6d" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="8f6d0677-0fba-46f4-966e-fad6c6aa03b2" name="Person" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="1c634c38-a8f1-4324-847e-43fecfd5f901" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="a7912431-4de8-4e6a-bad0-f4379dfba35e" name="name" direction="In">
+                  <elementDefinition Id="08b9ef16-65e2-4286-9118-dc5484572323" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4a1222bb-78ad-405c-8407-1f014ed24294" name="age" direction="In">
+                  <elementDefinition Id="ed65cdaa-8e98-46dc-baeb-d723dc295abb" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="a202d6e4-5461-4274-b0d4-889b1e97c507" LastKnownName="Integer" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="f32f7ca6-73d1-4f3c-8a5a-565b84c0ed79" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="428a001d-fea4-46bb-a9d3-c9406fc0e3dd" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="1120c5eb-7ae3-47af-8919-eaab12101bb0" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="91f6c28b-809b-4b66-8bf3-6d214754d758" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="37b640a8-6e6c-4dee-b86a-2df4f203c61f" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="7050cbc9-0480-4622-b5ef-256a3b34e2ea" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="4f0b3f84-51c2-4bd5-b22f-90f5c271823b" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="77948527-2737-4616-b232-81d9ee414dc6" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="c8a2d7b2-e2ff-4355-9766-1ca7a4485544" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="25ee7817-d9df-486d-8737-060e8d57c5ff" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="d07162e6-65ba-404c-a38a-8a32dc16f22f" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="213999e3-5bd6-4ac7-a181-d0b62f8a8fac" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="b1f6546c-2edc-4e1d-8ed8-26a993408a51" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="b2868628-1d05-4b58-818e-c8aaa1fa189b" name="MyTeacherView" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>呈现的界面</description>
+        <elementDefinition Id="47fbe2dc-1b4d-4c97-b409-ba3de149f77b" />
+        <ownedOperationsInternal>
+          <operation Id="980f8e48-af60-4408-9e83-4ba2f2325081" name="Create" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>创建教师对象</description>
+            <elementDefinition Id="042c1d47-733a-4d7b-b657-28ab3b55f902" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="04b994a0-0e26-4896-aa8c-3973db211415" direction="Return">
+                  <elementDefinition Id="c91c1f0d-1a19-4027-aa9c-daadcb717dd8" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c8a2d7b2-e2ff-4355-9766-1ca7a4485544" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="0abc90dd-1ab5-4186-9eae-1d0092fc91a6" name="PrintMany" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>打印所有教师信息</description>
+            <elementDefinition Id="a060bb6b-ee32-4ed8-9161-fef6adb24343" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="941829cc-8f19-4485-bb8f-4389ca928ff2" name="teas" direction="In">
+                  <lowerValueInternal>
+                    <literalString Id="004dc182-a974-41fa-a8a8-07bb6e25f88a" name="Lower" value="*">
+                      <elementDefinition Id="6e2db63b-0a4c-40c7-806f-0865939f1a73" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="92da74d4-d069-4dca-8e7f-c95a5cc5eb12" name="Upper" value="*">
+                      <elementDefinition Id="7afb75fb-be96-4a2c-8a52-94df57a85303" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="892be8f4-06d3-42be-bee1-c717eb167f8d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="25ee7817-d9df-486d-8737-060e8d57c5ff" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="7fb482e2-3467-418d-b939-442f73d73dd6" name="Remove" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>删除教师</description>
+            <elementDefinition Id="a5483a3f-3b69-46ce-80ab-5c2c466eed76" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="90cb5ea4-02c3-4bc1-81c1-0bfaad671c35" direction="Return">
+                  <elementDefinition Id="afedd7c8-fc58-42f8-804b-6bc5b9644a2d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="d07162e6-65ba-404c-a38a-8a32dc16f22f" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="9d9ea451-5ad3-4b37-81ba-916480fa711a" name="Modify" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>修改教师</description>
+            <elementDefinition Id="99e67d70-4854-4f34-946a-9009298f2ca9" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="097887f3-bd8e-4bbe-88ad-cfe834fc880f" direction="Return">
+                  <elementDefinition Id="c4f2dec5-ab9b-4a66-8c15-cbfca5dc6e12" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="213999e3-5bd6-4ac7-a181-d0b62f8a8fac" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="4210cdde-7548-4d03-a071-89e67704dc41" name="PrintMenu" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="a2cb2e02-699d-45a2-a497-4f957c4734f6" />
+          </operation>
+          <operation Id="9e035793-2a42-465b-8bf0-79a042f37807" name="QueryByPrimaryKey" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>按主键查询</description>
+            <elementDefinition Id="00c2f56d-e89d-4584-a541-2c2a8a7d1e8e" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="566197f6-9ae4-4ae5-a526-6e86076793f9" direction="Return">
+                  <elementDefinition Id="8593d41d-aff1-483b-96f1-506a400980a5" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="b1f6546c-2edc-4e1d-8ed8-26a993408a51" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="94b5c987-68c6-493f-b049-b17cfaa2981e" name="PrintOne" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="0dcbe46d-bfa1-4a2e-9cfa-5860d4d6701a" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="e94af6d1-53d0-415b-a8c0-338c08285597" name="tea" direction="In" isUnique="false">
+                  <elementDefinition Id="fa861ef1-193b-44c4-aa1b-d1bd8df51190" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="25ee7817-d9df-486d-8737-060e8d57c5ff" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="7500f45a-f10b-4c82-ba49-5a8c3793fc6d" name="MyTeacherView" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="fd18544d-8314-441f-9ed6-ad83b2326441" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="69970c70-8ac4-4979-a384-f1fb952d1521" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="50487263-9e6a-4245-8ddd-bbdbdd12d1ce" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="a7e6b214-30a6-4c19-b725-f67c777aea0a" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="ecb42b88-85b1-47ae-9995-2b751e0056a5" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="55c8875e-5e89-46d0-9d3e-ac40a9d50dac" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="48209421-9c1b-4e88-81e9-86266b487f6f" name="Person" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Person">
+        <elementDefinition Id="0ba7d28d-bad7-4244-b88c-9f3057288097" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="16fc3cdf-e545-4ed1-9305-334d90d331c8" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="ce05930c-b56f-402b-852c-34e9f5d72345" name="MyPersonView" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>呈现的界面</description>
+        <elementDefinition Id="c15d6f96-21b8-4f5b-975f-9e046e01d344" />
+        <ownedOperationsInternal>
+          <operation Id="1ae48d31-3031-4058-809e-f8d9a210c775" name="Create" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>创建教师对象</description>
+            <elementDefinition Id="3b6e1fb8-62e8-4b61-81e2-33f9e06bf3a6" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4dd194a8-1748-4ab3-b48a-b3d86a637844" direction="Return">
+                  <elementDefinition Id="ceed9675-7016-44a4-8002-b0003c97b7bf" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="a7e6b214-30a6-4c19-b725-f67c777aea0a" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="dadbe30e-4bcf-43cb-92b9-a106992f922f" name="PrintMany" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>打印所有教师信息</description>
+            <elementDefinition Id="3846efb2-c089-4e81-9230-183da9c83060" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="aeaa845b-11aa-4dd7-9638-891efe34e537" name="pers" direction="In">
+                  <lowerValueInternal>
+                    <literalString Id="4645b492-677d-4df4-82d4-f2bad1773ab5" name="Lower" value="*">
+                      <elementDefinition Id="ff1e9732-3c44-4dd2-ab65-d61dee8ff428" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="262c0733-d806-44c7-a3fa-e1fe3f78456d" name="Upper" value="*">
+                      <elementDefinition Id="e73ce91f-b098-4692-9f48-4fcb083f0924" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="7402d5cd-a14a-49f4-a9be-bc361c0635db" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="ecb42b88-85b1-47ae-9995-2b751e0056a5" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="25a4332b-87ae-4d97-b6ce-d1dbd9798976" name="Remove" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>删除教师</description>
+            <elementDefinition Id="1710d1a6-f9c8-49a4-8559-d2107e48fea9" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="7bbaf995-4737-4702-8198-ca9d21dd7a46" direction="Return">
+                  <elementDefinition Id="509e3d54-75a1-4d3f-ba9b-977129d47429" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="55c8875e-5e89-46d0-9d3e-ac40a9d50dac" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="ecd1b30a-770d-4f8c-9a51-800c293cc7da" name="Modify" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>修改教师</description>
+            <elementDefinition Id="fc82d9b0-43a7-47e0-ad98-9b91cdc93da2" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="f76d203b-f4b0-42f5-a72e-9f7cea096a9c" direction="Return">
+                  <elementDefinition Id="df0a6193-32f4-4750-a820-7aff7c66ffbb" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="48209421-9c1b-4e88-81e9-86266b487f6f" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="5779afdd-7382-4458-9e4d-304ea1b41623" name="PrintMenu" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="9267e58e-10a1-4830-ba3f-dd0918864d23" />
+          </operation>
+          <operation Id="eec810e4-9077-47e6-8591-70ce8a81a247" name="QueryByPrimaryKey" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>按主键查询</description>
+            <elementDefinition Id="6d6ea5cd-bbc2-4d85-b785-448f978ea0a1" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="e8054828-b3c5-4097-9b09-17acfa7d981d" direction="Return">
+                  <elementDefinition Id="ce9d1de1-e95e-4104-93cc-0ccb2f03a8c3" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="16fc3cdf-e545-4ed1-9305-334d90d331c8" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="c2e7e178-215f-41b3-8ea2-5b1fde16cf30" name="PrintOne" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="01d668e2-4858-4d52-ab25-d18b254b3f74" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="0e1f1bf8-b8e4-47ee-8fb2-19098f6f5291" name="stu" direction="In" isUnique="false">
+                  <elementDefinition Id="a845895c-45b0-4b6a-a660-5fa8df4d69b0" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="ecb42b88-85b1-47ae-9995-2b751e0056a5" LastKnownName="Person" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="92fe72d7-188d-4466-a49a-a5de1f44401a" name="MyPersonView" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="4e4ca825-768d-40a1-a60c-fdd565542c28" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="9617e9fc-8613-4626-823a-312ec80eb5b7" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="5998ac2a-ee6e-48f4-8387-6614fe6969b7" />
+          </operation>
+          <operation Id="2925e96d-76cc-4527-ae0f-5d4a69ccd760" name="PrintMessage" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="6157a70e-5506-4227-83b9-ccfdf1dd0fbc" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="73067c76-3a0c-4171-b6af-8963ca7de65a" name="msg" direction="In">
+                  <elementDefinition Id="7024eaa6-48c9-4e4a-9b96-1c0293660127" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="49476202-7c59-497f-a705-873b534994f0" name="ChoiceMenu" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="ecdcb5fb-8836-4b05-8100-bb750066b430" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="3f82e5cd-85f1-474e-bfd8-7f6379c7000e" direction="Return">
+                  <elementDefinition Id="e9a9a845-3879-45bd-80b5-afe9dccc8be6" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="d2f3737b-3f28-49fb-8a4f-3fa496ba2835" LastKnownName="Integer" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="1cce720d-4ab8-4c9c-9665-9963c05a641d" name="Clear" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="38cd486e-cb2c-4894-963e-9de6103b1fc5" />
+          </operation>
+          <operation Id="f8edb21e-832f-4359-b5f5-b41010c6e2d6" name="QueryByName" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="f0a39f97-1d6a-4993-a5f3-def67225ba90" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="73e15094-b82a-486a-ab15-d28702e60de0" direction="Return">
+                  <elementDefinition Id="081ebc32-4072-4847-a6c2-e78f383ba3a8" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="9f3e5357-5577-4f8e-a00a-0961af184303" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="bf86d9dd-6055-4724-81e5-70c17e3e1c10" name="LogIn" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="4bf379d3-635b-4550-9bcc-01f40f9b2fa1" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="664e0869-f2cf-45f3-9d8d-414a8f9048bc" direction="Return">
+                  <elementDefinition Id="4c6dda22-184c-43b5-81a4-3de983fc853f" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c89b3729-8dbd-456f-a0f6-0a8f318e2b43" LastKnownName="User" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="0ba6dcd2-952a-4be0-b8df-119ea349ffa0" name="PrintLogInMenu" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="d469ab27-b4b4-4b51-812a-f5e4e734ce05" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="d2f3737b-3f28-49fb-8a4f-3fa496ba2835" name="Integer" isAbstract="false" isLeaf="false" cachedFullName="Integer">
+        <elementDefinition Id="220a3521-e091-4221-bae9-3ef9018e845c" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="9f3e5357-5577-4f8e-a00a-0961af184303" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="c89b3729-8dbd-456f-a0f6-0a8f318e2b43" name="User" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::User">
+        <elementDefinition Id="2d58be8c-333f-4ab8-88e3-defa243ade24" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="e23f7de0-ff4b-4301-afb9-7eda530ba473" name="MyPersonView" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::MyPersonView">
+        <elementDefinition Id="c15d6f96-21b8-4f5b-975f-9e046e01d344" />
+      </referencedType>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="fdceeb9e-f221-4af3-8e1b-176bcbf071c8" name="ModelingProject1">
+    <elementDefinition Id="2568de0b-47cc-4e9f-83e0-0ffbf501f780" />
+    <profileInstances>
+      <packageHasProfileInstances Id="9d1a1859-6da8-4ab5-aaa1-78194d0c9b0e">
+        <profileInstance Id="bb940385-d1c9-4a5d-a6c9-641917b3f67a" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="02bc4f59-d506-4080-bad5-34213aeb1ccd">
+        <profileInstance Id="3aef50cc-8cef-4942-a1c4-eb96dba378f9" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="53a54c4a-2843-4798-86a3-9bceb9f4501e">
+        <profileInstance Id="2c276949-cc5a-4777-ab27-f4fa00541d2b" name="CSharpProfile">
+          <elementDefinition Id="5cecbaf0-ea23-445a-8f57-80863c22b9b6" />
+        </profileInstance>
+        <elementDefinition Id="6b1e628d-1f88-4f28-bde0-ef6526afd289" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="1582f012-bcec-4563-a931-5d5ceb683c1e">
+        <profileInstance Id="515610bf-4911-4c88-acc7-ea185620c45a" name="TextTemplateBindings">
+          <elementDefinition Id="f013830e-be3b-494f-b47d-0ef7b7ea20ff" />
+        </profileInstance>
+        <elementDefinition Id="16b76e5a-b0da-428a-a244-8bf2031565c0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</logicalClassDesignerModel>

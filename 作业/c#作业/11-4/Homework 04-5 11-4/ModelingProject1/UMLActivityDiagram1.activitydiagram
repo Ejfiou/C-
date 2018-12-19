@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityRootModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="7955c031-a4c1-465e-a96b-3a03024a5e0d" name="Activity1" linkedPackageId="d3890604-df00-4218-975d-6cbd0bc01fe1" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner">
+  <ownedCommentsInternal>
+    <comment Id="69d8e69f-b86d-4bff-af8c-ca67fcf6bb70">
+      <elementDefinition Id="dbb8a528-a879-4c47-8cfd-2251feac1a40" />
+      <body>程序运行中，请输入y退出程序！</body>
+      <annotatedElements>
+        <opaqueActionMoniker Id="87c6b5dd-47b5-4097-bf42-245521efd813" LastKnownName="输出提示信息" />
+      </annotatedElements>
+    </comment>
+    <comment Id="1dde74e3-f530-49e4-bb6e-576ad02a7488">
+      <elementDefinition Id="a43b3253-d84d-4ec8-94c4-1069ab155618" />
+      <body>str= Console.ReadLine();</body>
+      <annotatedElements>
+        <opaqueActionMoniker Id="ec5e2b19-557d-4097-9322-b766a71adee9" LastKnownName="将接收到的数据赋值给str" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="535c23e7-9788-469b-a140-51b51b3446b9">
+      <profileInstance Id="2008fc83-ab17-4bde-8ad2-490de115de10" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="13cd7eb4-205a-4a54-9758-d4ef2212667b">
+      <profileInstance Id="5b2db0b0-0785-41de-8e56-0c1eef6f9dcd" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <activityRootModelHasActivity>
+      <activity Id="ca23be80-e99b-4540-8485-dd546b6950a5" name="Activity1" isAbstract="false" isLeaf="false" isActiveClass="false" isReentrant="false" isReadOnly="false" isSingleExecution="false">
+        <elementDefinition Id="87b5619b-d953-4d96-8189-d4f95a27d473" />
+        <nodes>
+          <initialNode Id="ecc2a714-c998-4a50-b8fe-237170a4f2af" name="Initial1" isLeaf="false">
+            <elementDefinition Id="30663ffe-7b59-48d0-accb-5c9fb8f554f4" />
+            <flowNodeTargets>
+              <controlFlow Id="fb0aaef7-1af6-45c0-b9bf-7dd02d1e9256" isLeaf="false">
+                <opaqueActionMoniker Id="504479e9-e12c-4456-8aa9-43ed8c43b981" LastKnownName="定义变量str" />
+                <elementDefinition Id="4a7d06bc-0584-4994-8969-1c1ffa394172" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction Id="504479e9-e12c-4456-8aa9-43ed8c43b981" name="定义变量str" isLeaf="false">
+            <elementDefinition Id="6692e4f6-bd42-48c5-b09e-2912da7cbb29" />
+            <flowNodeTargets>
+              <controlFlow Id="9e34150e-53bc-4510-933e-45da50b56d16" isLeaf="false">
+                <opaqueActionMoniker Id="87c6b5dd-47b5-4097-bf42-245521efd813" LastKnownName="输出提示信息" />
+                <elementDefinition Id="d19d2cdc-9c79-4769-a41d-fda7eab7f4e3" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="87c6b5dd-47b5-4097-bf42-245521efd813" name="输出提示信息" isLeaf="false">
+            <elementDefinition Id="1230c215-3d45-4088-b526-350abcf75100" />
+            <flowNodeTargets>
+              <controlFlow Id="4a46c259-9789-46ce-a45a-8be520c5eb1b" isLeaf="false">
+                <opaqueActionMoniker Id="ec5e2b19-557d-4097-9322-b766a71adee9" LastKnownName="将接收到的数据赋值给str" />
+                <elementDefinition Id="853be8cd-3d95-4c93-8b79-adf463a4c0a3" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="ec5e2b19-557d-4097-9322-b766a71adee9" name="将接收到的数据赋值给str" isLeaf="false">
+            <elementDefinition Id="dd18d841-5e20-4487-a712-183f78c4c553" />
+            <flowNodeTargets>
+              <controlFlow Id="3376d874-5b27-42f5-a0b0-8fda9a7d97e9" isLeaf="false">
+                <opaqueActionMoniker Id="f397f07e-266c-4feb-9f63-0ab14f3c10dc" LastKnownName="判断str是否等于y" />
+                <elementDefinition Id="3028153d-f779-443e-9696-ae458f6548c7" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="f397f07e-266c-4feb-9f63-0ab14f3c10dc" name="判断str是否等于y" isLeaf="false">
+            <elementDefinition Id="18c0eacb-caaf-4e3b-80c8-b9433f1e79fc" />
+            <flowNodeTargets>
+              <controlFlow Id="f7a13d56-52d9-46be-83dc-204b368b0843" isLeaf="false">
+                <decisionNodeMoniker Id="8a983010-6d14-4d4d-81f2-787b42a45841" LastKnownName="Decision1" />
+                <elementDefinition Id="2f932b75-3a24-41cc-afa4-6fa97e209843" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="8a983010-6d14-4d4d-81f2-787b42a45841" name="Decision1" isLeaf="false">
+            <elementDefinition Id="45f0a03d-1502-4e6e-ba6d-56771a42e8a4" />
+            <flowNodeTargets>
+              <controlFlow Id="7dc512b1-6bb0-49d6-8488-d8d69bc1cb32" guard="不等于" isLeaf="false">
+                <opaqueActionMoniker Id="87c6b5dd-47b5-4097-bf42-245521efd813" LastKnownName="输出提示信息" />
+                <elementDefinition Id="a1fadfb0-85a2-4cc9-9006-a847bc5a2842" />
+              </controlFlow>
+              <controlFlow Id="1820cbf0-6c51-4d6d-8e09-b56aead6fbbb" guard="等于" isLeaf="false">
+                <activityFinalNodeMoniker Id="1eed4972-1d44-4a8d-8b4c-39c2046aeb24" LastKnownName="ActivityFinal1" />
+                <elementDefinition Id="5dc54e64-08b6-44e2-ba42-e9160925f3a0" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <activityFinalNode Id="1eed4972-1d44-4a8d-8b4c-39c2046aeb24" name="ActivityFinal1" isLeaf="false">
+            <elementDefinition Id="54727a8b-4c46-4ff8-80f2-8a555f01a567" />
+          </activityFinalNode>
+        </nodes>
+      </activity>
+    </activityRootModelHasActivity>
+  </packagedElements>
+  <package Id="d3890604-df00-4218-975d-6cbd0bc01fe1" name="ModelingProject1">
+    <elementDefinition Id="a2212e63-b9e9-4201-93d8-4195d2f40326" />
+  </package>
+</activityRootModel>

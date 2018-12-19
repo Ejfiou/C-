@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Homework T2 11-14\Homework T2 11-14\bin\Debug\Homework T2 11-14.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Homework T2 11-14\Homework T2 11-14\bin\Debug\Homework T2 11-14.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Homework T2 11-14\Homework T2 11-14\bin\Debug\Homework T2 11-14.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Homework T2 11-14\Homework T2 11-14\obj\Debug\Homework T2 11-14.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Homework T2 11-14\Homework T2 11-14\obj\Debug\Homework T2 11-14.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Homework T2 11-14\Homework T2 11-14\obj\Debug\Homework T2 11-14.pdb
+G:\11-14\Homework T2 11-14\Homework T2 11-14\bin\Debug\Homework T2 11-14.exe.config
+G:\11-14\Homework T2 11-14\Homework T2 11-14\obj\Debug\Homework T2 11-14.exe
+G:\11-14\Homework T2 11-14\Homework T2 11-14\obj\Debug\Homework T2 11-14.pdb
+G:\11-14\Homework T2 11-14\Homework T2 11-14\bin\Debug\Homework T2 11-14.exe
+G:\11-14\Homework T2 11-14\Homework T2 11-14\bin\Debug\Homework T2 11-14.pdb
+G:\11-14\Homework T2 11-14\Homework T2 11-14\obj\Debug\Homework T2 11-14.csprojResolveAssemblyReference.cache
+E:\c#作业\11-14\Homework T2 11-14\Homework T2 11-14\bin\Debug\Homework T2 11-14.exe.config
+E:\c#作业\11-14\Homework T2 11-14\Homework T2 11-14\obj\Debug\Homework T2 11-14.exe
+E:\c#作业\11-14\Homework T2 11-14\Homework T2 11-14\obj\Debug\Homework T2 11-14.pdb

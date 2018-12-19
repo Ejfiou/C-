@@ -1,0 +1,16 @@
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\DALMSSQL\bin\Debug\DALMSSQL.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\DALMSSQL\bin\Debug\DALMSSQL.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\DALMSSQL\bin\Debug\Model.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\DALMSSQL\bin\Debug\Model.pdb
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\DALMSSQL\obj\Debug\DALMSSQL.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\DALMSSQL\obj\Debug\DALMSSQL.dll
+c:\users\13695\documents\visual studio 2015\Projects\MySchool\DALMSSQL\obj\Debug\DALMSSQL.pdb
+E:\c#\MySchool  不同层实现\DALMSSQL\bin\Debug\DALMSSQL.dll
+E:\c#\MySchool  不同层实现\DALMSSQL\bin\Debug\DALMSSQL.pdb
+E:\c#\MySchool  不同层实现\DALMSSQL\bin\Debug\Model.dll
+E:\c#\MySchool  不同层实现\DALMSSQL\bin\Debug\Model.pdb
+E:\c#\MySchool  不同层实现\DALMSSQL\obj\Debug\DALMSSQL.csprojResolveAssemblyReference.cache
+E:\c#\MySchool  不同层实现\DALMSSQL\obj\Debug\DALMSSQL.dll
+E:\c#\MySchool  不同层实现\DALMSSQL\obj\Debug\DALMSSQL.pdb
+E:\c#\MySchool  不同层实现\DALMSSQL\bin\Debug\ViewModel.dll
+E:\c#\MySchool  不同层实现\DALMSSQL\bin\Debug\ViewModel.pdb

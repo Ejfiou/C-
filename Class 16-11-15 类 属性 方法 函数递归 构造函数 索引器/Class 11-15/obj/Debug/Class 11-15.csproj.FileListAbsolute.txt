@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-15\Class 11-15\bin\Debug\Class 11-15.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-15\Class 11-15\obj\Debug\Class 11-15.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-15\Class 11-15\bin\Debug\Class 11-15.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-15\Class 11-15\bin\Debug\Class 11-15.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-15\Class 11-15\obj\Debug\Class 11-15.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-15\Class 11-15\obj\Debug\Class 11-15.pdb
+E:\课堂做的\Class 11-15类 属性 方法\Class 11-15\bin\Debug\Class 11-15.exe.config
+E:\课堂做的\Class 11-15类 属性 方法\Class 11-15\obj\Debug\Class 11-15.exe
+E:\课堂做的\Class 11-15类 属性 方法\Class 11-15\obj\Debug\Class 11-15.pdb
+E:\课堂做的\Class 11-15类 属性 方法\Class 11-15\bin\Debug\Class 11-15.exe
+E:\课堂做的\Class 11-15类 属性 方法\Class 11-15\bin\Debug\Class 11-15.pdb
+E:\课堂做的\Class 11-15类 属性 方法\Class 11-15\obj\Debug\Class 11-15.csprojResolveAssemblyReference.cache
+G:\课堂做的\Class 11-15类 属性 方法 函数递归 构造函数 索引器\Class 11-15\bin\Debug\Class 11-15.exe.config
+G:\课堂做的\Class 11-15类 属性 方法 函数递归 构造函数 索引器\Class 11-15\obj\Debug\Class 11-15.exe
+G:\课堂做的\Class 11-15类 属性 方法 函数递归 构造函数 索引器\Class 11-15\obj\Debug\Class 11-15.pdb
+G:\课堂做的\Class 11-15类 属性 方法 函数递归 构造函数 索引器\Class 11-15\bin\Debug\Class 11-15.exe
+G:\课堂做的\Class 11-15类 属性 方法 函数递归 构造函数 索引器\Class 11-15\bin\Debug\Class 11-15.pdb
+G:\课堂做的\Class 11-15类 属性 方法 函数递归 构造函数 索引器\Class 11-15\obj\Debug\Class 11-15.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\bin\Debug\DALMySQL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\bin\Debug\DALMySQL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\bin\Debug\ModelStu.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\bin\Debug\ModelStuView.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\bin\Debug\MySql.Data.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\bin\Debug\ModelStuView.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\bin\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\bin\Debug\MySql.Data.xml
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\obj\Debug\DALMySQL.csprojResolveAssemblyReference.cache
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\obj\Debug\DALMySQL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\DALMySQL\obj\Debug\DALMySQL.pdb

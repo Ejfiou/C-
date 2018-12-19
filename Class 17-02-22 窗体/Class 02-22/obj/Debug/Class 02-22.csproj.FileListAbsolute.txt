@@ -1,0 +1,36 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\bin\Debug\Class 02-22.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\bin\Debug\Class 02-22.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\bin\Debug\Class 02-22.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\obj\Debug\Class 02-22.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\obj\Debug\Class_02_22.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\obj\Debug\Class_02_22.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\obj\Debug\Class 02-22.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\obj\Debug\Class 02-22.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 02-22\Class 02-22\obj\Debug\Class 02-22.pdb
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\bin\Debug\Class 02-22.exe.config
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\obj\Debug\Class 02-22.exe
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\obj\Debug\Class 02-22.pdb
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\obj\Debug\Class 02-22.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\obj\Debug\Class_02_22.Form1.resources
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\obj\Debug\Class_02_22.Properties.Resources.resources
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\obj\Debug\Class 02-22.csproj.GenerateResource.Cache
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\bin\Debug\Class 02-22.exe
+C:\Users\13695\Desktop\Class 02-22\Class 02-22\bin\Debug\Class 02-22.pdb
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\bin\Debug\Class 02-22.exe.config
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\obj\Debug\Class 02-22.exe
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\obj\Debug\Class 02-22.pdb
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\bin\Debug\Class 02-22.exe
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\bin\Debug\Class 02-22.pdb
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\obj\Debug\Class 02-22.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\obj\Debug\Class_02_22.Form1.resources
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\obj\Debug\Class_02_22.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Class 02-22\Class 02-22\obj\Debug\Class 02-22.csproj.GenerateResource.Cache
+E:\c#\Class 17-02-22 窗体\Class 02-22\bin\Debug\Class 02-22.exe.config
+E:\c#\Class 17-02-22 窗体\Class 02-22\obj\Debug\Class 02-22.exe
+E:\c#\Class 17-02-22 窗体\Class 02-22\obj\Debug\Class 02-22.pdb
+E:\c#\Class 17-02-22 窗体\Class 02-22\bin\Debug\Class 02-22.exe
+E:\c#\Class 17-02-22 窗体\Class 02-22\bin\Debug\Class 02-22.pdb
+E:\c#\Class 17-02-22 窗体\Class 02-22\obj\Debug\Class 02-22.csprojResolveAssemblyReference.cache
+E:\c#\Class 17-02-22 窗体\Class 02-22\obj\Debug\Class_02_22.Form1.resources
+E:\c#\Class 17-02-22 窗体\Class 02-22\obj\Debug\Class_02_22.Properties.Resources.resources
+E:\c#\Class 17-02-22 窗体\Class 02-22\obj\Debug\Class 02-22.csproj.GenerateResource.Cache

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityRootModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="d0b43b40-02a2-433b-8413-be93fa5da157" name="Activity1" linkedPackageId="6499ab0d-39fd-4467-b450-aed5c71bfe1c" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner">
+  <ownedCommentsInternal>
+    <comment Id="6a306f77-76c1-4886-a54d-0e3214993a6e">
+      <elementDefinition Id="79cb268c-b9d7-43ea-97d3-2c03b62b178e" />
+      <body>
+ g = num % 10;
+ s = num / 10 % 10;
+</body>
+      <annotatedElements>
+        <opaqueActionMoniker Id="c031a4c2-4967-4c32-8128-71829e2f7d8c" LastKnownName="将各个位的数分别提取存放于定义变量中" />
+      </annotatedElements>
+    </comment>
+    <comment Id="2ebac5e6-cbfe-41fb-b5df-b1a051ff398b">
+      <elementDefinition Id="b09d42dd-d86d-4634-bb33-ce2570b92f7d" />
+      <body>判断万位跟个位以及十位跟千位是否相等</body>
+      <annotatedElements>
+        <decisionNodeMoniker Id="b5375dc2-62bc-4197-b465-b15ee6fb14c8" LastKnownName="Decision1" />
+      </annotatedElements>
+    </comment>
+    <comment Id="10feb77c-3136-454f-ac1f-b29ef823a80d">
+      <elementDefinition Id="8e94d584-8ec4-45e4-847a-c859037b21da" />
+      <body>存放于num</body>
+      <annotatedElements>
+        <opaqueActionMoniker Id="2b71d002-b471-4cc7-a498-844509ebccaa" LastKnownName="接收输入的数据" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="06ad814a-9893-46a4-8012-58b0a5a627e4">
+      <profileInstance Id="a4774974-a098-429f-8a2b-60c6c495953b" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="72d8366e-2615-4b82-88d9-b98358813002">
+      <profileInstance Id="961e04ec-f23b-4616-8c87-95f32b39dfe4" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <activityRootModelHasActivity>
+      <activity Id="b1f6a04e-8549-4617-8af1-c864dff5f816" name="Activity1" isAbstract="false" isLeaf="false" isActiveClass="false" isReentrant="false" isReadOnly="false" isSingleExecution="false">
+        <elementDefinition Id="a67d1b42-d162-441a-bc2a-73df409dc50a" />
+        <nodes>
+          <initialNode Id="860b0dd9-81ee-4841-b44b-6a26b41f05d7" name="Initial11" isLeaf="false">
+            <elementDefinition Id="52c35950-f107-49d8-9a30-16e3a256ed8d" />
+            <flowNodeTargets>
+              <controlFlow Id="d9ee99be-e187-4ead-b225-beacd5a935af" isLeaf="false">
+                <opaqueActionMoniker Id="cfd6b11c-22b6-48b0-913c-cc30ad82dbd7" LastKnownName="定义字符串变量str" />
+                <elementDefinition Id="bbf20a82-1043-4c46-b789-0c9c5eadbc53" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction Id="7e85a007-0407-4111-8179-6d83ccac29b6" name="输出提示信息" isLeaf="false">
+            <elementDefinition Id="6139849b-a9eb-4fa2-88af-515d74e31224" />
+            <flowNodeTargets>
+              <controlFlow Id="6b65a309-4de0-44b7-a345-1551fcb7eebc" isLeaf="false">
+                <opaqueActionMoniker Id="2b71d002-b471-4cc7-a498-844509ebccaa" LastKnownName="接收输入的数据" />
+                <elementDefinition Id="a8033a26-1f9e-4000-aa10-407436c2d0d1" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="2b71d002-b471-4cc7-a498-844509ebccaa" name="接收输入的数据" isLeaf="false">
+            <elementDefinition Id="401037c8-51dc-490a-b347-7d6b7b37aeb9" />
+            <flowNodeTargets>
+              <controlFlow Id="635a0706-9eca-4161-ae90-e23cb6d817cb" isLeaf="false">
+                <opaqueActionMoniker Id="d8333402-8238-4d9d-8c5d-6e44d5cf91aa" LastKnownName="定义变量g,s,q,w" />
+                <elementDefinition Id="3635a96d-8ca2-4f9b-abeb-98dfc339baed" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="c031a4c2-4967-4c32-8128-71829e2f7d8c" name="将各个位的数分别提取存放于定义变量中" isLeaf="false">
+            <elementDefinition Id="d025c60e-3aca-47bc-8d9e-ed5f7a7908a5" />
+            <flowNodeTargets>
+              <controlFlow Id="15d7395b-d5c2-420f-99ee-4769cb23c11a" isLeaf="false">
+                <decisionNodeMoniker Id="b5375dc2-62bc-4197-b465-b15ee6fb14c8" LastKnownName="Decision1" />
+                <elementDefinition Id="b6ae780b-2d01-45b3-a626-c40312f0ecfa" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="b5375dc2-62bc-4197-b465-b15ee6fb14c8" name="Decision1" isLeaf="false">
+            <elementDefinition Id="720a22b6-d472-4443-915a-dc88fbd814c2" />
+            <flowNodeTargets>
+              <controlFlow Id="c05dfc5c-0e79-458e-8cda-ccc970937cfa" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="259e7578-2087-4d74-8634-3ff6d021b623" LastKnownName="输出是对称数" />
+                <elementDefinition Id="a13936af-190f-4288-af3e-9dfc7be77ece" />
+              </controlFlow>
+              <controlFlow Id="12bd2f43-e9fc-4413-8636-1ad1a4475b29" guard="否" isLeaf="false">
+                <opaqueActionMoniker Id="a89d503f-4b82-4a6a-b52e-9d5455c2e788" LastKnownName="输出不是对称数" />
+                <elementDefinition Id="b1a6d2bf-f2e9-4a33-8bc9-75ec489c4155" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction Id="259e7578-2087-4d74-8634-3ff6d021b623" name="输出是对称数" isLeaf="false">
+            <elementDefinition Id="adfbc4c3-f6a6-4bbd-9b60-bc43a5d303ff" />
+            <flowNodeTargets>
+              <controlFlow Id="648e474d-e3f3-4268-ac65-5a1a6d264728" isLeaf="false">
+                <mergeNodeMoniker Id="44077ef2-e755-4238-9f11-c2dfaa5104ce" LastKnownName="Merge1" />
+                <elementDefinition Id="4b45ebaa-aaf7-4133-8454-c3406808eab0" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="a89d503f-4b82-4a6a-b52e-9d5455c2e788" name="输出不是对称数" isLeaf="false">
+            <elementDefinition Id="4ac234a7-13b4-4c92-ab49-8845dee378e2" />
+            <flowNodeTargets>
+              <controlFlow Id="6e2a0233-1e01-4f45-b6f6-869931412f90" isLeaf="false">
+                <mergeNodeMoniker Id="44077ef2-e755-4238-9f11-c2dfaa5104ce" LastKnownName="Merge1" />
+                <elementDefinition Id="bd7c03ae-7b0b-4683-850c-4c51b09dd5f8" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <mergeNode Id="44077ef2-e755-4238-9f11-c2dfaa5104ce" name="Merge1" isLeaf="false">
+            <elementDefinition Id="20ee2b47-252b-4e89-8dfd-05bbbe3d3966" />
+            <flowNodeTargets>
+              <controlFlow Id="e07e239e-3fe6-40e5-bae8-fd256d424dce" isLeaf="false">
+                <opaqueActionMoniker Id="84428abc-92d8-4e5d-b77f-4a19d0030034" LastKnownName="输出提示信息（Y/N）" />
+                <elementDefinition Id="93edbbab-8dbf-4ffb-9981-9683d9b5b632" />
+              </controlFlow>
+            </flowNodeTargets>
+          </mergeNode>
+          <opaqueAction Id="cfd6b11c-22b6-48b0-913c-cc30ad82dbd7" name="定义字符串变量str" isLeaf="false">
+            <elementDefinition Id="69f65c51-e110-4f47-9191-bed6abe8c0ab" />
+            <flowNodeTargets>
+              <controlFlow Id="9f20a649-4c1b-41cf-8acc-fd5ec1d1f131" isLeaf="false">
+                <opaqueActionMoniker Id="7e85a007-0407-4111-8179-6d83ccac29b6" LastKnownName="输出提示信息" />
+                <elementDefinition Id="b56650f9-f6ed-4ca2-8238-80e80fe11180" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="d8333402-8238-4d9d-8c5d-6e44d5cf91aa" name="定义变量g,s,q,w" isLeaf="false">
+            <elementDefinition Id="0bbd9606-7ce8-4f99-93e0-af0096841c7b" />
+            <flowNodeTargets>
+              <controlFlow Id="e11030cd-0241-472d-a5bc-1ac7d8acbf74" isLeaf="false">
+                <opaqueActionMoniker Id="c031a4c2-4967-4c32-8128-71829e2f7d8c" LastKnownName="将各个位的数分别提取存放于定义变量中" />
+                <elementDefinition Id="e277e40e-e1b7-4dc3-8446-e5bc6d78bae6" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="84428abc-92d8-4e5d-b77f-4a19d0030034" name="输出提示信息（Y/N）" isLeaf="false">
+            <elementDefinition Id="addcfcc5-2171-42ce-8ae3-4498c04cff9e" />
+            <flowNodeTargets>
+              <controlFlow Id="b9405c3a-dd48-46dd-8a75-d0667eb3bc55" isLeaf="false">
+                <opaqueActionMoniker Id="0ea01388-8e8d-44fd-99e4-e9f89112d37d" LastKnownName="接收数据存放于str" />
+                <elementDefinition Id="cd48cd4a-9190-4378-8c46-d81efff0e152" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="0ea01388-8e8d-44fd-99e4-e9f89112d37d" name="接收数据存放于str" isLeaf="false">
+            <elementDefinition Id="b23f4467-24ab-47d4-8aaf-ea0183770a27" />
+            <flowNodeTargets>
+              <controlFlow Id="3ea364e7-95a5-4df2-9725-02b053fbc91c" isLeaf="false">
+                <opaqueActionMoniker Id="19c5b79c-1212-483e-8d73-98dbfd4c938a" LastKnownName="判断str是否等于y" />
+                <elementDefinition Id="dd41e965-b4ba-45fa-be47-0d84dc4e1f38" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="19c5b79c-1212-483e-8d73-98dbfd4c938a" name="判断str是否等于y" isLeaf="false">
+            <elementDefinition Id="08216eef-e11d-4d51-94b0-27d18d9f1a1a" />
+            <flowNodeTargets>
+              <controlFlow Id="b8d29c16-542e-4042-bbe3-55af68946568" isLeaf="false">
+                <decisionNodeMoniker Id="3a54c7ef-ecff-4ae1-8a8b-3b34bcd635cc" LastKnownName="Decision2" />
+                <elementDefinition Id="660bc419-488b-4d4b-b289-59b41367741c" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="3a54c7ef-ecff-4ae1-8a8b-3b34bcd635cc" name="Decision2" isLeaf="false">
+            <elementDefinition Id="b3584b56-0e1c-42ce-9139-0d9e6d851a3b" />
+            <flowNodeTargets>
+              <controlFlow Id="62eb7d07-3972-44ab-93b3-1124c436686f" guard="等于" isLeaf="false">
+                <opaqueActionMoniker Id="7e85a007-0407-4111-8179-6d83ccac29b6" LastKnownName="输出提示信息" />
+                <elementDefinition Id="6166440b-b8cb-413e-b56f-8497a3b45747" />
+              </controlFlow>
+              <controlFlow Id="e0b3f234-81d6-47f1-b9a5-45ec2e1c70c7" guard="不等于" isLeaf="false">
+                <activityFinalNodeMoniker Id="8a2d109f-9ea3-4691-a87c-549a9b39967a" LastKnownName="ActivityFinal1" />
+                <elementDefinition Id="c3e8bf05-d499-45ae-88f5-c24af44444f9" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <activityFinalNode Id="8a2d109f-9ea3-4691-a87c-549a9b39967a" name="ActivityFinal1" isLeaf="false">
+            <elementDefinition Id="1176e83c-cf7f-4f42-85c6-2a3acdf19efc" />
+          </activityFinalNode>
+        </nodes>
+      </activity>
+    </activityRootModelHasActivity>
+  </packagedElements>
+  <package Id="6499ab0d-39fd-4467-b450-aed5c71bfe1c" name="ModelingProject1">
+    <elementDefinition Id="2e7ad569-4ed3-4f81-9863-8028213799ec" />
+  </package>
+</activityRootModel>

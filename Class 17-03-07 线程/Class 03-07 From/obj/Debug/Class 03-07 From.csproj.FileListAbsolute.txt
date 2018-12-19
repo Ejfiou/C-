@@ -1,0 +1,20 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\bin\Debug\Class 03-07 From.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\bin\Debug\Class 03-07 From.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\bin\Debug\Class 03-07 From.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\obj\Debug\Class 03-07 From.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\obj\Debug\Class_03_07_From.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\obj\Debug\Class_03_07_From.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\obj\Debug\Class 03-07 From.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\obj\Debug\Class 03-07 From.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\obj\Debug\Class 03-07 From.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 03-07\Class 03-07 From\obj\Debug\Class_03_07_From.FrmPlay.resources
+E:\c#\Class 17-03-07 线程\Class 03-07 From\bin\Debug\Class 03-07 From.exe.config
+E:\c#\Class 17-03-07 线程\Class 03-07 From\obj\Debug\Class 03-07 From.exe
+E:\c#\Class 17-03-07 线程\Class 03-07 From\obj\Debug\Class 03-07 From.pdb
+E:\c#\Class 17-03-07 线程\Class 03-07 From\bin\Debug\Class 03-07 From.exe
+E:\c#\Class 17-03-07 线程\Class 03-07 From\bin\Debug\Class 03-07 From.pdb
+E:\c#\Class 17-03-07 线程\Class 03-07 From\obj\Debug\Class 03-07 From.csprojResolveAssemblyReference.cache
+E:\c#\Class 17-03-07 线程\Class 03-07 From\obj\Debug\Class_03_07_From.Form1.resources
+E:\c#\Class 17-03-07 线程\Class 03-07 From\obj\Debug\Class_03_07_From.FrmPlay.resources
+E:\c#\Class 17-03-07 线程\Class 03-07 From\obj\Debug\Class_03_07_From.Properties.Resources.resources
+E:\c#\Class 17-03-07 线程\Class 03-07 From\obj\Debug\Class 03-07 From.csproj.GenerateResource.Cache

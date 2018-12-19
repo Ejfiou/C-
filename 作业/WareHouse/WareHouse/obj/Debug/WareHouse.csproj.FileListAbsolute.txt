@@ -1,0 +1,75 @@
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\bin\Debug\WareHouse.exe.config
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\bin\Debug\WareHouse.exe
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\bin\Debug\WareHouse.pdb
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.frmLogin.resources
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.Properties.Resources.resources
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.GenerateResource.Cache
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.exe
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.pdb
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.frmMain.resources
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.frmInput.resources
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\bin\Debug\MyClassLibrary1.dll
+c:\users\13695\documents\visual studio 2015\Projects\WareHouse\WareHouse\bin\Debug\MyClassLibrary1.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.frmOut.resources
+C:\Users\13695\Documents\Visual Studio 2015\Projects\WareHouse\WareHouse\obj\Debug\WareHouse.frmSearch.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\bin\Debug\WareHouse.exe.config
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.exe
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.pdb
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmLogin.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmInput.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmMain.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmOut.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmSearch.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\bin\Debug\WareHouse.exe
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\bin\Debug\WareHouse.pdb
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\bin\Debug\MyClassLibrary1.dll
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\bin\Debug\MyClassLibrary1.pdb
+H:\WareHouse\WareHouse\bin\Debug\WareHouse.exe.config
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.exe
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.pdb
+H:\WareHouse\WareHouse\bin\Debug\WareHouse.exe
+H:\WareHouse\WareHouse\bin\Debug\WareHouse.pdb
+H:\WareHouse\WareHouse\bin\Debug\MyClassLibrary1.dll
+H:\WareHouse\WareHouse\bin\Debug\MyClassLibrary1.pdb
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.csprojResolveAssemblyReference.cache
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmLogin.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmInput.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmMain.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmOut.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmSearch.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.Properties.Resources.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAll.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.FrmObject.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAllTreeView.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmSearchTreeView.resources
+C:\Users\Administrator\Desktop\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAllListBox.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.FrmObject.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmSearchTreeView.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAll.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAllListBox.resources
+H:\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAllTreeView.resources
+E:\WareHouse\WareHouse\bin\Debug\WareHouse.exe.config
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.exe
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.pdb
+E:\WareHouse\WareHouse\bin\Debug\WareHouse.exe
+E:\WareHouse\WareHouse\bin\Debug\WareHouse.pdb
+E:\WareHouse\WareHouse\bin\Debug\MyClassLibrary1.dll
+E:\WareHouse\WareHouse\bin\Debug\MyClassLibrary1.pdb
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.csprojResolveAssemblyReference.cache
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmLogin.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmInput.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmMain.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.FrmObject.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmOut.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmSearch.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmSearchTreeView.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAll.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAllListBox.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.frmShowAllTreeView.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.Properties.Resources.resources
+E:\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.GenerateResource.Cache

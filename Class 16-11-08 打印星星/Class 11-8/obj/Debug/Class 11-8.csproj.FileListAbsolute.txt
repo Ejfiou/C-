@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-8\Class 11-8\bin\Debug\Class 11-8.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 11-8\Class 11-8\bin\Debug\Class 11-8.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 11-8\Class 11-8\bin\Debug\Class 11-8.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 11-8\Class 11-8\obj\Debug\Class 11-8.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 11-8\Class 11-8\obj\Debug\Class 11-8.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Class 11-8\Class 11-8\obj\Debug\Class 11-8.pdb
+G:\Class 11-8\Class 11-8\bin\Debug\Class 11-8.exe.config
+G:\Class 11-8\Class 11-8\obj\Debug\Class 11-8.exe
+G:\Class 11-8\Class 11-8\obj\Debug\Class 11-8.pdb
+E:\c#\Class 11-8\Class 11-8\bin\Debug\Class 11-8.exe.config
+E:\c#\Class 11-8\Class 11-8\obj\Debug\Class 11-8.exe
+E:\c#\Class 11-8\Class 11-8\obj\Debug\Class 11-8.pdb
+E:\c#\Class 16-11-08 打印星星\Class 11-8\bin\Debug\Class 11-8.exe.config
+E:\c#\Class 16-11-08 打印星星\Class 11-8\obj\Debug\Class 11-8.exe
+E:\c#\Class 16-11-08 打印星星\Class 11-8\obj\Debug\Class 11-8.pdb
+E:\c#\Class 16-11-08 打印星星\Class 11-8\bin\Debug\Class 11-8.exe
+E:\c#\Class 16-11-08 打印星星\Class 11-8\bin\Debug\Class 11-8.pdb
+E:\c#\Class 16-11-08 打印星星\Class 11-8\obj\Debug\Class 11-8.csprojResolveAssemblyReference.cache

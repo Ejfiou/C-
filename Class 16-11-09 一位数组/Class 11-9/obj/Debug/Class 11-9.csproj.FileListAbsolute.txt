@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-9\Class 11-9\bin\Debug\Class 11-9.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-9\Class 11-9\bin\Debug\Class 11-9.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-9\Class 11-9\bin\Debug\Class 11-9.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-9\Class 11-9\obj\Debug\Class 11-9.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-9\Class 11-9\obj\Debug\Class 11-9.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-9\Class 11-9\obj\Debug\Class 11-9.pdb
+G:\Class 11-9\Class 11-9\bin\Debug\Class 11-9.exe.config
+G:\Class 11-9\Class 11-9\obj\Debug\Class 11-9.exe
+G:\Class 11-9\Class 11-9\obj\Debug\Class 11-9.pdb
+E:\c#\Class 11-9 一位数组\Class 11-9\bin\Debug\Class 11-9.exe.config
+E:\c#\Class 11-9 一位数组\Class 11-9\obj\Debug\Class 11-9.exe
+E:\c#\Class 11-9 一位数组\Class 11-9\obj\Debug\Class 11-9.pdb
+E:\c#\Class 16-11-09 一位数组\Class 11-9\bin\Debug\Class 11-9.exe.config
+E:\c#\Class 16-11-09 一位数组\Class 11-9\obj\Debug\Class 11-9.exe
+E:\c#\Class 16-11-09 一位数组\Class 11-9\obj\Debug\Class 11-9.pdb

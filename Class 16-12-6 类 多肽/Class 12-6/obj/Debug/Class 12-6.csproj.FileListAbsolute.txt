@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-6\Class 12-6\bin\Debug\Class 12-6.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-6\Class 12-6\bin\Debug\Class 12-6.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-6\Class 12-6\bin\Debug\Class 12-6.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-6\Class 12-6\obj\Debug\Class 12-6.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-6\Class 12-6\obj\Debug\Class 12-6.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 12-6\Class 12-6\obj\Debug\Class 12-6.pdb
+E:\c#\Class 16-12-6 类 多肽\Class 12-6\bin\Debug\Class 12-6.exe.config
+E:\c#\Class 16-12-6 类 多肽\Class 12-6\obj\Debug\Class 12-6.exe
+E:\c#\Class 16-12-6 类 多肽\Class 12-6\obj\Debug\Class 12-6.pdb

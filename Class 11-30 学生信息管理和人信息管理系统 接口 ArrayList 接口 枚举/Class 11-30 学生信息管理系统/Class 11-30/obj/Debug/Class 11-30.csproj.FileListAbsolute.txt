@@ -1,0 +1,102 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-30\Class 11-30\bin\Debug\Class 11-30.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-30\Class 11-30\bin\Debug\Class 11-30.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-30\Class 11-30\bin\Debug\Class 11-30.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-30\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-30\Class 11-30\obj\Debug\Class 11-30.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Class 11-30\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\Administrator\Desktop\Class 11-30\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+E:\课堂做的\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+E:\课堂做的\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+E:\课堂做的\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+E:\课堂做的\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+E:\课堂做的\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+E:\课堂做的\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+E:\课堂做的\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+E:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+E:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+E:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+E:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+E:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+E:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+H:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+H:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+H:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+H:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+H:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+H:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+G:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+G:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+G:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+G:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+G:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+G:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\13695\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+C:\Users\Administrator\Desktop\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache
+D:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe.config
+D:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.exe
+D:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.pdb
+D:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.exe
+D:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\bin\Debug\Class 11-30.pdb
+D:\Class 11-30 学生信息管理和人信息管理系统 接口 ArrayList 接口 枚举\Class 11-30 学生信息管理系统\Class 11-30\obj\Debug\Class 11-30.csprojResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+c:\users\13695\documents\visual studio 2015\Projects\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.exe.config
+c:\users\13695\documents\visual studio 2015\Projects\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.exe
+c:\users\13695\documents\visual studio 2015\Projects\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.pdb
+c:\users\13695\documents\visual studio 2015\Projects\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.csprojResolveAssemblyReference.cache
+c:\users\13695\documents\visual studio 2015\Projects\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.exe
+c:\users\13695\documents\visual studio 2015\Projects\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.pdb
+G:\11-15\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.exe.config
+G:\11-15\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.exe
+G:\11-15\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.pdb
+G:\11-15\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.exe
+G:\11-15\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.pdb
+G:\11-15\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\11-15\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.exe.config
+C:\Users\Administrator\Desktop\11-15\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.exe
+C:\Users\Administrator\Desktop\11-15\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.pdb
+C:\Users\Administrator\Desktop\11-15\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.exe
+C:\Users\Administrator\Desktop\11-15\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.pdb
+C:\Users\Administrator\Desktop\11-15\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.csprojResolveAssemblyReference.cache
+E:\c#作业\11-15\Homework T2 11-15\Homework T2 11-15\bin\Debug\Homework T2 11-15.exe.config
+E:\c#作业\11-15\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.exe
+E:\c#作业\11-15\Homework T2 11-15\Homework T2 11-15\obj\Debug\Homework T2 11-15.pdb

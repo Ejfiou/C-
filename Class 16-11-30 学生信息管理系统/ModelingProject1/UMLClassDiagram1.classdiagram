@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="d5ca9f11-c9e4-4d97-97fd-3164eff3066b" name="UMLClassDiagram1" linkedPackageId="fdceeb9e-f221-4af3-8e1b-176bcbf071c8" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <appliedStereotypesInternal>
+    <stereotypeInstance Id="34818993-5ef3-400c-8cac-0d3559cb647f" name="namespace" profile="CSharpProfile">
+      <elementDefinition Id="74a07278-98ca-400f-8f0e-f2fe872928f6" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="85bdb830-50c5-468e-9b4d-6bd62c5ea374">
+          <propertyInstance Id="381abe06-2c45-4bdf-8ace-558a6efa487d" name="BaseName">
+            <elementDefinition Id="11c267b2-8121-4e4b-b7bf-0bca92bde398" />
+          </propertyInstance>
+          <elementDefinition Id="e635251e-de70-41b2-a0e3-5151e61defaf" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="745a6794-09b5-4c47-94e8-20084c77d757">
+          <propertyInstance Id="d6f1aaeb-1eb7-42ec-bf78-6fe4c12301c8" name="ClrAttributes">
+            <elementDefinition Id="5ee980f2-079f-4b1b-bc44-85e62cb874c1" />
+          </propertyInstance>
+          <elementDefinition Id="374b2007-edd9-4412-84e4-cf147b48edbd" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="51fe503f-39c8-4d40-98e2-3b2a9733a610">
+          <propertyInstance Id="69d68e60-37f5-442c-89a7-7fb8a1e7fcc7" name="Usings">
+            <elementDefinition Id="c7603ec8-f812-4b22-9191-96022e155edb" />
+          </propertyInstance>
+          <elementDefinition Id="13006c58-224b-4a85-952d-b0e48eed1368" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance Id="44f4bedb-3322-4dc4-a20e-5a351c10dcd6" name="TextTemplateBindings" profile="TextTemplateBindings">
+      <elementDefinition Id="b284775f-41b5-4381-ad3a-37d7f0cb92af" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="3ef89dad-24f8-4863-8512-07b1ecc0057a">
+          <propertyInstance Id="4a0316be-b831-45a9-a48a-edd02ba89d81" name="Alias" value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate">
+            <elementDefinition Id="abc1b6ef-7a07-40b7-a65c-5460b217c7bd" />
+          </propertyInstance>
+          <elementDefinition Id="7b09282e-b91c-4bbc-a10e-679fcbd60a67" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="97ccbabe-ff46-45cb-bbcb-29f697bf03f1">
+          <propertyInstance Id="7654edaa-49ce-40de-8ef8-bc27365f0805" name="TemplateFilePath" value="ClassTemplate=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4">
+            <elementDefinition Id="d8160455-f71e-4f25-853b-cf094042b9b5" />
+          </propertyInstance>
+          <elementDefinition Id="5a9d40dd-98ba-4752-83cf-26c0df721512" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="6c290710-95b1-44ac-b0e8-12a23506cb77">
+          <propertyInstance Id="e8782270-a3ae-4f2a-bf54-1c6f53f5a040" name="ProjectPath" value="ClassTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|EnumTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|InterfaceTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|StructTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj">
+            <elementDefinition Id="c824c860-d636-4a33-81cc-f012355ba9ef" />
+          </propertyInstance>
+          <elementDefinition Id="eb388664-2d50-4c57-a325-94eee0c206e2" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="72c04ece-44b3-489c-9698-b0df97cee35d">
+          <propertyInstance Id="332a3172-6091-4cd9-b3e1-dbfd909a46bf" name="TargetDirectory" value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}">
+            <elementDefinition Id="fc0d3d79-e5c9-4a8e-9272-aaf9687caf13" />
+          </propertyInstance>
+          <elementDefinition Id="7f7a65b7-7e97-4393-9238-47ef1c761be0" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="b69dab6c-68b3-47d8-a552-9056ac9a99b5">
+          <propertyInstance Id="a503077a-fa3b-4333-8a23-e38fedfc8558" name="TargetName" value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}">
+            <elementDefinition Id="d92f0753-491e-4880-8ae7-37da8ef868c0" />
+          </propertyInstance>
+          <elementDefinition Id="11ff159e-9bb6-4bb3-9e3a-afa8a1a0345e" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="6b17c9b9-e865-44f5-ad04-c48a023f28fa">
+          <propertyInstance Id="55aba761-7360-470d-9bf9-b592524245af" name="Overwrite" value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True">
+            <elementDefinition Id="19de722e-43a1-4520-aa82-05e8d5745cf0" />
+          </propertyInstance>
+          <elementDefinition Id="6f2759c7-3e8d-4f60-ab83-61c2cbcce1f3" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="0ec4ce8b-8fff-4cbf-85f3-7337a760a99c">
+          <propertyInstance Id="383b40f9-237c-4bb7-a469-7ff9c5661d20" name="Parameters">
+            <elementDefinition Id="f14068e3-fee9-4002-9030-38811757a7fe" />
+          </propertyInstance>
+          <elementDefinition Id="49c67e91-3a4c-41f1-95f9-896709da19d2" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="d87ba7e6-bbe2-4d5a-b841-8660036b459e" name="Student" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="677bffb5-e610-443e-ac0c-af901d8f63cb" />
+        <ownedAttributesInternal>
+          <property Id="f3e7118f-0c11-46fc-ba57-3eb5b5e2ecc6" name="StuNo" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>学号</description>
+            <elementDefinition Id="a44812ec-f3f6-44e0-a1b9-92430446df0f" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="e7e802b7-3aca-4c5a-921f-3c297bef4f6e" name="Name" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>姓名</description>
+            <elementDefinition Id="f7ce31dd-ef45-4840-8479-81601f7d95a9" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="a47cb219-9e46-4f1a-afc1-26c7b57670bd" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+          <property Id="b1ba4e1a-6f95-42b1-8cb8-ef848c52caef" name="Age" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>年龄</description>
+            <elementDefinition Id="15f9a237-e150-4b34-aa96-3826ed1e6196" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="a202d6e4-5461-4274-b0d4-889b1e97c507" LastKnownName="Integer" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="06c973d8-a0e6-483a-8a5d-628e11a38372" name="ShowMe" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>显示当前对象内容</description>
+            <elementDefinition Id="7b2481d0-ef30-4243-95e5-091c69e26001" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="36124155-c121-48f8-9476-5f68f3a8d608" direction="Return">
+                  <elementDefinition Id="c76930a3-66c8-482f-acef-3db80aedb1db" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="880c9cc5-6f5d-4b76-9461-949054645bbf" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="169162dc-12d5-4680-908d-76450c95c0a3" name="Student" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="180a6a2f-effc-496f-aa60-a636bc77f79d" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="4975ba38-b711-40b8-b741-dc6adbbedae9" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="8596f01f-9029-40a8-a36f-634563e61b9b" />
+          </operation>
+          <operation Id="f92a3f1c-1a6e-488d-9721-61091db0bf4e" name="Student" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>有三个参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="1df554d9-cb50-4f26-bf51-5ed11f7c61db" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="45424ea2-8b85-4e31-9eb0-9e913d1ea93c" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="4f51ee96-31af-437f-bbd3-3e178f1b420c" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="61f56eab-a7b3-4ca8-816b-9a48d9633a6a" name="stuNo" direction="In">
+                  <elementDefinition Id="489fa13a-5a87-4e41-bf49-3fbbbd2f56f4" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="124802ff-db8b-4a50-8d2a-7f17d7a4df5e" name="name" direction="In">
+                  <elementDefinition Id="f8b3930d-6b0c-4e95-872b-ab6b7477c834" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="6991a892-a611-475a-91eb-0359dd0c73e5" name="age" direction="In">
+                  <elementDefinition Id="5217a350-fbbb-4d69-ada3-7561ba36c47d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="a202d6e4-5461-4274-b0d4-889b1e97c507" LastKnownName="Integer" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="c106c42f-00e1-4ca8-b992-6d2a0940bcfb" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="a47cb219-9e46-4f1a-afc1-26c7b57670bd" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="a202d6e4-5461-4274-b0d4-889b1e97c507" name="Integer" isAbstract="false" isLeaf="false" cachedFullName="Integer">
+        <elementDefinition Id="220a3521-e091-4221-bae9-3ef9018e845c" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="880c9cc5-6f5d-4b76-9461-949054645bbf" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="d9a45e42-b65f-478e-8abd-9b01d83b16fd" name="Database" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>数据仓库</description>
+        <elementDefinition Id="55e98162-b6bc-4e1c-9eb7-734eb314ffbd" />
+        <targetEnds>
+          <association Id="b3629db7-af01-4681-8957-8ae0060d0db3" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="d87ba7e6-bbe2-4d5a-b841-8660036b459e" LastKnownName="Student" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f4db39c6-9872-48d7-9a0b-c707b52f5861" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <lowerValueInternal>
+                    <literalString Id="0b18d016-6fc2-4347-9780-96a31557eabf" name="Lower" value="*">
+                      <elementDefinition Id="5357cc78-8e1b-48ab-bd08-b440350eb6ab" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="a1410e5c-d7d6-4130-8f8d-0fe69ee8861b" name="Upper" value="*">
+                      <elementDefinition Id="4eebf8b2-3047-4e9e-88ce-67e9ead5c569" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="e7293dba-beaf-48d9-90b5-b93d15561cfc" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="730256a4-6b53-4824-ad82-ad612bdcee98" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="deeb5c94-2745-42b1-8d50-5f39980a6473" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="55054a05-a3f9-48d2-87cb-b3a2aba0255a" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="cb72784f-aeb5-4d26-8415-e606bd6bfdf8" name="Students" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <lowerValueInternal>
+              <literalString Id="dad438c2-04d4-4bfa-96c1-0a54450832a6" name="Lower" value="*">
+                <elementDefinition Id="461e5e7d-f026-410d-bb0e-e0f32bc1be6f" />
+              </literalString>
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString Id="f02dc913-bc51-41f6-ac16-c032f1a29c6e" name="Upper" value="*">
+                <elementDefinition Id="c66bcdec-46ca-4390-b664-8088e0281bac" />
+              </literalString>
+            </upperValueInternal>
+            <elementDefinition Id="89e9d046-8987-4a8a-90ce-ace4b7574556" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="84bac841-679f-426f-b768-1601bd420310" LastKnownName="Student" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="9c4dfec3-1184-4206-84b7-c1007bba9ce8" name="Database" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <elementDefinition Id="e8e1af93-3965-4c10-a445-0d9ec6b57b43" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="84bac841-679f-426f-b768-1601bd420310" name="Student" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Student">
+        <elementDefinition Id="677bffb5-e610-443e-ac0c-af901d8f63cb" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="561a5d9f-d087-4614-a01d-d2b3a5715ff8" name="StudentDAO" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>查询所有学生</description>
+        <elementDefinition Id="dd7ac146-5619-4584-b943-7c902f4b3a41" />
+        <suppliersInternal>
+          <dependency Id="d15fa2fb-f8ae-4236-98f3-8c25eade7219">
+            <classMoniker Id="d87ba7e6-bbe2-4d5a-b841-8660036b459e" LastKnownName="Student" />
+            <elementDefinition Id="9a5b4e6a-0948-4f03-8553-4a025bd5d29c" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association Id="fabd1061-821e-4338-bda7-7224781f9cd5" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="d9a45e42-b65f-478e-8abd-9b01d83b16fd" LastKnownName="Database" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="36abe491-94c3-4c77-a5bf-5fd670cf1637" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="97d5d7d3-70b0-4e29-a7de-3340ced68ba4" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="5cdebbb9-0246-4d30-ba28-c15b326bae57" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <lowerValueInternal>
+                    <literalString Id="f6ad7d09-de6b-4f7f-87b7-42c518214ef1" name="Lower" value="1">
+                      <elementDefinition Id="1b7d02b1-ccb8-49b0-9c9c-584c723ebee1" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="34d0086b-55d4-4752-988f-92eca5d62667" name="Upper" value="1">
+                      <elementDefinition Id="9e950154-2397-48c2-99a6-ed68da88d146" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="c511f95b-8f80-4429-9fd4-788c30f69b13" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="d3ef31c0-e85c-4b94-9739-10382f12c68c" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="1ee164c6-db57-4720-80de-09c8a9a9400e" name="db" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="b7278f34-0b3d-46e9-bf91-c28c46c00145" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="b5bb2a16-74b2-45e4-b285-25ed4a4acaab" LastKnownName="Database" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="3cc72433-cca7-4084-8a1e-5181d0b37514" name="StudentDAO" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <elementDefinition Id="bed1184a-8f9f-4462-aa3d-f4fefd04c0c9" />
+          </operation>
+          <operation Id="f09dbc4e-118f-4881-9e97-874f81d8a94d" name="Insert" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>增加学生信息</description>
+            <elementDefinition Id="55364e29-f204-427b-8df9-aa06b1ed8383" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4814ecdc-7118-4221-8bbc-f8e6ecff4cb3" name="stu" direction="In">
+                  <elementDefinition Id="27d26ec4-80d4-4961-9195-e551d6ea10a9" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="84bac841-679f-426f-b768-1601bd420310" LastKnownName="Student" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="c4523412-e2c9-4e3c-bbda-184ed15fa4d8" direction="Return">
+                  <elementDefinition Id="010a5f71-216e-44f9-97af-b5fe7d21f939" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="524fcea1-27d6-4cc5-aec7-d5a7c16c4080" LastKnownName="Boolean" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="67e24cbc-4136-4248-8e86-2091a8ce5696" name="SelectAll" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="524f42f9-3911-4831-aba6-6cf5dd708f5d" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="40115ab3-f8b6-4018-adad-7c31f88f6401" direction="Return">
+                  <lowerValueInternal>
+                    <literalString Id="0f9e0d83-151c-4052-8495-518e2f6dedc6" name="Lower" value="*">
+                      <elementDefinition Id="c527d2e9-09cc-4719-bfb4-f1cd1fdf1057" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="5dd8b52a-2ead-4078-be60-b6ef205a097f" name="Upper" value="*">
+                      <elementDefinition Id="c01b6fa9-e03c-4721-9f3e-4e3dfe571db4" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="842f36ab-929d-496d-b424-c8568ed0aa8b" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="a1da3d66-d44f-4392-afed-a35cd4b2e867" LastKnownName="Student" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="b5bb2a16-74b2-45e4-b285-25ed4a4acaab" name="Database" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Database">
+        <elementDefinition Id="55e98162-b6bc-4e1c-9eb7-734eb314ffbd" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="524fcea1-27d6-4cc5-aec7-d5a7c16c4080" name="Boolean" isAbstract="false" isLeaf="false" cachedFullName="Boolean">
+        <elementDefinition Id="8943dc84-709e-4f62-b15a-a3273aa6f165" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="a1da3d66-d44f-4392-afed-a35cd4b2e867" name="Student" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Student">
+        <elementDefinition Id="677bffb5-e610-443e-ac0c-af901d8f63cb" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="9b2b52d0-6d9e-4168-9e61-4bdcf4187aa8" name="MyView" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>呈现的界面</description>
+        <elementDefinition Id="9da998da-20c2-4222-98c0-13f0cbce7004" />
+        <suppliersInternal>
+          <dependency Id="d8d9171c-6cc5-4b46-961a-2c16dec18edd">
+            <classMoniker Id="d87ba7e6-bbe2-4d5a-b841-8660036b459e" LastKnownName="Student" />
+            <elementDefinition Id="648a8a76-0fcf-449b-90e2-417ccc829ca9" />
+          </dependency>
+        </suppliersInternal>
+        <ownedOperationsInternal>
+          <operation Id="e4b33563-7708-4a41-a3df-41b2e50700e7" name="MyView" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="9e652e04-2909-4f6a-83fa-4ed6f2df2d25" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="9f0a039a-2aba-44b4-b756-e1e9fbcb1877" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="f6c1607b-8e75-42a9-85c5-3fed07de6e32" />
+          </operation>
+          <operation Id="43ff8bdc-6ddd-46b5-b4c1-6dc9958ba305" name="CreateStudent" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>创建学生对象</description>
+            <elementDefinition Id="f857aad8-ebb0-4fbd-b965-1d8deb0e335a" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="60d5c085-d831-4ddc-ba13-5932c5be3c05" direction="Return">
+                  <elementDefinition Id="25357c3f-9095-4d89-b7d2-500a0cf4f4cd" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="72d690ad-00d9-45a1-8031-7f2419842b88" LastKnownName="Student" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="d7cc5bf8-aabb-4362-b95a-73767f001d9c" name="PrintStudents" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>打印学生信息</description>
+            <elementDefinition Id="8e211938-c847-4d6e-8d18-04ec64aaf898" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8a216366-f1ca-4391-8eb1-98a7bce00e13" name="stus" direction="In">
+                  <lowerValueInternal>
+                    <literalString Id="3cf0db55-84fd-4f43-acea-09482f3918f7" name="Lower" value="*">
+                      <elementDefinition Id="34cb02b0-4039-4f07-9a67-983964e916a8" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="8414afad-520a-4a92-8a31-da122909897b" name="Upper" value="*">
+                      <elementDefinition Id="d724115c-5368-452a-9d5b-94bd4ffec85f" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="48585840-09ed-4e3b-adc4-43fd77ab1ce0" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="84bac841-679f-426f-b768-1601bd420310" LastKnownName="Student" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="48888e32-8a98-412a-a555-1583096a65cf" name="PrintSuccess" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>打印成功信息</description>
+            <elementDefinition Id="6e4e7368-aace-400a-bf12-4e0fde9a670c" />
+          </operation>
+          <operation Id="4ecf222c-bf6d-4770-ba92-fbcdcafbe1d2" name="PrintFail" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>打印失败信息</description>
+            <elementDefinition Id="78c083ee-a063-4760-a2ff-e1095c6428ef" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="72d690ad-00d9-45a1-8031-7f2419842b88" name="Student" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::Student">
+        <elementDefinition Id="677bffb5-e610-443e-ac0c-af901d8f63cb" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="b4fd5956-5853-466e-9c8e-9b20eb310ec7" name="MyController" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="f41250c0-4ccd-417a-998b-748f29b663da" />
+        <targetEnds>
+          <association Id="4e703d49-c96a-41c8-b262-964cdaa2454a" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+            <classMoniker Id="561a5d9f-d087-4614-a01d-d2b3a5715ff8" LastKnownName="StudentDAO" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="6d01e409-763a-45de-9801-7589dd34876d" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="e676c56c-e3d3-458f-b1be-86ccde9ec56a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a9cc0f86-6acd-4b64-a4b5-c82d1ff9ae47" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="5411adc0-c55f-4eeb-81a5-7301519915e0" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="167b37fd-4334-4338-8d85-4a5b05d8e7ec" />
+          </association>
+          <association Id="8ef01398-4cf8-47d0-8cbd-94d81df7ed97" isDerived="false" sourceEndRoleName="view" targetEndRoleName="MyView" isLeaf="false" isAbstract="false">
+            <classMoniker Id="9b2b52d0-6d9e-4168-9e61-4bdcf4187aa8" LastKnownName="MyView" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="3f3f21a8-c2e5-430b-9f99-e0685ff4179b" name="view" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="85870992-a1dc-4827-86a4-5bb32ff2cd19" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a0ed5af1-268e-4ad1-9ba8-b8ef66360936" name="MyView" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="5437adad-4cff-4d45-90bb-8a50bde3328a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="ceccc8d0-1053-4485-bb86-fe11540728ff" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="0a863854-7bd3-41a1-a5ec-dc3bc9b3dfbd" name="MyView" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="a32973d3-c29f-4cc0-9803-a908590adfcb" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="0cf5a522-f25c-4216-87fd-e09fc4378961" LastKnownName="MyView" />
+            </type_NamedElement>
+          </property>
+          <property Id="5e573483-72ef-4743-adfc-320ae7ca6ee3" name="dao" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="6896d629-501d-41a5-b139-bed827119b4b" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="f2ce703b-0c8d-4404-b3bd-bee1ad1bda49" LastKnownName="StudentDAO" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="a657ad83-6188-4918-a0b1-6152dba77c26" name="MyController" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>无参数的构造函数</description>
+            <appliedStereotypesInternal>
+              <stereotypeInstance Id="6695da92-e234-4ab5-a011-9bedc08c131b" name="create" profile="StandardProfileL2">
+                <elementDefinition Id="df85f7fa-9483-4ce4-9168-b101d316b433" />
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <elementDefinition Id="f1399cd5-7b0a-4c15-b758-087e5c154c63" />
+          </operation>
+          <operation Id="75b3d486-1b28-4a2c-922d-63cc9faebf8e" name="Start" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <description>程序的开始</description>
+            <elementDefinition Id="3375afd6-efeb-4113-b6be-62dadc5d2018" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="0cf5a522-f25c-4216-87fd-e09fc4378961" name="MyView" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::MyView">
+        <elementDefinition Id="9da998da-20c2-4222-98c0-13f0cbce7004" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="f2ce703b-0c8d-4404-b3bd-bee1ad1bda49" name="StudentDAO" isAbstract="false" isLeaf="false" cachedFullName="ModelingProject1::StudentDAO">
+        <elementDefinition Id="dd7ac146-5619-4584-b943-7c902f4b3a41" />
+      </referencedType>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="fdceeb9e-f221-4af3-8e1b-176bcbf071c8" name="ModelingProject1">
+    <elementDefinition Id="2568de0b-47cc-4e9f-83e0-0ffbf501f780" />
+    <profileInstances>
+      <packageHasProfileInstances Id="9d1a1859-6da8-4ab5-aaa1-78194d0c9b0e">
+        <profileInstance Id="bb940385-d1c9-4a5d-a6c9-641917b3f67a" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="02bc4f59-d506-4080-bad5-34213aeb1ccd">
+        <profileInstance Id="3aef50cc-8cef-4942-a1c4-eb96dba378f9" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="53a54c4a-2843-4798-86a3-9bceb9f4501e">
+        <profileInstance Id="2c276949-cc5a-4777-ab27-f4fa00541d2b" name="CSharpProfile">
+          <elementDefinition Id="5cecbaf0-ea23-445a-8f57-80863c22b9b6" />
+        </profileInstance>
+        <elementDefinition Id="6b1e628d-1f88-4f28-bde0-ef6526afd289" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="1582f012-bcec-4563-a931-5d5ceb683c1e">
+        <profileInstance Id="515610bf-4911-4c88-acc7-ea185620c45a" name="TextTemplateBindings">
+          <elementDefinition Id="f013830e-be3b-494f-b47d-0ef7b7ea20ff" />
+        </profileInstance>
+        <elementDefinition Id="16b76e5a-b0da-428a-a244-8bf2031565c0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</logicalClassDesignerModel>

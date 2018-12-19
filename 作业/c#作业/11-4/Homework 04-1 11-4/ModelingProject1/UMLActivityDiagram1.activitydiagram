@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityRootModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="f734c350-efa9-4171-88dc-27d52932d55c" name="Activity1" linkedPackageId="1e4009a0-699d-41da-a268-9dcda1a805a2" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner">
+  <ownedCommentsInternal>
+    <comment Id="fc2f21d5-18d5-45b8-9a01-0bcb1a74aff7">
+      <elementDefinition Id="e002a7af-20c7-4c4f-9e03-717428866552" />
+      <body>判断输入的用户名跟密码是否都为admin</body>
+      <annotatedElements>
+        <decisionNodeMoniker Id="c78461af-9df2-40dd-a3c9-6266efc37ac0" LastKnownName="Decision1" />
+      </annotatedElements>
+    </comment>
+    <comment Id="0a79dc6d-f172-4d48-aa47-f3a844f6bd35">
+      <elementDefinition Id="71a34a08-5856-4513-98f1-1ab2284d6be2" />
+      <body>判断用户名是否为admin
+</body>
+      <annotatedElements>
+        <decisionNodeMoniker Id="736d4d8b-75c3-486b-ab6b-a93669483611" LastKnownName="Decision2" />
+      </annotatedElements>
+    </comment>
+    <comment Id="97cb5663-395e-41b2-a75d-b07b234f3458">
+      <elementDefinition Id="92ac35c2-7143-49f6-a3cf-720940bfdae8" />
+      <body>判断密码是否为123</body>
+      <annotatedElements>
+        <decisionNodeMoniker Id="83b26909-446f-40d8-803a-595593682575" LastKnownName="Decision3" />
+      </annotatedElements>
+    </comment>
+    <comment Id="3f35ad9c-b4e1-423d-acda-e730aa8a797f">
+      <elementDefinition Id="9119d3cc-d44c-41f7-b51d-137d0dead741" />
+      <body>str=“y”</body>
+      <annotatedElements>
+        <opaqueActionMoniker Id="e67d8b5d-1126-437e-ae40-d5d968a35419" LastKnownName="定义字符串str" />
+      </annotatedElements>
+    </comment>
+    <comment Id="06608651-d3d8-417a-892e-88ee891eb805">
+      <elementDefinition Id="69e8357f-589e-416c-9bea-9fd09db102ef" />
+      <body>user</body>
+      <annotatedElements>
+        <opaqueActionMoniker Id="c68f9d6a-87fb-41a5-858a-6439a4044944" LastKnownName="接收输入的数据" />
+      </annotatedElements>
+    </comment>
+    <comment Id="6d3dcb77-99dc-4bb9-8540-2d995d937508">
+      <elementDefinition Id="fd37d74b-3609-45f2-abe7-9d07378ebe2c" />
+      <body>password
+</body>
+      <annotatedElements>
+        <opaqueActionMoniker Id="5fbf3839-cf76-4899-971c-b13cb3736210" LastKnownName="接收输入的数据" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="e04067e2-8692-4795-983e-35ee0726f545">
+      <profileInstance Id="94ac5c0c-fd32-4e1c-9c82-eec5ffff792d" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="d36b3620-92ef-4f41-8e72-b087f57a2b02">
+      <profileInstance Id="6ec4c764-ad6b-43a9-8f3d-1c8358047733" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <activityRootModelHasActivity>
+      <activity Id="2a29c423-40eb-4a36-a225-7c4d6fa2989f" name="Activity1" isAbstract="false" isLeaf="false" isActiveClass="false" isReentrant="false" isReadOnly="false" isSingleExecution="false">
+        <elementDefinition Id="b4f1a2c9-4eeb-40bd-a59a-7222c70b5d72" />
+        <nodes>
+          <initialNode Id="f5f88ac1-4add-45a8-a777-0cf566cb5bd9" name="Initial1" isLeaf="false">
+            <elementDefinition Id="37b7e9b4-ca9b-4dd7-95bd-f30e72b71306" />
+            <flowNodeTargets>
+              <controlFlow Id="5da9881c-769e-4e4d-8d04-123d09e8cc4f" isLeaf="false">
+                <opaqueActionMoniker Id="e67d8b5d-1126-437e-ae40-d5d968a35419" LastKnownName="定义字符串str" />
+                <elementDefinition Id="9d8a2ca4-52fd-484a-ad81-706684c3d42a" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction Id="c68f9d6a-87fb-41a5-858a-6439a4044944" name="接收输入的数据" isLeaf="false">
+            <elementDefinition Id="c7ac98fb-2da9-416b-8a26-aed972a96ec2" />
+            <flowNodeTargets>
+              <controlFlow Id="c8d348ff-b66c-4048-b56c-665553c1b95f" isLeaf="false">
+                <opaqueActionMoniker Id="aad919c8-0e12-4531-8f74-b8dcb760c460" LastKnownName="输出提示信息" />
+                <elementDefinition Id="c5bec57d-1c1d-474a-9286-89506e54910e" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="c78461af-9df2-40dd-a3c9-6266efc37ac0" name="Decision1" isLeaf="false">
+            <elementDefinition Id="244870ac-ade2-40a4-a028-3c3392fc2157" />
+            <flowNodeTargets>
+              <controlFlow Id="892b859f-3a98-4c50-8005-635eaa6661f2" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="e28d453d-540f-4967-95f2-e3f3c9adee9e" LastKnownName="输出“管理员登录成功”" />
+                <elementDefinition Id="bb606d8f-181f-494c-9efb-a26b6b9656c1" />
+              </controlFlow>
+              <controlFlow Id="429d1b2c-058b-4faa-9016-fc7af26fb4a0" guard="否" isLeaf="false">
+                <decisionNodeMoniker Id="736d4d8b-75c3-486b-ab6b-a93669483611" LastKnownName="Decision2" />
+                <elementDefinition Id="23497b49-86c1-4dad-97bc-53de31a9ea3a" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction Id="e28d453d-540f-4967-95f2-e3f3c9adee9e" name="输出“管理员登录成功”" isLeaf="false">
+            <elementDefinition Id="2b91df41-7a12-4347-8abe-c75700dd7504" />
+            <flowNodeTargets>
+              <controlFlow Id="e3e03999-b488-4d66-8279-4ee2136ae766" isLeaf="false">
+                <activityFinalNodeMoniker Id="e9d8d730-c8c1-43d4-8da5-fc933cf7d668" LastKnownName="ActivityFinal1" />
+                <elementDefinition Id="f67502ac-3c54-485c-af7a-3c9d11884e37" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="736d4d8b-75c3-486b-ab6b-a93669483611" name="Decision2" isLeaf="false">
+            <elementDefinition Id="2c4315c3-e68a-4002-b053-45c46db91ffa" />
+            <flowNodeTargets>
+              <controlFlow Id="cd9401d1-1d66-4037-b082-232e49391548" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="ef4e1fa7-764e-4068-afda-a443339ed025" LastKnownName="输出“密码错误，登录失败”" />
+                <elementDefinition Id="1ed6520f-e3e0-4802-ac62-15ee9d5b3c5a" />
+              </controlFlow>
+              <controlFlow Id="3c6bad72-de16-409a-8d0f-4bafaabbf3dd" guard="否" isLeaf="false">
+                <decisionNodeMoniker Id="83b26909-446f-40d8-803a-595593682575" LastKnownName="Decision3" />
+                <elementDefinition Id="7d532bb8-89fe-4952-acfd-49d4daab9cd2" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction Id="ef4e1fa7-764e-4068-afda-a443339ed025" name="输出“密码错误，登录失败”" isLeaf="false">
+            <elementDefinition Id="08009ee0-a752-4d80-ba47-87f371942ea4" />
+            <flowNodeTargets>
+              <controlFlow Id="de710bb2-c30a-4c33-85f4-bca9249e469f" isLeaf="false">
+                <mergeNodeMoniker Id="9545b405-cb9d-4253-b5b8-c16a8dd0961e" LastKnownName="Merge1" />
+                <elementDefinition Id="2c325ed3-8f08-4060-a43c-1578e21b3540" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="83b26909-446f-40d8-803a-595593682575" name="Decision3" isLeaf="false">
+            <elementDefinition Id="19dd71c0-3773-4216-81f3-34ea996709bd" />
+            <flowNodeTargets>
+              <controlFlow Id="a304900f-ba3c-41a2-8d12-57fc19775b33" guard="否" isLeaf="false">
+                <opaqueActionMoniker Id="cc70ed88-460d-4f17-8205-b9706e01ba62" LastKnownName="输出“密码错误，登录失败”" />
+                <elementDefinition Id="77b3f81b-0768-4243-aac5-7929e546473b" />
+              </controlFlow>
+              <controlFlow Id="c09bf3f2-68c8-44fa-a0db-42aa69a9d64e" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="e7f4698a-1a94-44b1-84a2-504026d56583" LastKnownName="输出&quot;普通会员登录成功&quot;" />
+                <elementDefinition Id="2342137e-1571-452c-b089-1397336dcb2c" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <mergeNode Id="9545b405-cb9d-4253-b5b8-c16a8dd0961e" name="Merge1" isLeaf="false">
+            <elementDefinition Id="1731515e-6bae-4531-8a99-4ced7987e27a" />
+            <flowNodeTargets>
+              <controlFlow Id="ca41b3fe-3140-4967-8228-52fa039e40b7" isLeaf="false">
+                <opaqueActionMoniker Id="70ed2120-efa2-4c0a-9086-5ae3411e5f69" LastKnownName="输出是否重新登录的提示信息" />
+                <elementDefinition Id="bf7ae906-deee-40e7-8ed1-9f2190c2021d" />
+              </controlFlow>
+            </flowNodeTargets>
+          </mergeNode>
+          <activityFinalNode Id="e9d8d730-c8c1-43d4-8da5-fc933cf7d668" name="ActivityFinal1" isLeaf="false">
+            <elementDefinition Id="4d90c02e-ac00-46b1-93c8-ee115987c119" />
+          </activityFinalNode>
+          <opaqueAction Id="e67d8b5d-1126-437e-ae40-d5d968a35419" name="定义字符串str" isLeaf="false">
+            <elementDefinition Id="aeb2cac0-b83e-42bd-a9c5-5f56211fe908" />
+            <flowNodeTargets>
+              <controlFlow Id="4a6914cb-f501-46ff-bcd3-8ef91e4f4291" isLeaf="false">
+                <opaqueActionMoniker Id="22b1dd66-d145-4270-9901-cf4914b8f0bc" LastKnownName="判断str是否等于y" />
+                <elementDefinition Id="1e6f7591-5ceb-4a27-8f39-fed0d31b9b29" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="34897b98-6b6d-415b-9490-c84d640fb60c" name="Decision4" isLeaf="false">
+            <elementDefinition Id="eaaaf302-1b87-4d20-92f1-ed891ea55d70" />
+            <flowNodeTargets>
+              <controlFlow Id="e9aac7d7-050c-4559-911f-57fcd3dfa06c" guard="是" isLeaf="false">
+                <opaqueActionMoniker Id="07867fc1-268c-414b-9370-a8c4fc982d18" LastKnownName="输出提示信息" />
+                <elementDefinition Id="0b32a4e1-95c8-400d-936d-0e7d2e8e0ca6" />
+              </controlFlow>
+              <controlFlow Id="74f33d1e-3526-4d5f-af74-323a0e333a6e" guard="否" isLeaf="false">
+                <activityFinalNodeMoniker Id="e9d8d730-c8c1-43d4-8da5-fc933cf7d668" LastKnownName="ActivityFinal1" />
+                <elementDefinition Id="c4a82439-2d42-43d1-8f74-6b4183810344" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction Id="07867fc1-268c-414b-9370-a8c4fc982d18" name="输出提示信息" isLeaf="false">
+            <elementDefinition Id="7c3f6f1c-2cb7-4a16-86d3-156337fd9f3e" />
+            <flowNodeTargets>
+              <controlFlow Id="7a20402c-ed4a-46ce-b78c-3b63d781b238" isLeaf="false">
+                <opaqueActionMoniker Id="c68f9d6a-87fb-41a5-858a-6439a4044944" LastKnownName="接收输入的数据" />
+                <elementDefinition Id="0fb7b44b-00c0-452d-b7c3-c0864b36692d" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="5fbf3839-cf76-4899-971c-b13cb3736210" name="接收输入的数据" isLeaf="false">
+            <elementDefinition Id="374d1a4b-cebd-4228-b845-4c4cdf245479" />
+            <flowNodeTargets>
+              <controlFlow Id="0678f9c6-a656-4313-9fa5-c753d7f2000a" isLeaf="false">
+                <decisionNodeMoniker Id="c78461af-9df2-40dd-a3c9-6266efc37ac0" LastKnownName="Decision1" />
+                <elementDefinition Id="cf449c8e-f4fb-41e8-a2cd-0373de41f56b" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="aad919c8-0e12-4531-8f74-b8dcb760c460" name="输出提示信息" isLeaf="false">
+            <elementDefinition Id="b6405480-ac76-44c4-9085-ee950648d00e" />
+            <flowNodeTargets>
+              <controlFlow Id="ddbea6ea-452a-4294-a5a7-b89d3d1f78db" isLeaf="false">
+                <opaqueActionMoniker Id="5fbf3839-cf76-4899-971c-b13cb3736210" LastKnownName="接收输入的数据" />
+                <elementDefinition Id="73b24817-3bc4-4d18-9863-31174fcf17d0" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="e7f4698a-1a94-44b1-84a2-504026d56583" name="输出&quot;普通会员登录成功&quot;" isLeaf="false">
+            <elementDefinition Id="baae426a-66a5-4396-96e4-ad52804b7a88" />
+            <flowNodeTargets>
+              <controlFlow Id="8d3bb5d6-e64e-4226-ad5b-f7c3da7111bb" isLeaf="false">
+                <activityFinalNodeMoniker Id="e9d8d730-c8c1-43d4-8da5-fc933cf7d668" LastKnownName="ActivityFinal1" />
+                <elementDefinition Id="039095a7-544d-412a-9238-c27b13e8bb58" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="cc70ed88-460d-4f17-8205-b9706e01ba62" name="输出“密码错误，登录失败”" isLeaf="false">
+            <elementDefinition Id="4ebecfee-786f-4f74-8645-f34c1cc4af6b" />
+            <flowNodeTargets>
+              <controlFlow Id="58dc671c-72f5-4a86-8800-d74bc505bbd4" isLeaf="false">
+                <mergeNodeMoniker Id="9545b405-cb9d-4253-b5b8-c16a8dd0961e" LastKnownName="Merge1" />
+                <elementDefinition Id="7c1d9ea4-6d41-46b8-8952-31f98b249266" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="70ed2120-efa2-4c0a-9086-5ae3411e5f69" name="输出是否重新登录的提示信息" isLeaf="false">
+            <elementDefinition Id="91b1e9ca-111c-4f32-a346-56809610c3b9" />
+            <flowNodeTargets>
+              <controlFlow Id="abb0607e-472a-4d94-ad93-6a81c6cfbba6" isLeaf="false">
+                <opaqueActionMoniker Id="12afbfe4-cbc3-4015-b8ae-77d6727c661b" LastKnownName="接收输入的信息" />
+                <elementDefinition Id="11859683-53cc-4bb6-b6c9-3ec0d2c80d47" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="12afbfe4-cbc3-4015-b8ae-77d6727c661b" name="接收输入的信息" isLeaf="false">
+            <elementDefinition Id="b6a8a2ef-b62f-4ba7-8523-72040b135722" />
+            <flowNodeTargets>
+              <controlFlow Id="826c608c-a2e2-4cc9-b984-7e8e9f29a7a4" isLeaf="false">
+                <opaqueActionMoniker Id="22b1dd66-d145-4270-9901-cf4914b8f0bc" LastKnownName="判断str是否等于y" />
+                <elementDefinition Id="6de0e7bf-601e-431e-b0e9-bab327ce046f" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="22b1dd66-d145-4270-9901-cf4914b8f0bc" name="判断str是否等于y" isLeaf="false">
+            <elementDefinition Id="c960de0c-2ae4-4242-b814-60068007f34a" />
+            <flowNodeTargets>
+              <controlFlow Id="0750e6d7-0094-44e7-a965-dced4f09ec96" isLeaf="false">
+                <decisionNodeMoniker Id="34897b98-6b6d-415b-9490-c84d640fb60c" LastKnownName="Decision4" />
+                <elementDefinition Id="7c21577b-cd52-4fc0-a4d4-4eb6592da081" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+        </nodes>
+      </activity>
+    </activityRootModelHasActivity>
+  </packagedElements>
+  <package Id="1e4009a0-699d-41da-a268-9dcda1a805a2" name="ModelingProject1">
+    <elementDefinition Id="022aab98-6042-4637-b8ae-0a4bba7f181d" />
+  </package>
+</activityRootModel>

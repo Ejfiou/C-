@@ -1,0 +1,106 @@
+E:\C#课程\AAA\Student\BLL\bin\Debug\BLL.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\BLL.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALAbstractFactory.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALMSSQL.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALMSSQLFactory.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALMySQL.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALMySQLFactory.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\IBLL.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\IDAL.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\ModelStu.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\ModelStuView.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\MySql.Data.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\EntityFramework.dll
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALAbstractFactory.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALMSSQLFactory.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALMSSQL.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALMySQLFactory.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\DALMySQL.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\IBLL.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\IDAL.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\ModelStuView.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\ModelStu.pdb
+E:\C#课程\AAA\Student\BLL\bin\Debug\MySql.Data.xml
+E:\C#课程\AAA\Student\BLL\bin\Debug\EntityFramework.xml
+E:\C#课程\AAA\Student\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\C#课程\AAA\Student\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\C#课程\AAA\Student\BLL\obj\Debug\BLL.dll
+E:\C#课程\AAA\Student\BLL\obj\Debug\BLL.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\BLL.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\BLL.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALAbstractFactory.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALMSSQL.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALMSSQLFactory.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALMySQL.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALMySQLFactory.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\IBLL.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\IDAL.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\ModelStu.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\ModelStuView.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\MySql.Data.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\EntityFramework.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALAbstractFactory.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALMSSQLFactory.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALMSSQL.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALMySQLFactory.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\DALMySQL.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\IBLL.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\IDAL.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\ModelStuView.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\MySql.Data.xml
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\EntityFramework.xml
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\obj\Debug\BLL.dll
+C:\Users\13695\Documents\Tencent Files\1369540047\FileRecv\Student\BLL\obj\Debug\BLL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\BLL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\BLL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALAbstractFactory.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALMSSQL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALMSSQLFactory.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALMySQL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALMySQLFactory.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\IBLL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\IDAL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\ModelStu.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\ModelStuView.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\MySql.Data.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\EntityFramework.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALAbstractFactory.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALMSSQLFactory.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALMSSQL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALMySQLFactory.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\DALMySQL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\IBLL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\IDAL.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\ModelStuView.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\ModelStu.pdb
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\MySql.Data.xml
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\EntityFramework.xml
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\obj\Debug\BLL.dll
+C:\Users\13695\Documents\Visual Studio 2015\Projects\Student\BLL\obj\Debug\BLL.pdb
+E:\Student\BLL\bin\Debug\BLL.dll
+E:\Student\BLL\bin\Debug\BLL.pdb
+E:\Student\BLL\bin\Debug\DALAbstractFactory.dll
+E:\Student\BLL\bin\Debug\DALMSSQL.dll
+E:\Student\BLL\bin\Debug\DALMSSQLFactory.dll
+E:\Student\BLL\bin\Debug\IBLL.dll
+E:\Student\BLL\bin\Debug\IDAL.dll
+E:\Student\BLL\bin\Debug\ModelStu.dll
+E:\Student\BLL\bin\Debug\ModelStuView.dll
+E:\Student\BLL\bin\Debug\EntityFramework.dll
+E:\Student\BLL\bin\Debug\DALAbstractFactory.pdb
+E:\Student\BLL\bin\Debug\DALMSSQLFactory.pdb
+E:\Student\BLL\bin\Debug\DALMSSQL.pdb
+E:\Student\BLL\bin\Debug\IBLL.pdb
+E:\Student\BLL\bin\Debug\IDAL.pdb
+E:\Student\BLL\bin\Debug\ModelStuView.pdb
+E:\Student\BLL\bin\Debug\ModelStu.pdb
+E:\Student\BLL\bin\Debug\EntityFramework.xml
+E:\Student\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Student\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Student\BLL\obj\Debug\BLL.dll
+E:\Student\BLL\obj\Debug\BLL.pdb

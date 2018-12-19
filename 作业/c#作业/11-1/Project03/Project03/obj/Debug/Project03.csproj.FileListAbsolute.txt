@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Project03\Project03\bin\Debug\Project03.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Project03\Project03\bin\Debug\Project03.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Project03\Project03\bin\Debug\Project03.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Project03\Project03\obj\Debug\Project03.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Project03\Project03\obj\Debug\Project03.pdb
+E:\c#作业\11-1\Project03\Project03\bin\Debug\Project03.exe.config
+E:\c#作业\11-1\Project03\Project03\obj\Debug\Project03.exe
+E:\c#作业\11-1\Project03\Project03\obj\Debug\Project03.pdb
+E:\c#作业\11-1\Project03\Project03\bin\Debug\Project03.exe
+E:\c#作业\11-1\Project03\Project03\bin\Debug\Project03.pdb
+E:\c#作业\11-1\Project03\Project03\obj\Debug\Project03.csprojResolveAssemblyReference.cache
